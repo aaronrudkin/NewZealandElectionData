@@ -16,6 +16,13 @@
 		script to generate Appendix 1.
 	vi)	Removes the saved model objects.
 
+	If you plan to manually run code, the assumed working directory 
+	is this folder; many file loads use relative paths. Please
+	ensure you have correctly set your path in R.
+
+	Code run in Rscript 3.3.1; Python 2.7.12.
+	
+
 2. Location and contents of scripts:
 	Paper and analysis:
 
