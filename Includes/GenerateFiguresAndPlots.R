@@ -169,7 +169,7 @@ stargazerOverride2 = lm(VotePct ~ CabinetNow + CabinetImportant + CabinetPM + Pa
 rownames(altSpec11CA) = names(altSpec13CA$coefficients[1:14])
 #### 
 
-# Alternate specifications, appendix 3.
+# Alternate specifications, appendix 2.
 stargazer(list(stargazerOverride, altSpec12CA, stargazerOverride, altSpec14CA, stargazerOverride2, altSpec31CA),
           se=list(altSpec11CA[,2], 
                   coeftest(altSpec12CA, sandwich)[,2],
@@ -190,7 +190,7 @@ stargazer(list(stargazerOverride, altSpec12CA, stargazerOverride, altSpec14CA, s
                  indFixEffectCoef,
                  NULL),
           dep.var.labels=c("VotePct", "Pr(Elected)"),
-          title="Alternate Specifications",ci=TRUE,out="appendix3.tex", 
+          title="Alternate Specifications",ci=TRUE,out="appendix2.tex", 
           column.labels=c("Cluster SE", "Incumbent", "Riding FE", "Age OLS", "Ind. Fix Effect", "Age Logit"), 
           #column.separate=c(4,1,1), 
           notes=c("Additional party fixed effects suppresssed","OLS CIs from Heteroskedasticity-robust standard error estimates"), 
@@ -201,7 +201,7 @@ stargazer(list(stargazerOverride, altSpec12CA, stargazerOverride, altSpec14CA, s
 
 # Appendix 4, New Zealand logit pre/post mmp
 stargazer(preMMP, postMMP, title="Cross-Sectional Logit (NZ)",
-          out="appendix4.tex", column.labels=c("Pre-MMP", "Post-MMP"), ci=TRUE, 
+          out="appendix3.tex", column.labels=c("Pre-MMP", "Post-MMP"), ci=TRUE, 
           column.separate=c(1,1, 1, 1), notes=c("Additional party fixed effects suppresssed"), 
           omit=c(".*B.Q.", ".*CA", ".*CCF", ".*N.D.P.", ".*Ref.",".*ACT",".*Alliance",".*GP",".*Mana",".*Maori",".*NL",".*NZF",".*Progressive",".*Social Credit",".*UFNZ"), 
           covariate.labels=c("Cabinet Now", "Cab. Important", "Prime Minister", "Party in Gov't", "Terms Served", "Labour FE", "National FE"), 

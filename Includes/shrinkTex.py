@@ -8,12 +8,12 @@ if not r"\scalebox" in dat:
 else:
 	print "already ok"
 
-dat = open("appendix3.tex","r").read()
+dat = open("appendix2.tex","r").read()
 if not r"\resizebox" in dat:
 	dat = dat.replace(r"\begin{tabular}",r"\resizebox{\textwidth}{!}{\begin{tabular}")
 	dat = dat.replace(r"\end{tabular}",r"\end{tabular}}")
 	print dat
-	with open("appendix3.tex","w") as f:
+	with open("appendix2.tex","w") as f:
 		f.write(dat)
 else:
 	print "already ok"
