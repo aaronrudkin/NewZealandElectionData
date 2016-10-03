@@ -1,0 +1,28 @@
+id, name, nickname
+1, CCF, N.D.P.
+2, CCF, NP
+3, NP, N.D.P.
+4, N.D.P., NP
+5, NP, CCF
+6, N.D.P, CCF
+7, Ref., CA
+8, CA, Cons.
+9, P.C., Cons.
+10, PC Party, Cons.
+11, S.C., SCNU
+12, S.C., Ral. Créd.
+13, Cons., Union
+14, Cons., Lib.-Cons.
+15, Lib, I Lib
+16, Lib, Union
+17, Lib.-Cons., A Conf
+18, I Lib, Lib
+19, A Conf, Lib.-Cons.
+20, Cons., Union
+21, CA, C
+22, C, CA
+23, P.C., C
+24, C, P.C.
+25, Cons., Opp
+26, Opp, Cons.
+27, S.C., ND

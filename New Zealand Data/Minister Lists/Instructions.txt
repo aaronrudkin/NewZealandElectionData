@@ -1,0 +1,9 @@
+All data sets manually transcribed from book or government sources.
+
+Initial sources sometimes had an issue where outgoing governments were marked as elected until the day of the election, the same date the new ministry starts; subtract one day from the outgoing government to ensure they do not show up as "incumbent ministers" during later merge.
+
+Manually code prime ministers and "important" ministers (see notes in merge) as important/pm. 
+
+Coding choice: Do not include Ministers Outside Cabinet or Assistant/Associate Ministers.
+
+Results in fullCabinet.txt

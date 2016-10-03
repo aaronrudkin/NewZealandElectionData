@@ -1,0 +1,1868 @@
+2002-07-27	ACT	PREBBLE, Richard	1	2
+2002-07-27	ACT	HIDE, Rodney	2	2
+2002-07-27	ACT	NEWMAN, Muriel	3	2
+2002-07-27	ACT	FRANKS, Stephen	4	2
+2002-07-27	ACT	AWATERE HUATA, Donna	5	2
+2002-07-27	ACT	CODDINGTON, Deborah	6	2
+2002-07-27	ACT	SHIRLEY, Ken	7	2
+2002-07-27	ACT	ECKHOFF, Gerrard	8	2
+2002-07-27	ACT	ROY, Heather	9	2
+2002-07-27	ACT	WANG, Kenneth	10	0
+2002-07-27	ACT	KING, Paul	11	0
+2002-07-27	ACT	JENNINGS, Owen	12	0
+2002-07-27	ACT	WEBSTER, Penny	13	0
+2002-07-27	ACT	DAVIES, Andrew	14	0
+2002-07-27	ACT	QUAX, Dick	15	0
+2002-07-27	ACT	MATTISON, Nigel	16	0
+2002-07-27	ACT	OLSEN, David Edward	17	0
+2002-07-27	ACT	MARTIN, Willie James	18	0
+2002-07-27	ACT	HACKSHAW, Mary	19	0
+2002-07-27	ACT	THOMPSON, John	20	0
+2002-07-27	ACT	BELTOWSKI, Lech	21	0
+2002-07-27	ACT	REEDER, Joanne	22	0
+2002-07-27	ACT	CAIRNEY, Nicholas	23	0
+2002-07-27	ACT	WILLIAMS, Bruce	24	0
+2002-07-27	ACT	TRASS, Gerald	25	0
+2002-07-27	ACT	JOLLANDS, Andrew	26	0
+2002-07-27	ACT	BEVIN, Bryce	27	0
+2002-07-27	ACT	SCOTT, Ron	28	0
+2002-07-27	ACT	MULCOCK, Diane	29	0
+2002-07-27	ACT	MARSHALL, Shirley	30	0
+2002-07-27	ACT	ANGELL, Juanita	31	0
+2002-07-27	ACT	PETERS, John	32	0
+2002-07-27	ACT	SNELGAR, Glen	33	0
+2002-07-27	ACT	BALL, Matt	34	0
+2002-07-27	ACT	BASSETT, Ray	35	0
+2002-07-27	ACT	BEENTJES, Carl	36	0
+2002-07-27	ACT	COOTE, Michael	37	0
+2002-07-27	ACT	DAWSON, Brian George	38	0
+2002-07-27	ACT	DAWSON, Dianne	39	0
+2002-07-27	ACT	ERSKINE-LEGGET, Ted	40	0
+2002-07-27	ACT	EWING-JARVIE, Simon Antony	41	0
+2002-07-27	ACT	HOWARD, Ted	42	0
+2002-07-27	ACT	HURLEY, Elizabeth	43	0
+2002-07-27	ACT	KING, Dorothy	44	0
+2002-07-27	ACT	NEWMAN, Chris	45	0
+2002-07-27	ACT	O'BRIEN, Chris	46	0
+2002-07-27	ACT	PEPPER, Julie A	47	0
+2002-07-27	ACT	PHISKIE, Peter	48	0
+2002-07-27	ACT	RIDDELL, John G	49	0
+2002-07-27	ACT	ROODT, Robin	50	0
+2002-07-27	ACT	SAGE, Ian	51	0
+2002-07-27	ACT	SNEDDON, Greg	52	0
+2002-07-27	ACT	STEENSON, Graham Douglas	53	0
+2002-07-27	ACT	SWAN, Ian	54	0
+2002-07-27	ACT	TALBOT-KING, Peter	55	0
+2002-07-27	ACT	WATSON, Anthony	56	0
+2002-07-27	ACT	WAUGH, John	57	0
+2002-07-27	ACT	WEBER, Roland	58	0
+2002-07-27	ACT	WEST, Trevor	59	0
+2002-07-27	ACT	WOOD, Alan (Smilie)	60	0
+2002-07-27	GP	FITZSIMONS, Jeanette	1	2
+2002-07-27	GP	DONALD, Rod	2	2
+2002-07-27	GP	BRADFORD, Sue	3	2
+2002-07-27	GP	TANCZOS, Nandor	4	2
+2002-07-27	GP	KEDGLEY, Sue	5	2
+2002-07-27	GP	EWEN-STREET, Ian	6	2
+2002-07-27	GP	LOCKE, Keith	7	2
+2002-07-27	GP	TUREI, Metiria	8	2
+2002-07-27	GP	WARD, Mike	9	2
+2002-07-27	GP	DELAHUNTY, Catherine	10	0
+2002-07-27	GP	SAPSFORD, Roland	11	0
+2002-07-27	GP	WATTS, Meriel Anne	12	0
+2002-07-27	GP	CARAPIET, Jon	13	0
+2002-07-27	GP	DAVIES, Richard	14	0
+2002-07-27	GP	WADE-BROWN, Celia	15	0
+2002-07-27	GP	OLSEN, Cathy	16	0
+2002-07-27	GP	NORMAN, Russel	17	0
+2002-07-27	GP	MCVEAGH, Janine	18	0
+2002-07-27	GP	BROWNING, Steffan	19	0
+2002-07-27	GP	BELCHER, Dayle J	20	0
+2002-07-27	GP	CLENDON, Kei	21	0
+2002-07-27	GP	POTTON, Craig	22	0
+2002-07-27	GP	MUSGRAVE, David	23	0
+2002-07-27	GP	MARTIN, Deborah	24	0
+2002-07-27	GP	TE KEETI, Te Ruruanga	25	0
+2002-07-27	GP	ABEL, Steve	26	0
+2002-07-27	GP	MILLINGTON, Sarah	27	0
+2002-07-27	GP	GREEN, Calvin	28	0
+2002-07-27	GP	HENCKELS, Caro	29	0
+2002-07-27	GP	BUTCHER, Fliss	30	0
+2002-07-27	GP	BERGER, Peter	31	0
+2002-07-27	GP	BLACKMORE, Hana	32	0
+2002-07-27	GP	BODLE, Gareth	33	0
+2002-07-27	GP	BRUCE, Paul	34	0
+2002-07-27	GP	CARSON, Craig	35	0
+2002-07-27	GP	CREIGHTON, Terry	36	0
+2002-07-27	GP	DAVEY, Jan	37	0
+2002-07-27	GP	DE SPA, Paul	38	0
+2002-07-27	GP	DIREEN, Pip	39	0
+2002-07-27	GP	DOUGLAS, Ian G	40	0
+2002-07-27	GP	DYSON, Gaye	41	0
+2002-07-27	GP	ELLEY, Jeanette	42	0
+2002-07-27	GP	FAIRLEY, Don	43	0
+2002-07-27	GP	FISHER, Nick	44	0
+2002-07-27	GP	FRANCIS, Jo	45	0
+2002-07-27	GP	GREEN, Richard A	46	0
+2002-07-27	GP	GREIG, Caroline	47	0
+2002-07-27	GP	GRIFFITHS, Lois	48	0
+2002-07-27	GP	HARPHAM, Perce	49	0
+2002-07-27	GP	HILL, David	50	0
+2002-07-27	GP	HOVERD, Laurie	51	0
+2002-07-27	GP	LEE, Stephen	52	0
+2002-07-27	GP	LOWE, Kate	53	0
+2002-07-27	GP	LOWE, Paul	54	0
+2002-07-27	GP	MACKINTOSH, Rachel	55	0
+2002-07-27	GP	MCCAMMON, Mary	56	0
+2002-07-27	GP	MCKENZIE, Margaret	57	0
+2002-07-27	GP	MITCHELL, Olivia	58	0
+2002-07-27	GP	MORRIS, Matt	59	0
+2002-07-27	GP	NORTON-BROWN, Chris	60	0
+2002-07-27	GP	PALMER-HESKETH, Fraser	61	0
+2002-07-27	GP	PENNELL, Di	62	0
+2002-07-27	GP	ROSE, David	63	0
+2002-07-27	GP	BRIGGS, Christiaan	64	0
+2002-07-27	GP	WILLIAMS, Jane	65	0
+2002-07-27	Progressive	ANDERTON, Jim	1	1
+2002-07-27	Progressive	ROBSON, Matt	2	2
+2002-07-27	Progressive	GILLON, Grant	3	0
+2002-07-27	Progressive	WRIGHT, John Alexander	4	0
+2002-07-27	Progressive	DE RUYTER, Stephnie	5	0
+2002-07-27	Progressive	CAMPBELL, Peter	6	0
+2002-07-27	Progressive	BROWN, Rosie	7	0
+2002-07-27	Progressive	LY, Meng	8	0
+2002-07-27	Progressive	PA'O WILLIAMS, Susi	9	0
+2002-07-27	Progressive	HENRY, Jill	10	0
+2002-07-27	Progressive	CLEARWATER, Phil	11	0
+2002-07-27	Progressive	WILSON, David Angus	12	0
+2002-07-27	Progressive	WHAREWAKA-TOPIA WATTS, Sue Elizabeth	13	0
+2002-07-27	Progressive	TAUIALO-O-LILOMAIAVA, L Pasene	14	0
+2002-07-27	Progressive	LI, Nong	15	0
+2002-07-27	Progressive	PEMBERTON, John	16	0
+2002-07-27	Progressive	PARR, Bruce R	17	0
+2002-07-27	Progressive	SHEPHERD, Vivienne	18	0
+2002-07-27	Progressive	BARNARD, Trevor Lance	19	0
+2002-07-27	Progressive	FRANKLIN, Russell	20	0
+2002-07-27	Progressive	ANDERSON, Annette	21	0
+2002-07-27	Progressive	BAYLY, Adrian James	22	0
+2002-07-27	Progressive	BRADLEY, Victor	23	0
+2002-07-27	Progressive	BROCK, Lyndsay	24	0
+2002-07-27	Progressive	BRYAN, Robert	25	0
+2002-07-27	Progressive	CHEESMAN, Christine	26	0
+2002-07-27	Progressive	CHURTON, Fleur	27	0
+2002-07-27	Progressive	CULVERHOUSE, David	28	0
+2002-07-27	Progressive	DALY, Jamie	29	0
+2002-07-27	Progressive	DICKSON, Clare	30	0
+2002-07-27	Progressive	FOX, Bob	31	0
+2002-07-27	Progressive	EDWARDS, Russell	32	0
+2002-07-27	Progressive	ESPIN, David	33	0
+2002-07-27	Progressive	HENDERSON, Bill	34	0
+2002-07-27	Progressive	IHAIA, Steven Charles	35	0
+2002-07-27	Progressive	JORGENSEN, Frede	36	0
+2002-07-27	Progressive	JOSEPH, Te Pare	37	0
+2002-07-27	Progressive	HENDERSON, Doreen	38	0
+2002-07-27	Progressive	JOWSEY, Toni	39	0
+2002-07-27	Progressive	KANE, Peter David	40	0
+2002-07-27	Progressive	KERR, C	41	0
+2002-07-27	Progressive	KILBRIDE, John	42	0
+2002-07-27	Progressive	LAWRENCE, Martin	43	0
+2002-07-27	Progressive	MCCALLUM, Doug	44	0
+2002-07-27	Progressive	MAIN, Philippa	45	0
+2002-07-27	Progressive	NEILL, John	46	0
+2002-07-27	Progressive	OSTER, Garry	47	0
+2002-07-27	Progressive	PARKASH, Ram	48	0
+2002-07-27	Progressive	PARKYN, David	49	0
+2002-07-27	Progressive	PATCHETT, Dawn	50	0
+2002-07-27	Progressive	PECK, Robert Logan (Bob)	51	0
+2002-07-27	Progressive	MEDLAND, Jim	52	0
+2002-07-27	Progressive	SHIRLEY, Rob	53	0
+2002-07-27	Progressive	SIMMONS, Lynley	54	0
+2002-07-27	Progressive	SMITH, Heather Marion	55	0
+2002-07-27	Progressive	TOMS, Arthur	56	0
+2002-07-27	Progressive	DANCE, Gillian	57	0
+2002-07-27	Progressive	VAN WIEREN, Hessel	58	0
+2002-07-27	Progressive	WEDDELL, Ross	59	0
+2002-07-27	Progressive	WHITE, Roger	60	0
+2002-07-27	Progressive	PULFORD, Barry	61	0
+2002-07-27	Labour	CLARK, Helen Elizabeth	1	1
+2002-07-27	Labour	CULLEN, Michael	2	2
+2002-07-27	Labour	HUNT, Jonathan	3	2
+2002-07-27	Labour	MAHAREY, Steven	4	1
+2002-07-27	Labour	HOROMIA, Parekura	5	1
+2002-07-27	Labour	GOFF, Phil	6	1
+2002-07-27	Labour	KING, Annette	7	1
+2002-07-27	Labour	SUTTON, Jim	8	1
+2002-07-27	Labour	WILSON, Margaret	9	2
+2002-07-27	Labour	GOSCHE, Mark	10	1
+2002-07-27	Labour	SAMUELS, Dover	11	1
+2002-07-27	Labour	MALLARD, Trevor	12	1
+2002-07-27	Labour	HODGSON, Pete	13	1
+2002-07-27	Labour	DALZIEL, Lianne	14	1
+2002-07-27	Labour	HAWKINS, George	15	1
+2002-07-27	Labour	BURTON, Mark	16	1
+2002-07-27	Labour	HOBBS, Marian	17	1
+2002-07-27	Labour	SWAIN, Paul	18	1
+2002-07-27	Labour	MAHUTA, Nanaia	19	1
+2002-07-27	Labour	LABAN, Winnie	20	1
+2002-07-27	Labour	TIZARD, Judith	21	1
+2002-07-27	Labour	DYSON, Ruth	22	1
+2002-07-27	Labour	BEYER, Georgina	23	1
+2002-07-27	Labour	BARKER, Rick	24	1
+2002-07-27	Labour	CARTER, Chris	25	1
+2002-07-27	Labour	KELLY, Graham	26	2
+2002-07-27	Labour	PETTIS, Jill	27	1
+2002-07-27	Labour	PECK, Mark	28	1
+2002-07-27	Labour	YATES, Dianne	29	1
+2002-07-27	Labour	DUNCAN, Helen	30	2
+2002-07-27	Labour	GALLAGHER, Martin Owen	31	1
+2002-07-27	Labour	RIRINUI, Mita	32	1
+2002-07-27	Labour	OKEROA, Mahara	33	1
+2002-07-27	Labour	CHADWICK, Stephanie (Steve)	34	1
+2002-07-27	Labour	HARTLEY, Ann	35	1
+2002-07-27	Labour	BENSON-POPE, David Henry	36	1
+2002-07-27	Labour	CUNLIFFE, David	37	1
+2002-07-27	Labour	HEREORA, Dave	38	2
+2002-07-27	Labour	PILLAY, Lynne	39	1
+2002-07-27	Labour	CHOUDHARY, Ashraf	40	2
+2002-07-27	Labour	MACKEY, Moana	41	0
+2002-07-27	Labour	SOPER, Lesley	42	0
+2002-07-27	Labour	BEAUMONT, Carol	43	0
+2002-07-27	Labour	PURNELL, Max	44	0
+2002-07-27	Labour	SHEARER, David	45	0
+2002-07-27	Labour	BODDY-GREER, Gill	46	0
+2002-07-27	Labour	PARKER, David	47	1
+2002-07-27	Labour	BURNS, Brendon	48	0
+2002-07-27	Labour	WALL, Louisa	49	0
+2002-07-27	Labour	MAKA, David	50	0
+2002-07-27	Labour	HUGHES, Darren	51	1
+2002-07-27	Labour	MCCRACKEN, Hamish	52	0
+2002-07-27	Labour	DALY, Eamon	53	0
+2002-07-27	Labour	HARRY, Lesley	54	0
+2002-07-27	Labour	LOWE-JOHNSON, Brenda	55	0
+2002-07-27	Labour	CHING, Steven	56	0
+2002-07-27	Labour	BOYLE, Leila	57	0
+2002-07-27	Labour	CHEESMAN, John	58	0
+2002-07-27	Labour	POLE, Richard	59	0
+2002-07-27	Labour	GIBSON, Paul	60	0
+2002-07-27	Labour	HAYWARD, Margaret	61	0
+2002-07-27	Labour	NASH, Di	62	0
+2002-07-27	Labour	MACKENZIE, Denise	63	0
+2002-07-27	Labour	HAWKINS, Judy	64	0
+2002-07-27	Labour	TAILOR, Dinesh	65	0
+2002-07-27	Labour	PEEBLES, Kath	66	0
+2002-07-27	Labour	MORA, Mike	67	0
+2002-07-27	Labour	JOHANSON, Yani	68	0
+2002-07-27	Labour	SAMINATHAN, Nathan	69	0
+2002-07-27	Labour	KAMEL, Ola	70	0
+2002-07-27	Labour	NOONAN, Jan	71	0
+2002-07-27	Labour	WAAKA, Maureen	72	0
+2002-07-27	Labour	RACKLEY, Lyndsay	73	0
+2002-07-27	Labour	HAWKER, Wayne	74	0
+2002-07-27	National	ENGLISH, Bill	1	1
+2002-07-27	National	SOWRY, Roger	2	2
+2002-07-27	National	SMITH, Nick	3	1
+2002-07-27	National	CARTER, David	4	2
+2002-07-27	National	BRASH, Don	5	2
+2002-07-27	National	TE HEUHEU, Georgina	6	2
+2002-07-27	National	MAPP, Wayne	7	1
+2002-07-27	National	RYALL, Tony	8	1
+2002-07-27	National	BROWNLEE, Gerry	9	1
+2002-07-27	National	WONG, Pansy	10	2
+2002-07-27	National	SMITH, Lockwood	11	1
+2002-07-27	National	SCOTT, Lynda	12	1
+2002-07-27	National	POWER, Simon	13	1
+2002-07-27	National	RICH, Katherine	14	2
+2002-07-27	National	PARATA, Hekia	15	0
+2002-07-27	National	HERLIHY, Gavan	16	0
+2002-07-27	National	SIMCOCK, Bob	17	0
+2002-07-27	National	PEACHEY, Allan	18	0
+2002-07-27	National	WOOD, Sue	19	0
+2002-07-27	National	SALMON, Guy	20	0
+2002-07-27	National	CARTER, John	21	1
+2002-07-27	National	NEILL, Alec	22	0
+2002-07-27	National	VERNON, Belinda	23	0
+2002-07-27	National	TOLLEY, Anne	24	0
+2002-07-27	National	WORTH, Richard	25	1
+2002-07-27	National	ROY, Eric	26	0
+2002-07-27	National	HUTCHISON, Paul	27	1
+2002-07-27	National	ANAE, Arthur	28	0
+2002-07-27	National	BUCHANAN, Ian	29	0
+2002-07-27	National	WHITE, Greg	30	0
+2002-07-27	National	HEATLEY, Phil	31	1
+2002-07-27	National	HASLER, Marie	32	0
+2002-07-27	National	YOUNG, Annabel	33	0
+2002-07-27	National	LIU, Eric	34	0
+2002-07-27	National	HENARE, Tau	35	0
+2002-07-27	National	BORROWS, Chester	36	0
+2002-07-27	National	WAGNER, Nicky	37	0
+2002-07-27	National	JENSEN-DAINES, Leanne	38	0
+2002-07-27	National	MACINDOE, Tim	39	0
+2002-07-27	National	MARRIOTT, Wayne	40	0
+2002-07-27	National	GORDON, Dan	41	0
+2002-07-27	National	GOUDIE, Sandra	42	1
+2002-07-27	National	KEY, John	43	1
+2002-07-27	National	SOLE, Jeremy	44	0
+2002-07-27	National	NGATAI, George	45	0
+2002-07-27	National	STEPHENS, Dale	46	0
+2002-07-27	National	FOSS, Craig	47	0
+2002-07-27	National	COLLINS, Judith	48	1
+2002-07-27	National	HUGHES, Glenda	49	0
+2002-07-27	National	SCOTT, Dave	50	0
+2002-07-27	National	KIRTON, Weston	51	0
+2002-07-27	National	MITCHELL, Hamuera	52	0
+2002-07-27	National	AUVA'A, Enosa	53	0
+2002-07-27	National	TAYLOR, Sylvia	54	0
+2002-07-27	National	NICOLLE, Barry	55	0
+2002-07-27	National	FOSTER, Paul	56	0
+2002-07-27	National	HARRIS, Mita	57	0
+2002-07-27	National	TREWHEELA, Brent	58	0
+2002-07-27	National	BHANA, Raewyn	59	0
+2002-07-27	National	KARAITIANA, Bill	60	0
+2002-07-27	National	HORTON, Geoff	61	0
+2002-07-27	National	WILLIAMS, Rodney	62	0
+2002-07-27	National	DELAMERE, Alan	63	0
+2002-07-27	National	O'BRIEN, Peter	64	0
+2002-07-27	National	O'BEIRNE, Rod	65	0
+2002-07-27	NZF	PETERS, Winston	1	1
+2002-07-27	NZF	BROWN, Peter	2	2
+2002-07-27	NZF	DONNELLY, Brian	3	2
+2002-07-27	NZF	MARK, Ron	4	2
+2002-07-27	NZF	WOOLERTON, Doug	5	2
+2002-07-27	NZF	STEWART, Barbara	6	2
+2002-07-27	NZF	PARAONE, Pita	7	2
+2002-07-27	NZF	MCNAIR, Craig	8	2
+2002-07-27	NZF	PETERS, Jim	9	2
+2002-07-27	NZF	JONES, Dail	10	2
+2002-07-27	NZF	PERRY, Edwin Jock	11	2
+2002-07-27	NZF	GUDGEON, Bill	12	2
+2002-07-27	NZF	CATCHPOLE, Brent	13	2
+2002-07-27	NZF	HARRIS, Rob	14	0
+2002-07-27	NZF	MULLINS, Dawn	15	0
+2002-07-27	NZF	WEBSTER, Brett	16	0
+2002-07-27	NZF	STEWART, Gordon	17	0
+2002-07-27	NZF	TABUTEAU, Fletcher H	18	0
+2002-07-27	NZF	DAW, Bob	19	0
+2002-07-27	NZF	MACKIE, Dave	20	0
+2002-07-27	NZF	RILEY, John	21	0
+2002-07-27	NZF	GEARY, John Bryce	22	0
+2002-07-27	UFNZ	DUNNE, Peter	1	1
+2002-07-27	UFNZ	COPELAND, Gordon	2	2
+2002-07-27	UFNZ	OGILVY, Bernie	3	2
+2002-07-27	UFNZ	ALEXANDER, Marc	4	2
+2002-07-27	UFNZ	SMITH, Murray	5	2
+2002-07-27	UFNZ	BALDOCK, Larry	6	2
+2002-07-27	UFNZ	TURNER, Judy	7	2
+2002-07-27	UFNZ	ADAMS, Paul	8	2
+2002-07-27	UFNZ	CHAPMAN, Wayne	9	0
+2002-07-27	UFNZ	KUBALA, Andrew	10	0
+2002-07-27	UFNZ	EATWELL, Gray	11	0
+2002-07-27	UFNZ	MCGRAIL, Bruce	12	0
+2002-07-27	UFNZ	HOSSEINI, Hassan	13	0
+2002-07-27	UFNZ	HUNT, Craig	14	0
+2002-07-27	UFNZ	HARPER, Kevin	15	0
+2002-07-27	UFNZ	JUDD, Russell	16	0
+2002-07-27	UFNZ	DRAKE, Anne	17	0
+2002-07-27	UFNZ	MCINNES, Ian	18	0
+2002-07-27	UFNZ	BUTTERWORTH, Graham	19	0
+2002-07-27	UFNZ	DEETH, Andrea	20	0
+2002-07-27	UFNZ	RUAKERE, Cindy	21	0
+2002-07-27	UFNZ	BRETTON, Chris	22	0
+2002-07-27	UFNZ	FELLNER, Susanne	23	0
+2002-07-27	UFNZ	HOWARD, Jim	24	0
+2002-07-27	UFNZ	SEDDON, Martyn	25	0
+2002-07-27	UFNZ	SMITHERS, Tom	26	0
+2002-07-27	UFNZ	TIZARD, Ross	27	0
+2002-07-27	UFNZ	BOWATER, Grant	28	0
+2002-07-27	UFNZ	TAYLOR, Steve	29	0
+2002-07-27	UFNZ	TURNER, Graham	30	0
+2002-07-27	UFNZ	FITNESS, Dave	31	0
+2002-07-27	UFNZ	DUXBURY, Paul	32	0
+2002-07-27	UFNZ	CARTER, Richard	33	0
+2002-07-27	UFNZ	EDMONDS, Lee	34	0
+2002-07-27	UFNZ	RUSSELL, Stephen	35	0
+2002-07-27	UFNZ	ADAMS, Sharee	36	0
+2002-07-27	UFNZ	ROBERTSON, Lee	37	0
+2002-07-27	UFNZ	SMITHERS, Rachel	38	0
+2002-07-27	UFNZ	MOODIE, Rob	39	0
+2002-07-27	UFNZ	MURRAY, Witana	40	0
+2002-07-27	UFNZ	OWEN, Frank	41	0
+2002-07-27	UFNZ	TORCKLER, Graeme	42	0
+2002-07-27	UFNZ	GILMORE, Denis	43	0
+2002-07-27	UFNZ	SMITH, Andrew	44	0
+2002-07-27	UFNZ	BUNTING, Tony	45	0
+2002-07-27	UFNZ	BARR, Graeme	46	0
+2002-07-27	UFNZ	HIPPOLITE, James Te Kahupuku	47	0
+2002-07-27	UFNZ	MITCALFE, Mike	48	0
+2002-07-27	UFNZ	MCEWIN, Stephanie	49	0
+2002-07-27	UFNZ	SETTLE, Bruce	50	0
+2002-07-27	UFNZ	COLLINS, Peter	51	0
+2002-07-27	UFNZ	WHITCOMBE, Todd	52	0
+2002-07-27	UFNZ	LIETZE, Joy	53	0
+2002-07-27	UFNZ	PHILLIPS, Gray	54	0
+2002-07-27	UFNZ	COLLIER, Chris	55	0
+2002-07-27	UFNZ	SMELLIE, Allan	56	0
+2002-07-27	UFNZ	O'BRIEN, Jesse	57	0
+2002-07-27	UFNZ	SMITH-MISCHESKI, Julee	58	0
+2002-07-27	UFNZ	SMITH, Vince	59	0
+2002-07-27	UFNZ	WELLS, Dennis	60	0
+2005-09-17	ACT	HIDE, Rodney Philip	1	1
+2005-09-17	ACT	ROY, Heather Jean	2	2
+2005-09-17	ACT	NEWMAN, Muriel	3	0
+2005-09-17	ACT	FRANKS, Stephen	4	0
+2005-09-17	ACT	SCOTT, Graham Cecil	5	0
+2005-09-17	ACT	SHIRLEY, Kenneth Lex	6	0
+2005-09-17	ACT	WANG, Kenneth Xiaoxuan	7	0
+2005-09-17	ACT	ECKHOFF, Gerrard Mortland	8	0
+2005-09-17	ACT	MITCHELL, Lindsay	9	0
+2005-09-17	ACT	JACOBSEN, Bronwyn Ann	10	0
+2005-09-17	ACT	EWING-JARVIE, Simon	11	0
+2005-09-17	ACT	GILES, Joanne Mary	12	0
+2005-09-17	ACT	MARTIN, Willie	13	0
+2005-09-17	ACT	OLSEN, David Edward	14	0
+2005-09-17	ACT	STEVENS, Hamish William	15	0
+2005-09-17	ACT	JOLLANDS, Andrew Malcolm	16	0
+2005-09-17	ACT	BRAR, Hardev Singh	17	0
+2005-09-17	ACT	BELTOWSKI, Lech Andrejej	18	0
+2005-09-17	ACT	BEKER, Ian Alexander	19	0
+2005-09-17	ACT	BROWN, Christopher	20	0
+2005-09-17	ACT	GILL, Kevin John	21	0
+2005-09-17	ACT	WAUGH, John Harold	22	0
+2005-09-17	ACT	DAWSON, Dianne Cathrine	23	0
+2005-09-17	ACT	MURRAY, Kevin John	24	0
+2005-09-17	ACT	LANGFORD-TEBBY, Stephen Nigel	25	0
+2005-09-17	ACT	MIDDLETON, Gavin Coles	26	0
+2005-09-17	ACT	FRASER, John Cameron	27	0
+2005-09-17	ACT	DENZ, Frances	28	0
+2005-09-17	ACT	BARKLA, Elizabeth	29	0
+2005-09-17	ACT	CHETTY, Nigel	30	0
+2005-09-17	ACT	CLUNE, Scott Matthew	31	0
+2005-09-17	ACT	COLLINS, Michael Allan	32	0
+2005-09-17	ACT	EMILE, Tetauru Joseph	33	0
+2005-09-17	ACT	FALLOON, Andrew Hamilton	34	0
+2005-09-17	ACT	HEINE, Michael Robert	35	0
+2005-09-17	ACT	O'CONNOR, Kerry Victoria	36	0
+2005-09-17	ACT	SEYMOUR, David Breen	37	0
+2005-09-17	ACT	SIMPSON, Helen Joanne	38	0
+2005-09-17	ACT	WHITE, Philip John	39	0
+2005-09-17	ACT	WILDEN, Alan John	40	0
+2005-09-17	ACT	STONE, Andrew Maxwell	41	0
+2005-09-17	ACT	STEINIJANS, Barbara Delia	42	0
+2005-09-17	ACT	RIDDELL, John Godfrey	43	0
+2005-09-17	ACT	PETERSON, Carl James	44	0
+2005-09-17	ACT	PETERS, Andre John	45	0
+2005-09-17	ACT	PEPPER, Julie Anne	46	0
+2005-09-17	ACT	McCLELLAND, Thomas John	47	0
+2005-09-17	ACT	MANN, Alexander Gordon	48	0
+2005-09-17	ACT	LORENZ, Michelle Iris	49	0
+2005-09-17	ACT	KEARNEY, Nigel Bruce	50	0
+2005-09-17	ACT	KEARNEY, Nicholas Norman	51	0
+2005-09-17	ACT	DAVIES, Mark Marshall	52	0
+2005-09-17	ACT	COX, Stephen Peter	53	0
+2005-09-17	ACT	BASSETT, Raymond George	54	0
+2005-09-17	ACT	DAVIDSON, Brian Matthew	55	0
+2005-09-17	ACT	HOLDAWAY, Rebekah Faith	56	0
+2005-09-17	ACT	MARSHALL, Shirley	57	0
+2005-09-17	ACT	O'SULLIVAN, Patrick James	58	0
+2005-09-17	ACT	MALLETT, Garry Bruce	59	0
+2005-09-17	GP	FITZSIMONS, Jeanette Mary	1	2
+2005-09-17	GP	DONALD, Rodney David	2	2
+2005-09-17	GP	BRADFORD, Susan	3	2
+2005-09-17	GP	KEDGLEY, Susan Jane	4	2
+2005-09-17	GP	LOCKE, Keith James	5	2
+2005-09-17	GP	STANTON TURIE, Metiria Leanne Agnes	6	2
+2005-09-17	GP	TANCZOS, Nandor Steven	7	0
+2005-09-17	GP	WARD, Michael Grahame	8	0
+2005-09-17	GP	DELAHUNTY, Catherine	9	0
+2005-09-17	GP	NORMAN, Russel William	10	0
+2005-09-17	GP	BROWNING, Steffan John	11	0
+2005-09-17	GP	CLENDON, David James	12	0
+2005-09-17	GP	HIGHFIELD, Lucinda Grace	13	0
+2005-09-17	GP	CARAPIET, Jonathan Michael	14	0
+2005-09-17	GP	SAPSFORD, Roland Mario	15	0
+2005-09-17	GP	MATHERS, Mojo Celeste	16	0
+2005-09-17	GP	CURTIS, Mikaere James	17	0
+2005-09-17	GP	BRUCE, Paul Everard	18	0
+2005-09-17	GP	ELLEY, Jeanette Susan	19	0
+2005-09-17	GP	STRICKSON-PUA, Muamua Sofi	20	0
+2005-09-17	GP	DAVIES, Richard James	21	0
+2005-09-17	GP	GRIFFITHS, Lois Beverly	22	0
+2005-09-17	GP	CUTLER-WELSH, Natalie Susan	23	0
+2005-09-17	GP	PEARCE, Jane Louise Mary	24	0
+2005-09-17	GP	O'HALLORAN, Lawrence John	25	0
+2005-09-17	GP	GREEN, Richard Arthur	26	0
+2005-09-17	GP	BLEAKLEY, Claire Annette	27	0
+2005-09-17	GP	BENTLEY, Irene Mary	28	0
+2005-09-17	GP	CARSON, Craig William	29	0
+2005-09-17	GP	HARVEY, Nicola Claire	30	0
+2005-09-17	GP	ARMSTRONG, Moea	31	0
+2005-09-17	GP	BAYLISS, Steve	32	0
+2005-09-17	GP	BECK, Laura Ann	33	0
+2005-09-17	GP	BROWN, Sarah Ruth	34	0
+2005-09-17	GP	CREIGHTON, Terence John	35	0
+2005-09-17	GP	DAVIS, John Llewellyn	36	0
+2005-09-17	GP	DEWAR, Katherine Mary	37	0
+2005-09-17	GP	DIACK, James Paul	38	0
+2005-09-17	GP	EARTH, Ruth Elizabeth	39	0
+2005-09-17	GP	ELSEN, Kathryn Ann	40	0
+2005-09-17	GP	EVANS, Graham Peter	41	0
+2005-09-17	GP	FISHER, Nicholas Guy	42	0
+2005-09-17	GP	GUYTON, Robert	43	0
+2005-09-17	GP	HOWARD, Daniel Joseph	44	0
+2005-09-17	GP	JAMIESON, Philippa Ruth Glennie	45	0
+2005-09-17	GP	LEE, Stephen Ralph	46	0
+2005-09-17	GP	LIEFTING, Alan	47	0
+2005-09-17	GP	McCAMMON, Mary Anyta	48	0
+2005-09-17	GP	MILNES, John Ingham	49	0
+2005-09-17	GP	MORRIS, Michael Charles	50	0
+2005-09-17	GP	PETERSON, Noel James	51	0
+2005-09-17	GP	QUALTROUGH, Paul Thomas	52	0
+2005-09-17	GP	RAWLS, Jacob John	53	0
+2005-09-17	GP	SAVILLE, Raewyn Frances	54	0
+2005-09-17	GP	STEPHENS, Ian Douglas	55	0
+2005-09-17	GP	SUGGATE, Richard Malcolm	56	0
+2005-09-17	GP	THOMLINSON, Peter Neil	57	0
+2005-09-17	Progressive	ANDERTON, James Patrick	1	1
+2005-09-17	Progressive	ROBSON, Matthew Peter	2	0
+2005-09-17	Progressive	GILLON, Grant Marc	3	0
+2005-09-17	Progressive	WOODS, Megan Cherie	4	0
+2005-09-17	Progressive	WRIGHT, John Alexander	5	0
+2005-09-17	Progressive	FONUA, Sione Tuitavake	6	0
+2005-09-17	Progressive	SHEPHERD, Vivienne Mary	7	0
+2005-09-17	Progressive	LY, Ngov Dun Meng	8	0
+2005-09-17	Progressive	ASHRAFI, Fatima Zohra	9	0
+2005-09-17	Progressive	WILSON, Barry Vernon Marriott	10	0
+2005-09-17	Progressive	LELEISIUAO, Fale	11	0
+2005-09-17	Progressive	FRANKLIN, Russell Charles	12	0
+2005-09-17	Progressive	GILLON, Wendy Paula Kirsty	13	0
+2005-09-17	Progressive	CLEARWATER, Philip Thomas	14	0
+2005-09-17	Progressive	BARNARD, Trevor Lance	15	0
+2005-09-17	Progressive	SINGH, Raghbir	16	0
+2005-09-17	Progressive	HILL, Brenda Louise	17	0
+2005-09-17	Progressive	BEAZLEY, Fiona Claire	18	0
+2005-09-17	Progressive	CALDWELL, Russell Stanton	19	0
+2005-09-17	Progressive	REEKS, David	20	0
+2005-09-17	Progressive	MAURICE, John	21	0
+2005-09-17	Progressive	KAZEMI YAZDI, Seyed Mohammad	22	0
+2005-09-17	Progressive	HEKER, Heka	23	0
+2005-09-17	Progressive	STEWART-WARD, Veronique	24	0
+2005-09-17	Progressive	ZHANG, Zemin	25	0
+2005-09-17	Progressive	AARON, Julian	26	0
+2005-09-17	Progressive	AMIRAPU, Sukerna	27	0
+2005-09-17	Progressive	ANDERSON, Annette Jean	28	0
+2005-09-17	Progressive	BAINS, Sukhdev Singh	29	0
+2005-09-17	Progressive	BANKS, Peter John Kingsley	30	0
+2005-09-17	Progressive	BOYACK, James Nicholas	31	0
+2005-09-17	Progressive	DONALD, Ian Edward	32	0
+2005-09-17	Progressive	HOLLAND, Lewis	33	0
+2005-09-17	Progressive	LALL, Karandeep Singh	34	0
+2005-09-17	Progressive	McALPINE, Jacqueline Mary	35	0
+2005-09-17	Progressive	MAIN, Claire Victoria	36	0
+2005-09-17	Progressive	MAIN, Philippa Ruth	37	0
+2005-09-17	Progressive	PALMER, James Alexander	38	0
+2005-09-17	Progressive	PANIRAU, Max Shannon	39	0
+2005-09-17	Progressive	PARKYN, David	40	0
+2005-09-17	Progressive	PATCHETT, Elizabeth Dawn	41	0
+2005-09-17	Progressive	PO'E, Talatala	42	0
+2005-09-17	Progressive	ROY, Pavitra Kumar	43	0
+2005-09-17	Progressive	SANDYS, Elspeth Somerville	44	0
+2005-09-17	Progressive	SHARROCK, Anthony Collin	45	0
+2005-09-17	Progressive	SILCOCK, Barry John	46	0
+2005-09-17	Progressive	SILCOCK, Karen Michelle	47	0
+2005-09-17	Progressive	SOMERSET, David	48	0
+2005-09-17	Progressive	TOWNSEND, Petronella Louise	49	0
+2005-09-17	Progressive	VAUGHAN, Martin Francis	50	0
+2005-09-17	Progressive	WILSON, Jennifer Reta	51	0
+2005-09-17	Labour	CLARK, Helen Elizabeth	1	1
+2005-09-17	Labour	CULLEN, Michael John	2	2
+2005-09-17	Labour	WILSON, Margaret Anne	3	2
+2005-09-17	Labour	MAHAREY, Steven	4	1
+2005-09-17	Labour	HOROMIA, Parekura Tureia	5	1
+2005-09-17	Labour	GOFF, Philip Bruce	6	1
+2005-09-17	Labour	KING, Annette Faye	7	1
+2005-09-17	Labour	MALLARD, Trevor Colin	8	1
+2005-09-17	Labour	HOBBS, Marian Leslie	9	1
+2005-09-17	Labour	SAMUELS, Dover Spencer Peneha	10	2
+2005-09-17	Labour	SUTTON, James Robert	11	2
+2005-09-17	Labour	HODGSON, Peter Colin	12	1
+2005-09-17	Labour	FIELD, Taito Phillip	13	1
+2005-09-17	Labour	DYSON, Ruth Suzanne	14	1
+2005-09-17	Labour	RIRINUI, Michael Mita	15	2
+2005-09-17	Labour	BURTON, Richard Mark	16	1
+2005-09-17	Labour	SWAIN, Paul Desmond	17	1
+2005-09-17	Labour	TIZARD, Judith Ngaire	18	1
+2005-09-17	Labour	CARTER, Christopher Joseph	19	1
+2005-09-17	Labour	LABAN, Winifred Alexandra	20	1
+2005-09-17	Labour	BARKER, Richard John	21	2
+2005-09-17	Labour	OKEROA, Mahara	22	1
+2005-09-17	Labour	BENSON-POPE, David Henry	23	1
+2005-09-17	Labour	PETTIS, Marjorie Jill	24	2
+2005-09-17	Labour	CHOUDHARY, Ashraf	25	2
+2005-09-17	Labour	DALZIEL, Lianne Audrey	26	1
+2005-09-17	Labour	JONES, Shane Geoffrey	27	2
+2005-09-17	Labour	YATES, Dianne Fae	28	2
+2005-09-17	Labour	GOSCHE, Mark James	29	1
+2005-09-17	Labour	HARTLEY, Margaret Ann	30	2
+2005-09-17	Labour	CUNLIFFE, David Richard	31	1
+2005-09-17	Labour	GALLAGHER, Martin Owen	32	1
+2005-09-17	Labour	CHADWICK, Stephanie Anne	33	1
+2005-09-17	Labour	HUGHES, Darren Colyn	34	1
+2005-09-17	Labour	BEYER, Georgina	35	2
+2005-09-17	Labour	STREET, Maryan	36	2
+2005-09-17	Labour	PARKER, David William	37	2
+2005-09-17	Labour	FAIRBROTHER, Elwin Russell	38	2
+2005-09-17	Labour	HEREORA, David Murray	39	2
+2005-09-17	Labour	PILLAY, Barbara Lynne	40	1
+2005-09-17	Labour	MACKEY, Moana Lynore	41	2
+2005-09-17	Labour	MORONEY, Suzanne Mary	42	2
+2005-09-17	Labour	FENTON, Darien Elizabeth	43	2
+2005-09-17	Labour	CHAUVEL, Charles Pierre	44	0
+2005-09-17	Labour	SOPER, Lesley Frances	45	0
+2005-09-17	Labour	WALL, Louisa Hareruia	46	0
+2005-09-17	Labour	SIO, Su'a William	47	0
+2005-09-17	Labour	BURNS, Brendon	48	0
+2005-09-17	Labour	McCRACKEN, Hamish Kennedy	49	0
+2005-09-17	Labour	MacKENZIE, Denise Lillian	50	0
+2005-09-17	Labour	PURNELL, Max Andrew	51	0
+2005-09-17	Labour	HARPUR, Thomas Wayne	52	0
+2005-09-17	Labour	BOYLE, Leila June	53	0
+2005-09-17	Labour	TAILOR, Dinesh	54	0
+2005-09-17	Labour	TWYFORD, Philip Stoner	55	0
+2005-09-17	Labour	McCUTCHEON, Jennifer	56	0
+2005-09-17	Labour	YOO, Chris	57	0
+2005-09-17	Labour	WOOD, Michael Philip	58	0
+2005-09-17	Labour	HUDSON, Linda Maria	59	0
+2005-09-17	Labour	NASH, Stuart Alexander	60	0
+2005-09-17	Labour	MILNE, Tony Robert	61	0
+2005-09-17	Labour	TALBOT, David Arthur	62	0
+2005-09-17	Labour	BROWN, Marilyn Leigh	63	0
+2005-09-17	Labour	RAHMAN, Anjum Nausheen	64	0
+2005-09-17	Labour	DALY, Eamon Conan	65	0
+2005-09-17	Labour	LAWLEY, Judy Patricia	66	0
+2005-09-17	Labour	MORA, Michael Allan	67	0
+2005-09-17	Labour	EBBORN-GILLESPIE, Erin Mai	68	0
+2005-09-17	Labour	SU, Ailian	69	0
+2005-09-17	Labour	ANWAR, Ghazala	70	0
+2005-09-17	Labour	GIBSON, Paul Thomas	71	0
+2005-09-17	Labour	HARVEY, Kelly-Ann	72	0
+2005-09-17	Labour	NAKHID, Camille Elizabeth Anne	73	0
+2005-09-17	Labour	KAMEL, Ola	74	0
+2005-09-17	Labour	BATHER, Andrea Jane	75	0
+2005-09-17	Maori	TURIA, Tariana	1	1
+2005-09-17	Maori	SHARPLES, Pita Russell	2	1
+2005-09-17	Maori	POANANGA, Atareta Nicole	3	0
+2005-09-17	Maori	WI RUTENE, Simon Lyle	4	0
+2005-09-17	Maori	PHILIP-BARBARA, Glenis Hiria	5	0
+2005-09-17	Maori	CONSEDINE, Robert	6	0
+2005-09-17	Maori	WINIATA, Pakake Calm	7	0
+2005-09-17	Maori	LOVE, Morris Te Whiti	8	0
+2005-09-17	Maori	GREENSILL, Angeline Elizabeth Ngahi	9	0
+2005-09-17	Maori	FLAVELL, Te Ururoa	10	1
+2005-09-17	Maori	MAEA, William Paremoni Skid	11	0
+2005-09-17	Maori	OHIA, Rereamoamo Monte	12	0
+2005-09-17	Maori	PAUL, Te Orohi Teeni	13	0
+2005-09-17	Maori	YATES, Bronwyn Ruth Naumai	14	0
+2005-09-17	Maori	JOE, Charles	15	0
+2005-09-17	Maori	TAHERE, Teremoananuiakiwa Strick	16	0
+2005-09-17	Maori	PERI, Malcolm Maihi	17	0
+2005-09-17	Maori	RUAKERE, Anthony Ansley	18	0
+2005-09-17	Maori	TE AWA, Ratapu Hori	19	0
+2005-09-17	Maori	COWAN, Brett	20	0
+2005-09-17	Maori	PEITA, Josephine Bernadette	21	0
+2005-09-17	Maori	FITZSIMON, Anne	22	0
+2005-09-17	Maori	HEPI, Abraham	23	0
+2005-09-17	Maori	TOMOANA, Ngahiwi	24	0
+2005-09-17	Maori	MOXON, Tureiti	25	0
+2005-09-17	Maori	RERITI-CROFTS, Aroha Hohipera	26	0
+2005-09-17	Maori	HARRE, John	27	0
+2005-09-17	Maori	McLEAN, Rangi	28	0
+2005-09-17	Maori	KUKA, Tell Tyrell	29	0
+2005-09-17	Maori	PURU, William (Bill) Waru	30	0
+2005-09-17	Maori	RAWIRI-TAU, Mere	31	0
+2005-09-17	Maori	ORZECKI, Richard Edward	32	0
+2005-09-17	Maori	ROPATA, Maraea Te Ngana	33	0
+2005-09-17	Maori	HOSKING, Robert Sonny	34	0
+2005-09-17	Maori	GREGORY, Daryl Garth	35	0
+2005-09-17	Maori	TAWHIAO, Rangi Ngati Huna	36	0
+2005-09-17	Maori	MEIHANA, Andre Lang Mason	37	0
+2005-09-17	Maori	MATTHEWS, Solomon Kristian Kulukit	38	0
+2005-09-17	Maori	DICK, Adell Manaia	39	0
+2005-09-17	Maori	HAREMATE-CRAWFORD, Georgina Kopare Huia	40	0
+2005-09-17	Maori	HARRISON, Raewyn Emma	41	0
+2005-09-17	Maori	HOTENE, Cecilia Rangitutaki	42	0
+2005-09-17	Maori	HUDSON, Alice Te Awa	43	0
+2005-09-17	Maori	JOHNSON, Reimana	44	0
+2005-09-17	Maori	KAPA, Rahuia	45	0
+2005-09-17	Maori	KING, David Sinclair	46	0
+2005-09-17	Maori	MAKUTU, Aaron Nicholas	47	0
+2005-09-17	Maori	MARTIN, Kelvin Andrew	48	0
+2005-09-17	Maori	TAURUA, Merehora	49	0
+2005-09-17	Maori	WAAKA, Frances Mary	50	0
+2005-09-17	Maori	WALKER, Henrietta Cissie Rose	51	0
+2005-09-17	National	BRASH, Donald Thomas	1	2
+2005-09-17	National	BROWNLEE, Gerard Anthony	2	1
+2005-09-17	National	POWER, Simon James	3	1
+2005-09-17	National	ENGLISH, Simon William	4	1
+2005-09-17	National	SMITH, Nick	5	1
+2005-09-17	National	RYALL, Anthony Boyd Williams	6	1
+2005-09-17	National	KEY, John Phillip	7	1
+2005-09-17	National	CARTER, David Cunningham	8	2
+2005-09-17	National	SMITH, Alexander Lockwood	9	1
+2005-09-17	National	RICH, Katherine	10	2
+2005-09-17	National	McCULLY, Murray Stuart	11	1
+2005-09-17	National	COLLINS, Judith Anne	12	1
+2005-09-17	National	GROSER, Timothy John	13	2
+2005-09-17	National	MAPP, Wayne Daniel	14	1
+2005-09-17	National	CARTER, John McGregor	15	1
+2005-09-17	National	WORTH, Richard Westwood	16	2
+2005-09-17	National	WILLIAMSON, Maurice Donald	17	1
+2005-09-17	National	SIMICH, Clem Rudolph	18	2
+2005-09-17	National	TE HEUHEU, Georgina Manunui	19	2
+2005-09-17	National	WONG, Pansy	20	2
+2005-09-17	National	ARDERN, Philip Shane	21	1
+2005-09-17	National	HEATLEY, Philip Reeve	22	1
+2005-09-17	National	HUTCHISON, Charles Paul Telford	23	1
+2005-09-17	National	TISCH, William Lindsay	24	1
+2005-09-17	National	CONNELL, Brian David	25	1
+2005-09-17	National	GOUDIE, Sandra Anne	26	1
+2005-09-17	National	FINLAYSON, Christopher Francis	27	2
+2005-09-17	National	WAGNER, Nicola Joanne	28	2
+2005-09-17	National	HENARE, Raymond Tau	29	2
+2005-09-17	National	PEACHEY, Allan Frederick	30	1
+2005-09-17	National	GOODHEW, Joanne Gay	31	1
+2005-09-17	National	BENNETT, David Allister	32	1
+2005-09-17	National	BORROWS, Kerry James	33	1
+2005-09-17	National	AUCHINVOLE, Christopher John	34	2
+2005-09-17	National	COLEMAN, Jonathan David	35	1
+2005-09-17	National	BLUMSKY, Mark Herbert	36	2
+2005-09-17	National	ROY, Eric Wilbur	37	1
+2005-09-17	National	WILKINSON, Catherine Joan	38	2
+2005-09-17	National	GUY, Allen Nathan	39	2
+2005-09-17	National	DEAN, Jacqueline Isobel	40	1
+2005-09-17	National	BLUE, Jacqueline Diane	41	2
+2005-09-17	National	KING, Colin McDonald	42	1
+2005-09-17	National	TOLLEY, Anne Merrilyn	43	1
+2005-09-17	National	FOSS, Craig Raymond Robert	44	1
+2005-09-17	National	BENNETT, Paula Lee	45	2
+2005-09-17	National	SHANKS, Katrina May	46	0
+2005-09-17	National	AIONO, Fepulea'i Ulua'ipou-O-Ma	47	0
+2005-09-17	National	MUSUKU, Ravi Kumar	48	0
+2005-09-17	National	CLARKSON, Robert Moncrieff	49	1
+2005-09-17	National	HAYES, John Bernard	50	1
+2005-09-17	National	IRVING, Moira Ann	51	0
+2005-09-17	National	TREMAIN, Christopher James	52	1
+2005-09-17	National	HARRIS, Mita Whare	53	0
+2005-09-17	National	LEDDY, Michael Anthony	54	0
+2005-09-17	National	POWELL, Conway Llewelyn	55	0
+2005-09-17	National	ROUND, David John	56	0
+2005-09-17	National	STEHBENS, Gilbert Robert	57	0
+2005-09-17	National	YEE, Kenneth Ming	58	0
+2005-09-17	National	GOLDSMITH, Paul Jonathan	59	0
+2005-09-17	National	PLIMMER, Malcolm Ross	60	0
+2005-09-17	National	YOUNG, Nicola Mary Jacobina	61	0
+2005-09-17	National	MACINDOE, Timothy Harley	62	0
+2005-09-17	National	LOMAX, Allison Vivienne	63	0
+2005-09-17	National	KIRTON, Weston Mervyn	64	0
+2005-09-17	National	THOMAS, Rosemarie Fay	65	0
+2005-09-17	NZF	PETERS, Winston Raymond	1	2
+2005-09-17	NZF	BROWN, Peter Alfred	2	2
+2005-09-17	NZF	DONNELLY, Brian John	3	2
+2005-09-17	NZF	MARK, Ron Stanley	4	2
+2005-09-17	NZF	WOOLERTON, Robert Douglas	5	2
+2005-09-17	NZF	STEWART, Barbara Joy	6	2
+2005-09-17	NZF	PARAONE, Rewiti Pomare Kingi	7	2
+2005-09-17	NZF	BARAGWANATH, Susan Joan	8	0
+2005-09-17	NZF	PETERS, James Leonard	9	0
+2005-09-17	NZF	JONES, Dail Michael John	10	0
+2005-09-17	NZF	McNAIR, Craig Simon	11	0
+2005-09-17	NZF	PERRY, Edwin Jock	12	0
+2005-09-17	NZF	GUDGEON, William (Bill) Mulligan	13	0
+2005-09-17	NZF	CATCHPOLE, Brent Stanley	14	0
+2005-09-17	NZF	WILLIAMS, Joseph	15	0
+2005-09-17	NZF	FOOTE, John Edward	16	0
+2005-09-17	NZF	TABUTEAU, Fletcher Hoporona	17	0
+2005-09-17	NZF	HEWARD, Alan John	18	0
+2005-09-17	NZF	CAMPBELL SMITH, Kristin Judith	19	0
+2005-09-17	NZF	LUNDY, Bryan Kerry	20	0
+2005-09-17	NZF	FOWLER, David George	21	0
+2005-09-17	NZF	STEWART, Brendan John	22	0
+2005-09-17	NZF	WEBSTER, Brett Ronald	23	0
+2005-09-17	NZF	DAW, Arthur Robert (Bob)	24	0
+2005-09-17	NZF	STRAWBRIDGE, Murray Russell	25	0
+2005-09-17	NZF	DAVIS, Moetu Tipene	26	0
+2005-09-17	NZF	GREENING, Toa	27	0
+2005-09-17	NZF	MACKIE, David John	28	0
+2005-09-17	NZF	MARTIN, Anne Rosalie	29	0
+2005-09-17	NZF	BATCHELOR, Julian	30	0
+2005-09-17	NZF	PERRY, Chistopher Graeme	31	0
+2005-09-17	NZF	PALMER, Lindy Michelle	32	0
+2005-09-17	NZF	ROSWELL, Brian Murrell	33	0
+2005-09-17	NZF	GLEN, Matua Joe	34	0
+2005-09-17	NZF	MIST, James Mason	35	0
+2005-09-17	NZF	LEVARKO, Howard Warren	36	0
+2005-09-17	NZF	MANNING, Paul Trevor	37	0
+2005-09-17	NZF	MANU, Timothy Salele'a	38	0
+2005-09-17	NZF	GARDENER, Kevin James	39	0
+2005-09-17	NZF	ODERING, Graham Edward	40	0
+2005-09-17	UFNZ	DUNNE, Peter Francis	1	1
+2005-09-17	UFNZ	TURNER, Judith Anne	2	2
+2005-09-17	UFNZ	COPELAND, Gordon Frank	3	2
+2005-09-17	UFNZ	ALEXANDER, Marc Antonius	4	0
+2005-09-17	UFNZ	BALDOCK, Larry David	5	0
+2005-09-17	UFNZ	SMITH, Murray Vaughan	6	0
+2005-09-17	UFNZ	CHECK, Paul Ramon	7	0
+2005-09-17	UFNZ	TUCK, Janet Claire	8	0
+2005-09-17	UFNZ	OGILVY, Bernard James	9	0
+2005-09-17	UFNZ	REEVES, Graeme Leonard	10	0
+2005-09-17	UFNZ	JUDD, Russell William	11	0
+2005-09-17	UFNZ	BARAL, Hannah Pia	12	0
+2005-09-17	UFNZ	LIETZE, Joy Catherine	13	0
+2005-09-17	UFNZ	WILSON, Neville Jerome	14	0
+2005-09-17	UFNZ	BARTER, Richard Alan	15	0
+2005-09-17	UFNZ	TAYLOR, Stephen Dylan	16	0
+2005-09-17	UFNZ	McINNES, Ian William	17	0
+2005-09-17	UFNZ	TIZARD, Ross Michael	18	0
+2005-09-17	UFNZ	McKENZIE, Fiona Kirsten	19	0
+2005-09-17	UFNZ	BARR, Andrew Graeme	20	0
+2005-09-17	UFNZ	WALKER, John Luther	21	0
+2005-09-17	UFNZ	PARKASH, Ram	22	0
+2005-09-17	UFNZ	KENNARD, Ralph James	23	0
+2005-09-17	UFNZ	PRASAD, Jayati	24	0
+2005-09-17	UFNZ	ROBERTS, Vanessa Joy	25	0
+2005-09-17	UFNZ	TELFORD, Gerald William	26	0
+2005-09-17	UFNZ	LOOMES, Robin Andrew	27	0
+2005-09-17	UFNZ	JACKSON, Robyn Louise	28	0
+2005-09-17	UFNZ	GORDON, Anthony James	29	0
+2005-09-17	UFNZ	GRAYDON, Gregory Victor	30	0
+2005-09-17	UFNZ	SEDDON, Martyn Victor	31	0
+2005-09-17	UFNZ	McCLELLAND, Bernard	32	0
+2005-09-17	UFNZ	STONE, Beth Marilyn	33	0
+2005-09-17	UFNZ	WESTLEY, Robin Keith	34	0
+2005-09-17	UFNZ	DRAKE, Rosemary Jessie Anne	35	0
+2005-09-17	UFNZ	HINTON, Gordon John	36	0
+2005-09-17	UFNZ	SATUR, Michael Stephen	37	0
+2005-09-17	UFNZ	BROWN, Diane Margaret	38	0
+2005-09-17	UFNZ	DROMGOOL, Steven John Holm	39	0
+2005-09-17	UFNZ	DEETH, Andrea	40	0
+2005-09-17	UFNZ	PETERS, Mark Jonathan	41	0
+2005-09-17	UFNZ	MOFFAT, Mary Pauline	42	0
+2005-09-17	UFNZ	WELLS, Dennis Andrew	43	0
+2005-09-17	UFNZ	OSBORNE, Milton John	44	0
+2005-09-17	UFNZ	PEDERSEN, Garry Keith	45	0
+2005-09-17	UFNZ	PICKERING, William John	46	0
+2005-09-17	UFNZ	ARCHER, Adam	47	0
+2005-09-17	UFNZ	LINSCOTT, Neil Welton	48	0
+2005-09-17	UFNZ	HAYES, Barry Duncan	49	0
+2005-09-17	UFNZ	STUART, Janita Rose	50	0
+2005-09-17	UFNZ	WILSON, Dianne Lesley	51	0
+2005-09-17	UFNZ	RUDD, James Benjamin	52	0
+2005-09-17	UFNZ	MOUNTAIN, Peter Allan	53	0
+2005-09-17	UFNZ	ROBERTSON, Stuart Lee	54	0
+2005-09-17	UFNZ	van BUREN, John	55	0
+2005-09-17	UFNZ	LEIGH, Jeffrey Allan	56	0
+2005-09-17	UFNZ	COLLIER, Matthew James	57	0
+2008-11-08	ACT	HIDE, Rodney Philip	1	1
+2008-11-08	ACT	ROY, Heather Jean	2	2
+2008-11-08	ACT	DOUGLAS, Roger Owen	3	2
+2008-11-08	ACT	BOSCAWEN, John Spencer	4	2
+2008-11-08	ACT	GARRETT, David Arthur	5	2
+2008-11-08	ACT	CALVERT, Hilary Jane	6	0
+2008-11-08	ACT	TASHKOFF, Peter Boris	7	0
+2008-11-08	ACT	ORMOND, John Davies	8	0
+2008-11-08	ACT	du PLESSIS, Colin John	9	0
+2008-11-08	ACT	TAN, Shawn Wei-Xiang	10	0
+2008-11-08	ACT	SCOTT, Ronald John Charles	11	0
+2008-11-08	ACT	KEOWN, Aaron Vernon Lee	12	0
+2008-11-08	ACT	KEARNEY, Nick	13	0
+2008-11-08	ACT	MURPHY, Lynette	14	0
+2008-11-08	ACT	OLSEN, David Edward	15	0
+2008-11-08	ACT	DENZ, Frances	16	0
+2008-11-08	ACT	MOORE, David Jeffrey	17	0
+2008-11-08	ACT	BRIDGE, Michael Lance Cyprian	18	0
+2008-11-08	ACT	BELTOWSKI, Lech Andrzej	19	0
+2008-11-08	ACT	GOOD, Beryl Marjorie	20	0
+2008-11-08	ACT	TATTERSFIELD, David John	21	0
+2008-11-08	ACT	THOMPSON, John Stanley	22	0
+2008-11-08	ACT	CAMPBELL, Kevin Patrick	23	0
+2008-11-08	ACT	DAVIES, Mark Marshall	24	0
+2008-11-08	ACT	BAILEY, Michael James	25	0
+2008-11-08	ACT	FREIMANN, Carl Desmond	26	0
+2008-11-08	ACT	ALBERS, George Christopher	27	0
+2008-11-08	ACT	ASHWORTH, Vincent Alexandra	28	0
+2008-11-08	ACT	ATKINSON, Shane Whitford	29	0
+2008-11-08	ACT	BASSETT, Raymond George	30	0
+2008-11-08	ACT	COLLINS, Michael Allan	31	0
+2008-11-08	ACT	DAVIDSON, Alan Daniel	32	0
+2008-11-08	ACT	FALLOON, Andrew Hamilton	33	0
+2008-11-08	ACT	GARDINER, Matthew	34	0
+2008-11-08	ACT	HENDERSON, Roland James	35	0
+2008-11-08	ACT	HOWARD, Thomas Edward	36	0
+2008-11-08	ACT	IZARD, Nowell William	37	0
+2008-11-08	ACT	LENNOX, Kenneth Duncan	38	0
+2008-11-08	ACT	MALLETT, Garry Bruce	39	0
+2008-11-08	ACT	MARTIN, Stephen Alan	40	0
+2008-11-08	ACT	MARTIN, Patricia	41	0
+2008-11-08	ACT	McCABE, Kathleen Patricia Louise	42	0
+2008-11-08	ACT	McCAFFREY, Peter Edward	43	0
+2008-11-08	ACT	McCLELLAND, Thomas John	44	0
+2008-11-08	ACT	McQUILKAN, William Athol	45	0
+2008-11-08	ACT	NARSEY, Rayneil Rajesh	46	0
+2008-11-08	ACT	NICHOLLS, Colin William	47	0
+2008-11-08	ACT	OLSEN, Jonathan Cyril	48	0
+2008-11-08	ACT	PARKER, Ian Donald	49	0
+2008-11-08	ACT	READ, James Jeremy	50	0
+2008-11-08	ACT	RIDDELL, John Godfrey	51	0
+2008-11-08	ACT	RUSSELL, Geoffrey Neil	52	0
+2008-11-08	ACT	SIMMONS, Christopher William	53	0
+2008-11-08	ACT	SEVERIN, Toni Gae	54	0
+2008-11-08	ACT	SEYMOUR, David Breen	55	0
+2008-11-08	ACT	TABACHNIK, Michael	56	0
+2008-11-08	ACT	TASKER, Michael Robert	57	0
+2008-11-08	ACT	THOMPSON, Jean Grace	58	0
+2008-11-08	ACT	TULLOCH, Graeme Hugh	59	0
+2008-11-08	ACT	UREN, Scott	60	0
+2008-11-08	ACT	FRASER, John Cameron	61	0
+2008-11-08	GP	FITZSIMONS, Jeanette Mary	1	2
+2008-11-08	GP	NORMAN, Russel William	2	2
+2008-11-08	GP	BRADFORD, Susan	3	2
+2008-11-08	GP	STANTON TUREI, Metiria Leanne Agnes	4	2
+2008-11-08	GP	KEDGLEY, Susan Jane	5	2
+2008-11-08	GP	LOCKE, Keith James	6	2
+2008-11-08	GP	HAGUE, Kevin Grant	7	2
+2008-11-08	GP	DELAHUNTY, Catherine	8	2
+2008-11-08	GP	GRAHAM, Kennedy Gollan Montrose	9	2
+2008-11-08	GP	CLENDON, David James	10	0
+2008-11-08	GP	HUGHES, Gareth Thomas Llewelyn	11	0
+2008-11-08	GP	BROWNING, Steffan John	12	0
+2008-11-08	GP	MATHERS, Celeste Mojo	13	0
+2008-11-08	GP	WARD, Michael Grahame	14	0
+2008-11-08	GP	DUTHIE, Quentin John	15	0
+2008-11-08	GP	CURTIS, Michael James	16	0
+2008-11-08	GP	LECKINGER, Richard John	17	0
+2008-11-08	GP	ELLEY, Jeanette Susan	18	0
+2008-11-08	GP	HORROCKS, Virginia Jacqueline Ormond	19	0
+2008-11-08	GP	WYND, Donna	20	0
+2008-11-08	GP	HAY, David Robert	21	0
+2008-11-08	GP	MELLOR, Diana Margaret	22	0
+2008-11-08	GP	REDWOOD, James Nelson	23	0
+2008-11-08	GP	ER, Lisa Elizabeth	24	0
+2008-11-08	GP	McLAUCHLAN, Jan Ailsa	25	0
+2008-11-08	GP	GILLETT, Elisabeth Naomi	26	0
+2008-11-08	GP	FAHEY, Rayna Helen	27	0
+2008-11-08	GP	CARSON, Craig William	28	0
+2008-11-08	GP	TINDALL, Richard Mark Grattan	29	0
+2008-11-08	GP	DOHERTY, Paul William	30	0
+2008-11-08	GP	WOODCOCK, Michael David	31	0
+2008-11-08	GP	WATSON, Pieter Rowley Burgess	32	0
+2008-11-08	GP	VIGRASS, Lynette Claire	33	0
+2008-11-08	GP	TIPENE, Bevan Mohi	34	0
+2008-11-08	GP	TAYLOR, Peter	35	0
+2008-11-08	GP	SUMMERHAYS, Karen Mary	36	0
+2008-11-08	GP	STRICKSON-PUA, Muamua Sofi	37	0
+2008-11-08	GP	STEWART, Gary Todd	38	0
+2008-11-08	GP	STEVENS, Dale Moana	39	0
+2008-11-08	GP	STANSFIELD, Brett Thomas	40	0
+2008-11-08	GP	SHAW, James Peter Edward	41	0
+2008-11-08	GP	SAVILLE, Raewyn Frances	42	0
+2008-11-08	GP	ROCHE, Denise Maree	43	0
+2008-11-08	GP	REDWOOD, Rebecca Mary	44	0
+2008-11-08	GP	PERSSON, Linda	45	0
+2008-11-08	GP	BROUGHTON, David Peter	46	0
+2008-11-08	GP	O'HALLORAN, Lawrence John	47	0
+2008-11-08	GP	MILNES, John Ingham	48	0
+2008-11-08	GP	LIEFTING, Alan	49	0
+2008-11-08	GP	LEIDING, Kurt-Martin	50	0
+2008-11-08	GP	LANGSBURY, Dora Roimata	51	0
+2008-11-08	GP	KENWORTHY, Fiona Marie	52	0
+2008-11-08	GP	KEBBELL, James Edward	53	0
+2008-11-08	GP	JOHNSON, Alan Michael	54	0
+2008-11-08	GP	HARPER, Wendy Barbara	55	0
+2008-11-08	GP	HAMILL, Robert Miles	56	0
+2008-11-08	GP	GRIMWOOD, Rachel Louise	57	0
+2008-11-08	GP	GOW, Timothy Robert	58	0
+2008-11-08	GP	GOLDIE, Xavier Heath	59	0
+2008-11-08	GP	GILCHRIST, Michael Alexander	60	0
+2008-11-08	GP	GARLAND, Ryan Alistair	61	0
+2008-11-08	GP	GALLAGHER, Shane Anthony	62	0
+2008-11-08	GP	DORNER, Zachary James Moar	63	0
+2008-11-08	GP	DEWAR, Katherine Mary	64	0
+2008-11-08	GP	COOPER, Peter Ernest	65	0
+2008-11-08	GP	BURSTON, Joseph Daniel	66	0
+2008-11-08	GP	BRIGGS, Oliver Laurence	67	0
+2008-11-08	Progressive	ANDERTON, James Patrick	1	1
+2008-11-08	Progressive	ROBSON, Matthew Peter	2	0
+2008-11-08	Progressive	PAGANI, Josephine Jefcoate	3	0
+2008-11-08	Progressive	GILLON, Wendy Paula Kirsty	4	0
+2008-11-08	Progressive	CLEARWATER, Philip Thomas	5	0
+2008-11-08	Progressive	SHEPHERD, Vivienne Mary	6	0
+2008-11-08	Progressive	BARNARD, Trevor Lance	7	0
+2008-11-08	Progressive	HILL, Brenda Louise	8	0
+2008-11-08	Progressive	HUTCHINSON, Craig Alan	9	0
+2008-11-08	Progressive	ROBSON, Justin Matthew	10	0
+2008-11-08	Progressive	LY, Ngov Jeffrey	11	0
+2008-11-08	Progressive	AMIRAPU, Sukerna	12	0
+2008-11-08	Progressive	BAGCHI, Somnath Sarkar	13	0
+2008-11-08	Progressive	BAINS, Sukhdev Singh	14	0
+2008-11-08	Progressive	CHEAM, Sokunthea	15	0
+2008-11-08	Progressive	KAZEMI YAZDI, Seyed Mohammad	16	0
+2008-11-08	Progressive	LUCAS, Debbie Ann	17	0
+2008-11-08	Progressive	MAIN, Claire Victoria	18	0
+2008-11-08	Progressive	MAIN, Philippa Ruth	19	0
+2008-11-08	Progressive	MAURICE, John	20	0
+2008-11-08	Progressive	McALPINE, Jacqueline Mary	21	0
+2008-11-08	Progressive	PATCHETT, Elizabeth Dawn	22	0
+2008-11-08	Progressive	PO'E, Talatala	23	0
+2008-11-08	Progressive	ROY, Pavitra Kumar	24	0
+2008-11-08	Progressive	SANDYS, Elspeth Somerville	25	0
+2008-11-08	Progressive	SOMERSET, David	26	0
+2008-11-08	Progressive	TAYLOR, Ralph James Willis	27	0
+2008-11-08	Labour	CLARK, Helen Elizabeth	1	1
+2008-11-08	Labour	CULLEN, Michael John	2	2
+2008-11-08	Labour	GOFF, Philip Bruce	3	1
+2008-11-08	Labour	KING, Annette Faye	4	1
+2008-11-08	Labour	HOROMIA, Parekura Tureia	5	1
+2008-11-08	Labour	HODGSON, Peter Colin	6	1
+2008-11-08	Labour	CARTER, Chris Joseph	7	1
+2008-11-08	Labour	CUNLIFFE, David Richard	8	1
+2008-11-08	Labour	STREET, Maryan	9	2
+2008-11-08	Labour	MAHUTA, Nanaia Cybele	10	1
+2008-11-08	Labour	LABAN, Winifred Alexandra	11	1
+2008-11-08	Labour	PRASAD, Rajendra	12	2
+2008-11-08	Labour	DYSON, Ruth Suzanne	13	1
+2008-11-08	Labour	MALLARD, Trevor Colin	14	1
+2008-11-08	Labour	DALZIEL, Lianne Audrey	15	1
+2008-11-08	Labour	JONES, Shane Geoffrey	16	2
+2008-11-08	Labour	PARKER, David William	17	2
+2008-11-08	Labour	COSGROVE, Clayton James	18	1
+2008-11-08	Labour	HUGHES, Darren Colyn	19	2
+2008-11-08	Labour	ARDERN, Jacinda Kate Laurell	20	2
+2008-11-08	Labour	HUO, JianQiang	21	2
+2008-11-08	Labour	MORONEY, Suzanne Mary	22	2
+2008-11-08	Labour	RIRINUI, Mita Michael	23	2
+2008-11-08	Labour	SIO, Su'a Viliamu	24	1
+2008-11-08	Labour	MACKEY, Moana Lynore	25	2
+2008-11-08	Labour	TWYFORD, Philip Stoner	26	2
+2008-11-08	Labour	CHAUVEL, Charles Pierre	27	2
+2008-11-08	Labour	BEAUMONT, Carol Ann	28	2
+2008-11-08	Labour	DAVIS, Kelvin Glen	29	2
+2008-11-08	Labour	CHADWICK, Stephanie Anne	30	2
+2008-11-08	Labour	CHOUDHARY, Ashraf	31	2
+2008-11-08	Labour	PILLAY, Barbara Lynne	32	2
+2008-11-08	Labour	FENTON, Darien Elizabeth	33	2
+2008-11-08	Labour	BARKER, Richard John	34	2
+2008-11-08	Labour	SEPULONI, Carmel Jean	35	2
+2008-11-08	Labour	NASH, Stuart Alexander	36	2
+2008-11-08	Labour	O'CONNOR, Damien Peter	37	0
+2008-11-08	Labour	TIZARD, Judith Ngaire	38	0
+2008-11-08	Labour	BURTON, Richard Mark	39	0
+2008-11-08	Labour	OKEROA, Mahara	40	0
+2008-11-08	Labour	GALLAGHER, Martin Owen	41	0
+2008-11-08	Labour	HEREORA, David	42	0
+2008-11-08	Labour	WALL, Louisa Hareruia	43	0
+2008-11-08	Labour	SOPER, Lesley Frances	44	0
+2008-11-08	Labour	CURRAN, Clare Elizabeth	45	1
+2008-11-08	Labour	ROBERTSON, Grant Murray	46	1
+2008-11-08	Labour	HIPKINS, Christopher John	47	1
+2008-11-08	Labour	LEES-GALLOWAY, Iain Francis	48	1
+2008-11-08	Labour	BURNS, Brendon	49	1
+2008-11-08	Labour	McCRACKEN, Hamish Kennedy	50	0
+2008-11-08	Labour	EBBORN-GILLESPIE, Erin Mai	51	0
+2008-11-08	Labour	MASON, Errol Turuki	52	0
+2008-11-08	Labour	YOO, Chris	53	0
+2008-11-08	Labour	BARTLEY, Josephine Ruth	54	0
+2008-11-08	Labour	PRYDE, Donald Stuart	55	0
+2008-11-08	Labour	WOOD, Michael Philip	56	0
+2008-11-08	Labour	SULTANA, Mosammat Begum Farida	57	0
+2008-11-08	Labour	MACKENZIE, Denise Lillian	58	0
+2008-11-08	Labour	BLANCHARD, Julian Malcolm	59	0
+2008-11-08	Labour	McDOUALL, Hamish Crichton	60	0
+2008-11-08	Labour	RAHMAN, Anjum Nausheen	61	0
+2008-11-08	Labour	ZHU, Xudong	62	0
+2008-11-08	Labour	SUTTON, Kate Anna	63	0
+2008-11-08	Labour	ROBERTS, Conor George	64	0
+2008-11-08	Labour	TAWA, Koro Alaster Richard	65	0
+2008-11-08	Labour	ANGUS BURNEY, Jills Helen	66	0
+2008-11-08	Labour	GOLDSMITH, Vivienne Jayne	67	0
+2008-11-08	Labour	DALY, Eamon	68	0
+2008-11-08	Labour	KELLY, Brian	69	0
+2008-11-08	Labour	CARTER, Jordan Tracy	70	0
+2008-11-08	Labour	DORREEN, Tracey Pamela	71	0
+2008-11-08	Labour	van de WEERT, Renee Louise	72	0
+2008-11-08	Labour	PANKHURST, Anne Marie	73	0
+2008-11-08	Labour	COATES, David Andrew	74	0
+2008-11-08	Labour	KININMONTH, Hugh Gerrard	75	0
+2008-11-08	Labour	DEVOY-HEENA, Carol Rosemary	76	0
+2008-11-08	Labour	THANDI, Rajeen Singh	77	0
+2008-11-08	Maori	TURIA, Tariana	1	1
+2008-11-08	Maori	SHARPLES, Pita Russell	2	1
+2008-11-08	Maori	HARAWIRA, Hone Pani Tamati Waka Nene	3	1
+2008-11-08	Maori	FLAVELL, Te Ururoa James William Ben	4	1
+2008-11-08	Maori	GREENSILL, Angeline Elizabeth Ngahina	5	0
+2008-11-08	Maori	FOX, Derek Tinia	6	0
+2008-11-08	Maori	KATENE, Rahui Reid	7	1
+2008-11-08	Maori	GLAVISH, Rangimarie Naida	8	0
+2008-11-08	Maori	TAWHIWHIRANGI, Iritana Te Rangi	9	0
+2008-11-08	Maori	MATTHEWS, Hector John Rarawa	10	0
+2008-11-08	Maori	PAUL, Te Orohi Teeni	11	0
+2008-11-08	Maori	PANOHO, Amokura Huia Angeline	12	0
+2008-11-08	Maori	HAWKE, Grant Pakihana	13	0
+2008-11-08	Maori	YATES, Bronwyn Ruth Naumai	14	0
+2008-11-08	Maori	PEITA, Josephine Bernadette	15	0
+2008-11-08	Maori	ORZECKI, Richard Edward	16	0
+2008-11-08	Maori	PITMAN, Mary-Anne Paneo	17	0
+2008-11-08	Maori	BLACK, Te Awanuiarangi Hapi	18	0
+2008-11-08	Maori	HAREMATE-CRAWFORD, Georgina Kopare Huia	19	0
+2008-11-08	National	KEY, John Phillip	1	1
+2008-11-08	National	ENGLISH, Simon William	2	1
+2008-11-08	National	BROWNLEE, Gerard Anthony	3	1
+2008-11-08	National	POWER, Simon James	4	1
+2008-11-08	National	SMITH, Nicolas Rex	5	1
+2008-11-08	National	RYALL, Anthony Boyd Williams	6	1
+2008-11-08	National	COLLINS, Judith Anne	7	1
+2008-11-08	National	WILLIAMSON, Maurice Donald	8	1
+2008-11-08	National	CARTER, David Cunningham	9	2
+2008-11-08	National	TOLLEY, Anne Merrilyn	10	1
+2008-11-08	National	McCULLY, Murray Stuart	11	1
+2008-11-08	National	SMITH, Alexander Lockwood	12	1
+2008-11-08	National	MAPP, Wayne Daniel	13	1
+2008-11-08	National	FINLAYSON, Christopher Francis	14	2
+2008-11-08	National	GROSER, Timothy John	15	2
+2008-11-08	National	JOYCE, Steven Leonard	16	2
+2008-11-08	National	Te HEUHEU, Georgina Manunui	17	2
+2008-11-08	National	GUY, Allen Nathan	18	1
+2008-11-08	National	TISCH, William Lindsay	19	1
+2008-11-08	National	WONG, Pansy	20	1
+2008-11-08	National	CARTER, John McGregor	21	1
+2008-11-08	National	HEATLEY, Philip Reeve	22	1
+2008-11-08	National	HUTCHISON, Charles Paul Telford	23	1
+2008-11-08	National	ARDERN, Philip Shane	24	1
+2008-11-08	National	WORTH, Richard Westwood	25	2
+2008-11-08	National	HENARE, Raymond Tau	26	2
+2008-11-08	National	GOUDIE, Sandra Anne	27	1
+2008-11-08	National	ROY, Eric Wilbur	28	1
+2008-11-08	National	COLEMAN, Jonathan David	29	1
+2008-11-08	National	WILKINSON, Catherine Joan	30	2
+2008-11-08	National	TREMAIN, Christopher James	31	1
+2008-11-08	National	BORROWS, Kerry James	32	1
+2008-11-08	National	FOSS, Craig Raymond Robert	33	1
+2008-11-08	National	PEACHEY, Allan Frederick	34	1
+2008-11-08	National	LOTU-IIGA, Peseta Samuela Masunu	35	1
+2008-11-08	National	PARATA, Patricia Hekia	36	2
+2008-11-08	National	LEE, Melissa	37	2
+2008-11-08	National	BAKSHI, Kanwaljit Singh	38	2
+2008-11-08	National	GOODHEW, Joanne Gay	39	1
+2008-11-08	National	DEAN, Jacqueline Isobel	40	1
+2008-11-08	National	BENNETT, Paula Lee	41	1
+2008-11-08	National	AUCHINVOLE, Christopher John	42	1
+2008-11-08	National	WAGNER, Nicola Joanne	43	2
+2008-11-08	National	BENNETT, David	44	1
+2008-11-08	National	BLUE, Jacqueline Diane	45	2
+2008-11-08	National	SHANKS, Katrina May	46	2
+2008-11-08	National	KING, Colin McDonald	47	1
+2008-11-08	National	QUINN, Bernard Paul	48	2
+2008-11-08	National	WOODHOUSE, Michael Allan	49	2
+2008-11-08	National	HAYES, John Bernard	50	1
+2008-11-08	National	BRIDGES, Simon Joseph	51	1
+2008-11-08	National	ADAMS, Amy Juliet	52	1
+2008-11-08	National	UPSTON, Louise Claire	53	1
+2008-11-08	National	McCLAY, Todd Michael	54	1
+2008-11-08	National	MACINDOE, Timothy Harley	55	1
+2008-11-08	National	GILMORE, Aaron Wayne	56	2
+2008-11-08	National	KAYE, Nicola Laura	57	1
+2008-11-08	National	CALDER, Campbell Gordon	58	0
+2008-11-08	National	POWELL, Conway Llewelyn	59	0
+2008-11-08	National	FRANKS, Stephen Leslie	60	0
+2008-11-08	National	ALEXANDER, Marc Antonius	61	0
+2008-11-08	National	PLIMMER, Malcolm Ross	62	0
+2008-11-08	National	HARRIS, Mita Whare	63	0
+2008-11-08	National	HEFFERNAN, Terence Michael	64	0
+2008-11-08	National	MUSUKU, Ravi Kumar	65	0
+2008-11-08	National	YOUNG, Jonathan Edgar Joseph	66	1
+2008-11-08	National	WHITESIDE, Richard Wood	67	0
+2008-11-08	National	O'BRIEN, Paul Francis	68	0
+2008-11-08	National	WATKINS, Youngshin Mary	69	0
+2008-11-08	National	GURREY, Vivienne Ann	70	0
+2008-11-08	National	McLEAN, Dugald Stuart Arthur	71	0
+2008-11-08	National	O'CONNOR, Simon David	72	0
+2008-11-08	UFNZ	DUNNE, Peter Francis	1	1
+2008-11-08	UFNZ	TURNER, Judith Anne	2	0
+2008-11-08	UFNZ	KRUM, Denise Adrienne	3	0
+2008-11-08	UFNZ	REEVES, Graeme Leonard	4	0
+2008-11-08	UFNZ	SOLOMON, Aaron Marcellin Selio	5	0
+2008-11-08	UFNZ	SMITH, Murray Vaughan	6	0
+2008-11-08	UFNZ	WILSON, Neville Jerome	7	0
+2008-11-08	UFNZ	OWEN, Francis Charles Trainor	8	0
+2008-11-08	UFNZ	TUCK, Janet Claire	9	0
+2008-11-08	UFNZ	MUTHU, Karuna	10	0
+2008-11-08	UFNZ	LOOMES, Robin Andrew	11	0
+2008-11-08	UFNZ	GRAYDON, Gregory Victor	12	0
+2008-11-08	UFNZ	LIGHT, Damian Francis	13	0
+2008-11-08	UFNZ	ROBERTS, Vanessa Joy	14	0
+2008-11-08	UFNZ	GALEY-YOUNG, Aaron Micheal	15	0
+2008-11-08	UFNZ	McINNES, Ian William	16	0
+2008-11-08	UFNZ	SHEFFIELD-CRANSTOUN, Kelleigh Teresa	17	0
+2008-11-08	UFNZ	WARD, Brian James	18	0
+2008-11-08	UFNZ	SMITH, Vaughan	19	0
+2008-11-08	UFNZ	STOWERS, James Amando Alfred	20	0
+2008-11-08	UFNZ	MOCKRIDGE, Bryan	21	0
+2008-11-08	UFNZ	SOLOMON, Arthur Gus	22	0
+2008-11-08	UFNZ	HURN, Jennifer	23	0
+2008-11-08	UFNZ	HEAD, Manogi Turua	24	0
+2008-11-08	UFNZ	BROWN, Diane Margaret	25	0
+2008-11-08	UFNZ	TODD, Quentin Gregory	26	0
+2008-11-08	UFNZ	WHITE, Rochelle Karen	27	0
+2008-11-08	UFNZ	LANGFORD, John Anthony	28	0
+2008-11-08	UFNZ	JOHNSON, Philip Alan	29	0
+2008-11-08	UFNZ	SMITH, Kenneth Wayne	30	0
+2011-11-26	ACT	BRASH, Donald Thomas	1	0
+2011-11-26	ACT	ISAAC, Catherine Anne Elizabeth	2	0
+2011-11-26	ACT	NICOLSON, Donald Owen	3	0
+2011-11-26	ACT	BANKS, John	4	1
+2011-11-26	ACT	SEYMOUR, David Breen	5	0
+2011-11-26	ACT	SIMMONS, Christopher William	6	0
+2011-11-26	ACT	WHITTINGTON, Stephen Alexander	7	0
+2011-11-26	ACT	McCABE, Kathleen Patricia Louise	8	0
+2011-11-26	ACT	STENT, Robyn Kathleen	9	0
+2011-11-26	ACT	THOMPSON, John Stanley	10	0
+2011-11-26	ACT	ORMOND, John Davies	11	0
+2011-11-26	ACT	MURPHY, Lynette Mary	12	0
+2011-11-26	ACT	MORATTI, Kevin Robert	13	0
+2011-11-26	ACT	GRIEVE, Robin Barrie	14	0
+2011-11-26	ACT	NAND, Pratima Devi	15	0
+2011-11-26	ACT	COSTELLO, Dominic John	16	0
+2011-11-26	ACT	SEVERIN, Toni Gae	17	0
+2011-11-26	ACT	EVANS, Richard Warwick	18	0
+2011-11-26	ACT	CUMMINGS, Ian James	19	0
+2011-11-26	ACT	VEALE, Gareth Rhys	20	0
+2011-11-26	ACT	HUTTON, Toby James	21	0
+2011-11-26	ACT	STRATTON, Daniel Kenneth	22	0
+2011-11-26	ACT	BURNSIDE, Robert James	23	0
+2011-11-26	ACT	FITZGERALD, Hayden Brent Richard	24	0
+2011-11-26	ACT	SPEIRS, Richard Alexander	25	0
+2011-11-26	ACT	McCAFFREY, Peter Edward	26	0
+2011-11-26	ACT	ATKINSON, Shane Whitford	27	0
+2011-11-26	ACT	BIRCHFIELD, Allan John	28	0
+2011-11-26	ACT	BOOM, Robin Cornelius	29	0
+2011-11-26	ACT	BOYLE, Stephen James	30	0
+2011-11-26	ACT	BRILL, Barry Edward	31	0
+2011-11-26	ACT	CARLINE, Ian Allan	32	0
+2011-11-26	ACT	CORBETT, Thomas Frederick	33	0
+2011-11-26	ACT	COSTELLO, Cassandra Jane	34	0
+2011-11-26	ACT	COURTENAY, Alwyn John	35	0
+2011-11-26	ACT	DAVIDSON, Alan Daniel	36	0
+2011-11-26	ACT	HANNAH, Kimberly Joanne	37	0
+2011-11-26	ACT	HOULBROOKE, Beth Patricia	38	0
+2011-11-26	ACT	HUFFLETT, Paul Charles	39	0
+2011-11-26	ACT	JOLLANDS, Rosanne Maree	40	0
+2011-11-26	ACT	KEARNEY, Nicholas Norman	41	0
+2011-11-26	ACT	KRONFELD, Timothy Paul	42	0
+2011-11-26	ACT	LATIMER, Joel Neurangi	43	0
+2011-11-26	ACT	MACFARLANE, Jonathan	44	0
+2011-11-26	ACT	MALLETT, Garry Bruce	45	0
+2011-11-26	ACT	McCALLUM, Guy Daniel	46	0
+2011-11-26	ACT	NICHOLLS, Colin William	47	0
+2011-11-26	ACT	NORVILL, John Anthony	48	0
+2011-11-26	ACT	PETERSON, David Christopher Malcolm	49	0
+2011-11-26	ACT	READ, James Jeremy	50	0
+2011-11-26	ACT	RUSSELL, Geoffrey Neil	51	0
+2011-11-26	ACT	SHARROCK, Andrew James	52	0
+2011-11-26	ACT	STEINIJANS, Barbara Delia	53	0
+2011-11-26	ACT	WARREN, Michael John	54	0
+2011-11-26	ACT	ASHWORTH, Vincent Alexandra	55	0
+2011-11-26	GP	STANTON TUREI, Metiria Leanne Agnes	1	2
+2011-11-26	GP	NORMAN, Russel	2	2
+2011-11-26	GP	HAGUE, Kevin  Grant	3	2
+2011-11-26	GP	DELAHUNTY, Catherine	4	2
+2011-11-26	GP	GRAHAM, Kennedy Gollan Montrose	5	2
+2011-11-26	GP	SAGE, Eugenie Meryl	6	2
+2011-11-26	GP	HUGHES, Gareth Thomas Llewellyn	7	2
+2011-11-26	GP	CLENDON, David James	8	2
+2011-11-26	GP	LOGIE, Heather Janet	9	2
+2011-11-26	GP	BROWNING, Steffan John	10	2
+2011-11-26	GP	ROCHE, Denise Maree	11	2
+2011-11-26	GP	WALKER, Holly Ruth Haines	12	2
+2011-11-26	GP	GENTER, Julie Anne	13	2
+2011-11-26	GP	MATHERS, Mojo Celeste	14	2
+2011-11-26	GP	SHAW, James Peter Edward	15	0
+2011-11-26	GP	HAY, David Robert	16	0
+2011-11-26	GP	LECKINGER, Richard John	17	0
+2011-11-26	GP	BARLOW, Aaryn	18	0
+2011-11-26	GP	ELLEY, Jeanette Susan	19	0
+2011-11-26	GP	ROTMANN, Sea	20	0
+2011-11-26	GP	GILCHRIST, Michael Alexander	21	0
+2011-11-26	GP	LANGSBURY, Dora Roimata	22	0
+2011-11-26	GP	KENNEDY, David John	23	0
+2011-11-26	GP	WOODLEY, Tane Hohepa	24	0
+2011-11-26	GP	BURSTON, Joseph Daniel	25	0
+2011-11-26	GP	CURTIS, Michael James	26	0
+2011-11-26	GP	GALLAGHER, Shane Anthony	27	0
+2011-11-26	GP	TOMS, Saffron	28	0
+2011-11-26	GP	TOLLESTRUP, Stephen Rome	29	0
+2011-11-26	GP	DORNER, Zachary James Moar	30	0
+2011-11-26	GP	BAILEY, Paul Edward	31	0
+2011-11-26	GP	BAZELEY, Andrew Patrick	32	0
+2011-11-26	GP	BRANNIGAN, Maree Annette	33	0
+2011-11-26	GP	CONROY, Caroline Anne	34	0
+2011-11-26	GP	COUTTS, Susan Jane	35	0
+2011-11-26	GP	EVANS, Pauline	36	0
+2011-11-26	GP	GOLDSMITH, Rachael Louise	37	0
+2011-11-26	GP	HARPER, Cameron John Ora	38	0
+2011-11-26	GP	KELCHER, John Michael	39	0
+2011-11-26	GP	KRUIZE, Alexander Jan	40	0
+2011-11-26	GP	LAND, Thomas William	41	0
+2011-11-26	GP	LIGTENBERG, Gerdina Henrica Adriana Maria	42	0
+2011-11-26	GP	MACDONALD, James Stuart	43	0
+2011-11-26	GP	MARRYATT, Nicholas John	44	0
+2011-11-26	GP	McCARTHY, Zane	45	0
+2011-11-26	GP	McDONALD, Jack Tautokai Baxter	46	0
+2011-11-26	GP	McLEAN, Ian Gordon	47	0
+2011-11-26	GP	MILNES, John Ingham	48	0
+2011-11-26	GP	MONTEITH, Darryl Stuart	49	0
+2011-11-26	GP	MOORE, Robert Bruce	50	0
+2011-11-26	GP	MOORE, Teresa Janet	51	0
+2011-11-26	GP	MOORHOUSE, David Peter	52	0
+2011-11-26	GP	ROSS, Todd Caleb	53	0
+2011-11-26	GP	STANSFIELD, Brett Thomas	54	0
+2011-11-26	GP	STEEDMAN, Geoffrey	55	0
+2011-11-26	GP	STEWART, Gary Todd	56	0
+2011-11-26	GP	TAVA, Vernon Ivan	57	0
+2011-11-26	GP	TUCKER, Corrina Adele	58	0
+2011-11-26	GP	WATSON, Pieter Rowley Burges	59	0
+2011-11-26	GP	WATTS, Charmaine Anthea	60	0
+2011-11-26	GP	WESLEY, Richard Laurence	61	0
+2011-11-26	Labour	GOFF, Philip Bruce	1	1
+2011-11-26	Labour	KING, Annette Faye	2	1
+2011-11-26	Labour	CUNLIFFE, David Richard	3	1
+2011-11-26	Labour	PARKER, David William	4	2
+2011-11-26	Labour	DYSON, Ruth Suzanne	5	1
+2011-11-26	Labour	HOROMIA, Parekura Tureia	6	1
+2011-11-26	Labour	STREET, Maryan	7	2
+2011-11-26	Labour	COSGROVE, Clayton James	8	2
+2011-11-26	Labour	MALLARD, Trevor Colin	9	1
+2011-11-26	Labour	MORONEY, Suzanne Mary	10	2
+2011-11-26	Labour	CHAUVEL, Charles Pierre	11	2
+2011-11-26	Labour	MAHUTA, Nanaia Cybele	12	1
+2011-11-26	Labour	ARDERN, Jacinda Kate Laurell	13	2
+2011-11-26	Labour	ROBERTSON, Grant Murray	14	1
+2011-11-26	Labour	LITTLE, Andrew James	15	2
+2011-11-26	Labour	JONES, Shane Geoffrey	16	2
+2011-11-26	Labour	SIO, Su'a Viliamu	17	1
+2011-11-26	Labour	FENTON, Darien Elizabeth	18	2
+2011-11-26	Labour	MACKEY, Moana Lynore	19	2
+2011-11-26	Labour	PRASAD, Rajendra	20	2
+2011-11-26	Labour	HUO, Raymond Jianqiang	21	2
+2011-11-26	Labour	BEAUMONT, Carol Ann	22	0
+2011-11-26	Labour	DAVIS, Kelvin Glen	23	0
+2011-11-26	Labour	SEPULONI, Carmel Jean	24	0
+2011-11-26	Labour	BARKER, Richard John	25	0
+2011-11-26	Labour	MAHUTA-COYLE, Deborah Joan	26	0
+2011-11-26	Labour	NASH, Stuart Alexander	27	0
+2011-11-26	Labour	CURRAN, Clare Elizabeth	28	1
+2011-11-26	Labour	BURNS, Brendon	29	0
+2011-11-26	Labour	HIPKINS, Christopher John	30	1
+2011-11-26	Labour	SHEARER, David James	31	1
+2011-11-26	Labour	WOOD, Michael Philip	32	0
+2011-11-26	Labour	TWYFORD, Philip Stoner	33	1
+2011-11-26	Labour	CHADWICK, Stephanie Anne	34	0
+2011-11-26	Labour	SUTTON, Kate Anna	35	0
+2011-11-26	Labour	MIKA, Jerome	36	0
+2011-11-26	Labour	LEES-GALLOWAY, Iain Francis	37	1
+2011-11-26	Labour	PAGANI, Josephine Jefcoate	38	0
+2011-11-26	Labour	STEWART, Lynette Merle	39	0
+2011-11-26	Labour	CARTER, Jordan Tracy	40	0
+2011-11-26	Labour	FAAFOI, Kristopher John	41	1
+2011-11-26	Labour	ROSE, Christine Anne	42	0
+2011-11-26	Labour	ALEXANDER, Glenda Adele	43	0
+2011-11-26	Labour	ZHU, Susan (Xudong)	44	0
+2011-11-26	Labour	TIRIKATENE, Rino	45	1
+2011-11-26	Labour	SCHOENBERGER-ORGAD, Sehai	46	0
+2011-11-26	Labour	WOODS, Megan Cherie	47	1
+2011-11-26	Labour	KEIL, Mea'ole Hans James	48	0
+2011-11-26	Labour	CLARK, David Scott	49	1
+2011-11-26	Labour	HILLS, Richard Brian	50	0
+2011-11-26	Labour	SUISUIKI, Anahila Lose	51	0
+2011-11-26	Labour	McDOUALL, Hamish Crichton	52	0
+2011-11-26	Labour	TE KANI, Louis Te Whakaotinga	53	0
+2011-11-26	Labour	LOO, Tat Ang	54	0
+2011-11-26	Labour	PEKE-MASON, Soraya Waiata	55	0
+2011-11-26	Labour	BLANCHARD, Julian Malcolm	56	0
+2011-11-26	Labour	FOSTER, Peter Allen Cranleigh	57	0
+2011-11-26	Labour	NEWMAN, Patrick William	58	0
+2011-11-26	Labour	HAYDON-CARR, Julia Bridgit	59	0
+2011-11-26	Labour	BOTT, Michael Robin	60	0
+2011-11-26	Labour	GOLDSMITH, Vivienne Jayne	61	0
+2011-11-26	Labour	BAKULICH, Nicholas Leiloa	62	0
+2011-11-26	Labour	YOO, Chris	63	0
+2011-11-26	Labour	MONKS, Barry Raymond	64	0
+2011-11-26	Labour	KININMONTH, Hugh Gerrard	65	0
+2011-11-26	Labour	KIM, Josephine Yeon Ju	66	0
+2011-11-26	Labour	GILLON, Wendy Paula Kirsty	67	0
+2011-11-26	Labour	DEVOY-HEENA, Carol Rosemary	68	0
+2011-11-26	Labour	CLARK, Benjamin Charles	69	0
+2011-11-26	Labour	WU, Chao-Fu	70	0
+2011-11-26	Mana	HARAWIRA, Hone Pani Tamati Waka Nene	1	1
+2011-11-26	Mana	SYKES, Annette Te Imaima	2	0
+2011-11-26	Mana	MINTO, John Bernard	3	0
+2011-11-26	Mana	BRADFORD, Susan	4	0
+2011-11-26	Mana	HARRISON, Misty Hinemoa	5	0
+2011-11-26	Mana	PAPALI'I, James Philip	6	0
+2011-11-26	Mana	McCLUTCHIE, Renata Tawhai	7	0
+2011-11-26	Mana	GREENSILL, Angeline Ngahina	8	0
+2011-11-26	Mana	GARDINER, Jayson Patariki McRae	9	0
+2011-11-26	Mana	COOPER, Richard Shortland	10	0
+2011-11-26	Mana	CLEAVE, Peter	11	0
+2011-11-26	Mana	IRWIN, Valentine	12	0
+2011-11-26	Mana	TIPENE, Tangi Sharon	13	0
+2011-11-26	Mana	REEDY, Keriana Jacqueline Hine	14	0
+2011-11-26	Mana	O'DEA, Patrick John	15	0
+2011-11-26	Mana	PAUL, Roderick Whare	16	0
+2011-11-26	Mana	ROGERS, Grant Thomas	17	0
+2011-11-26	Mana	HUIRAMA-PATUWAI, Nguha	18	0
+2011-11-26	Mana	TUMAI, Barry Edward	19	0
+2011-11-26	Mana	HEREWINI, Ngawai	20	0
+2011-11-26	Maori	SHORTLAND, Waihoroi Paraone	1	0
+2011-11-26	Maori	SMITH, Kaapua Te Paea Moko Jamie	2	0
+2011-11-26	Maori	WALSH-TAPIATA, Karen Wheturangi	3	0
+2011-11-26	Maori	POROU, Tina Tangi Whaiora	4	0
+2011-11-26	Maori	BLACK, Te Awanuiarangi Hapi	5	0
+2011-11-26	Maori	MURRAY, Davina Valerie	6	0
+2011-11-26	Maori	TURIA, Tariana	7	1
+2011-11-26	Maori	SHARPLES, Pita Russell	8	1
+2011-11-26	Maori	FLAVELL, Te Ururoa James William Ben	9	1
+2011-11-26	Maori	PEITA, Josephine Bernadette	10	0
+2011-11-26	Maori	TE HURIHANGANUI, Paora	11	0
+2011-11-26	Maori	FLAVELL, Fallyn Rebecca	12	0
+2011-11-26	Maori	CHRISTIE, Daryl	13	0
+2011-11-26	Maori	PHILLIPS, Thomas Tuatu Toihau	14	0
+2011-11-26	Maori	MORRISON, Timothy Aperahama	15	0
+2011-11-26	Maori	NICHOLSON, Charles Tamai	16	0
+2011-11-26	Maori	RICKUS, Louise Aroha	17	0
+2011-11-26	National	KEY, John Phillip	1	1
+2011-11-26	National	ENGLISH, Simon William	2	1
+2011-11-26	National	SMITH, Alexander Lockwood	3	2
+2011-11-26	National	BROWNLEE, Gerard Anthony	4	1
+2011-11-26	National	RYALL, Anthony Boyd Williams	5	1
+2011-11-26	National	SMITH, Nicolas Rex	6	1
+2011-11-26	National	COLLINS, Judith Anne	7	1
+2011-11-26	National	TOLLEY, Anne Merrilyn	8	1
+2011-11-26	National	FINLAYSON, Christopher Francis	9	2
+2011-11-26	National	CARTER, David Cunningham	10	2
+2011-11-26	National	McCULLY, Murray Stuart	11	1
+2011-11-26	National	GROSER, Timothy John	12	2
+2011-11-26	National	JOYCE, Steven Leonard	13	2
+2011-11-26	National	BENNETT, Paula Lee	14	1
+2011-11-26	National	HEATLEY, Philip Reeve	15	1
+2011-11-26	National	COLEMAN, Jonathan David	16	1
+2011-11-26	National	WILKINSON, Catherine Joan	17	1
+2011-11-26	National	PARATA, Patricia Hekia	18	2
+2011-11-26	National	WILLIAMSON, Maurice Donald	19	1
+2011-11-26	National	GUY, Allen Nathan	20	1
+2011-11-26	National	FOSS, Craig Raymond Robert	21	1
+2011-11-26	National	TREMAIN, Christopher James	22	1
+2011-11-26	National	GOODHEW, Joanne Gay	23	1
+2011-11-26	National	TISCH, William Lindsay	24	1
+2011-11-26	National	ROY, Eric Wilbur	25	1
+2011-11-26	National	HUTCHISON, Charles Paul Telford	26	1
+2011-11-26	National	ARDERN, Philip Shane	27	1
+2011-11-26	National	ADAMS, Amy Juliet	28	1
+2011-11-26	National	LOTU-IIGA, Peseta Samuelu Masunu	29	1
+2011-11-26	National	BRIDGES, Simon Joseph	30	1
+2011-11-26	National	WOODHOUSE, Michael Allan	31	2
+2011-11-26	National	BORROWS, Kerry James	32	1
+2011-11-26	National	KAYE, Nicola Laura	33	1
+2011-11-26	National	LEE, Melissa Ji-Yun	34	2
+2011-11-26	National	BAKSHI, Kanwaljit Singh	35	2
+2011-11-26	National	YANG, Jian	36	2
+2011-11-26	National	NGARO, Alfred	37	2
+2011-11-26	National	SHANKS, Katrina May	38	2
+2011-11-26	National	GOLDSMITH, Paul Jonathan	39	2
+2011-11-26	National	HENARE, Raymond Tau	40	2
+2011-11-26	National	DEAN, Jacqueline Isobel	41	1
+2011-11-26	National	WAGNER, Nicola Joanne	42	1
+2011-11-26	National	AUCHINVOLE, Chris	43	2
+2011-11-26	National	UPSTON, Louise Claire	44	1
+2011-11-26	National	YOUNG, Jonathan Edgar Joseph	45	1
+2011-11-26	National	BLUE, Jacqueline Diane	46	2
+2011-11-26	National	McCLAY, Todd Michael	47	1
+2011-11-26	National	BENNETT, David Allister	48	1
+2011-11-26	National	MACINDOE, Timothy Harley	49	1
+2011-11-26	National	CALDER, Campbell Gordon	50	2
+2011-11-26	National	HAYES, John Bernard	51	1
+2011-11-26	National	KING, Colin McDonald	52	1
+2011-11-26	National	GILMORE, Aaron Wayne	53	0
+2011-11-26	National	ROSS, Jami-Lee Matenga	54	1
+2011-11-26	National	QUINN, Bernard Paul	55	0
+2011-11-26	National	FOSTER-BELL, Paul Ayers Robert	56	0
+2011-11-26	National	BARRY, Margaret Mary	57	1
+2011-11-26	National	McKELVIE, Ian Robert Flockhart	58	1
+2011-11-26	National	MITCHELL, Mark Patrick	59	1
+2011-11-26	National	SABIN, Michael Lewis	60	1
+2011-11-26	National	SIMPSON, Scott Anthony	61	1
+2011-11-26	National	O'CONNOR, Simon David	62	1
+2011-11-26	National	HAUITI, Claudette	63	0
+2011-11-26	National	HAYES, Joanne Kowhai	64	0
+2011-11-26	National	HAPETA, Leonie Ruth	65	0
+2011-11-26	National	COLLINS, Samuel David	66	0
+2011-11-26	National	FLETCHER, Jonathan Murray	67	0
+2011-11-26	National	TANNER, Heather Diane	68	0
+2011-11-26	National	KRUM, Denise Adrienne	69	0
+2011-11-26	National	O'FALLON, Carolyn Elizabeth	70	0
+2011-11-26	National	GURREY, Vivienne Ann	71	0
+2011-11-26	National	ROLLESTON, Karen Lynda	72	0
+2011-11-26	National	HUDSON, Brett John	73	0
+2011-11-26	National	COOPER, Linda Ann	74	0
+2011-11-26	National	VARLEY, Karl Daniel	75	0
+2011-11-26	NZF	PETERS, Winston Raymond	1	2
+2011-11-26	NZF	MARTIN, Tracey Anne	2	2
+2011-11-26	NZF	WILLIAMS, Andrew Bruce Forbes	3	2
+2011-11-26	NZF	PROSSER, Richard Ivor	4	2
+2011-11-26	NZF	STEWART, Barbara Joy	5	2
+2011-11-26	NZF	HORAN, Brendan Francis John	6	2
+2011-11-26	NZF	O'ROURKE, Denis John	7	2
+2011-11-26	NZF	LOLE-TAYLOR, Asenati	8	2
+2011-11-26	NZF	MULFORD-TYLER, Helen Jane	9	0
+2011-11-26	NZF	BARR, Hugh	10	0
+2011-11-26	NZF	TABUTEAU, Fletcher Hoporona	11	0
+2011-11-26	NZF	PARAONE, Rewiti Pomare Kingi	12	0
+2011-11-26	NZF	CATCHPOLE, Brent Stanley	13	0
+2011-11-26	NZF	CRAVEN, Ben	14	0
+2011-11-26	NZF	HE, Xiao Peng	15	0
+2011-11-26	NZF	GUDGEON, William Mulligan	16	0
+2011-11-26	NZF	GARDENER, Kevin James	17	0
+2011-11-26	NZF	DOLMAN, Raymond	18	0
+2011-11-26	NZF	SCOTT, David	19	0
+2011-11-26	NZF	RATANA, Randall Anthony	20	0
+2011-11-26	NZF	BINDRA, Mahesh Jaichand	21	0
+2011-11-26	NZF	PERRY, Edwin Jock	22	0
+2011-11-26	NZF	JELLEY, Dion Clifford	23	0
+2011-11-26	NZF	HALL, John Harold	24	0
+2011-11-26	NZF	STONE, Kevin Arthur	25	0
+2011-11-26	NZF	NABBS, Douglas William John	26	0
+2011-11-26	NZF	PIERSON, Brent Steven	27	0
+2011-11-26	NZF	ILALIO, Oliva	28	0
+2011-11-26	NZF	STEWART, Gordon James	29	0
+2011-11-26	NZF	REID, Tamati Kaiwai	30	0
+2011-11-26	NZF	BROUGHAM, Ian Wallace	31	0
+2011-11-26	NZF	WOODS, William Edward	32	0
+2011-11-26	NZF	DAVIES, Allen Edwin	33	0
+2011-11-26	UFNZ	DUNNE, Peter Francis	1	1
+2011-11-26	UFNZ	STEVENS, Douglas Roy	2	0
+2011-11-26	UFNZ	EADDY, Robert Raymond	3	0
+2011-11-26	UFNZ	EUSOFF, Mohamed Sultan	4	0
+2011-11-26	UFNZ	SIMMONS, Alan Frank	5	0
+2011-11-26	UFNZ	MOCKRIDGE, Bryan	6	0
+2011-11-26	UFNZ	ROBERTS, Vanessa Joy	7	0
+2011-11-26	UFNZ	GEORGE, Peter Don	8	0
+2011-11-26	UFNZ	PARKASH, Ram	9	0
+2011-11-26	UFNZ	GIBSON, Martin James	10	0
+2011-11-26	UFNZ	GRAF, Clyde Waldemar	11	0
+2011-11-26	UFNZ	LIGHT, Damian Francis	12	0
+2011-11-26	UFNZ	McMILLAN, Andrew James	13	0
+2011-11-26	UFNZ	BROWN, Diane	14	0
+2011-11-26	UFNZ	CARTER, Brian Hubert	15	0
+2011-11-26	UFNZ	MILLER, Johnny Isaac	16	0
+2011-11-26	UFNZ	GASKIN, Ian Camden	17	0
+2014-09-20	ACT	WHYTE, Jamie Thomas	1	0
+2014-09-20	ACT	WANG, Kenneth Xiaoxuan	2	0
+2014-09-20	ACT	GRIEVE, Robin Barrie	3	0
+2014-09-20	ACT	HOULBROOKE, Beth Patricia	4	0
+2014-09-20	ACT	NICOLSON, Donald Owen	5	0
+2014-09-20	ACT	BERRY, Stephen James	6	0
+2014-09-20	ACT	KOVALENKO, Daria Alexeevna	7	0
+2014-09-20	ACT	VEALE, Gareth Rhys	8	0
+2014-09-20	ACT	CUMMINGS, Ian James	9	0
+2014-09-20	ACT	RUSSELL-MUTI, Sara Jane	10	0
+2014-09-20	ACT	SEVERIN, Toni Gae	11	0
+2014-09-20	ACT	PIRRIE, Phelan Michael	12	0
+2014-09-20	ACT	FLETCHER, Stephen James	13	0
+2014-09-20	ACT	OLSEN, David Edward	14	0
+2014-09-20	ACT	KEARNEY, Nicholas Norman	15	0
+2014-09-20	ACT	FITZPATRICK, Sean Daniel Thomas	16	0
+2014-09-20	ACT	EVANS, Richard Warwick	17	0
+2014-09-20	ACT	MILNE, Michael John	18	0
+2014-09-20	ACT	SMITH, Ronald Charles	19	0
+2014-09-20	ACT	KRONFELD, Timothy Paul	20	0
+2014-09-20	ACT	ATKINSON, Shane	21	0
+2014-09-20	ACT	BURROW, Michael Ian	22	0
+2014-09-20	ACT	CARLEY, Bruce Leo Benedict	23	0
+2014-09-20	ACT	CORBETT, Thomas Frederick	24	0
+2014-09-20	ACT	DAVIDSON, Alan Daniel	25	0
+2014-09-20	ACT	FERGUSSON, Thomas Wilson	26	0
+2014-09-20	ACT	GILBERT, Paul de Vallenger	27	0
+2014-09-20	ACT	GRAY, James Stephen	28	0
+2014-09-20	ACT	GRIEVE, Shaun Hayden	29	0
+2014-09-20	ACT	HAYCOCK, Bruce Kim	30	0
+2014-09-20	ACT	HUFFLETT, Paul Charles	31	0
+2014-09-20	ACT	JIANG, Peter	32	0
+2014-09-20	ACT	LENNOX, Kenneth Duncan	33	0
+2014-09-20	ACT	McCABE, Kathleen Patricia Louise	34	0
+2014-09-20	ACT	NELSON, Craig	35	0
+2014-09-20	ACT	NICHOLLS, Colin William	36	0
+2014-09-20	ACT	O'SULLIVAN, Graeme Arthur	37	0
+2014-09-20	ACT	REEDER, Joanne McLean	38	0
+2014-09-20	ACT	RUSSELL, Geoffrey Neil	39	0
+2014-09-20	ACT	THOMPSON, John Stanley	40	0
+2014-09-20	ACT	WILSON, Neil John	41	0
+2014-09-20	GP	STANTON TUREI, Metiria Leanne Agnes	1	2
+2014-09-20	GP	NORMAN, Russel William	2	2
+2014-09-20	GP	HAGUE, Kevin Grant	3	2
+2014-09-20	GP	SAGE, Eugenie Meryl	4	2
+2014-09-20	GP	HUGHES, Gareth Thomas Llewellyn	5	2
+2014-09-20	GP	DELAHUNTY, Catherine	6	2
+2014-09-20	GP	GRAHAM, Kennedy Gollan Montrose	7	2
+2014-09-20	GP	GENTER, Julie Anne	8	2
+2014-09-20	GP	MATHERS, Mojo Celeste	9	2
+2014-09-20	GP	LOGIE, Heather Janet	10	2
+2014-09-20	GP	CLENDON, David James	11	2
+2014-09-20	GP	SHAW, James Peter Edward	12	2
+2014-09-20	GP	ROCHE, Denise Maree	13	2
+2014-09-20	GP	BROWNING, Steffan John	14	2
+2014-09-20	GP	DAVIDSON, Marama Mere-Ana	15	0
+2014-09-20	GP	COATES, Robert Barry Hobson	16	0
+2014-09-20	GP	HART, John Stuart	17	0
+2014-09-20	GP	KENNEDY, David John	18	0
+2014-09-20	GP	ELLEY, Jeanette Susan	19	0
+2014-09-20	GP	McDONALD, Jack Baxter	20	0
+2014-09-20	GP	MOORHOUSE, David Peter	21	0
+2014-09-20	GP	ROTMANN, Sea	22	0
+2014-09-20	GP	LECKINGER, Richard John	23	0
+2014-09-20	GP	PERINPANAYAGAM, Umesh	24	0
+2014-09-20	GP	RUTHVEN, Susanne Marie	25	0
+2014-09-20	GP	MOORE, Teresa Janet	26	0
+2014-09-20	GP	LANGSBURY, Dora Roimata	27	0
+2014-09-20	GP	WOODLEY, Tane Hohepa	28	0
+2014-09-20	GP	PERLEY, Christopher John Keith	29	0
+2014-09-20	GP	GOLDSMITH, Rachael Louise	30	0
+2014-09-20	GP	KELCHER, John Michael	31	0
+2014-09-20	GP	ROGERS, Daniel	32	0
+2014-09-20	GP	WESLEY, Richard Laurence	33	0
+2014-09-20	GP	SMITHSON, Anne-Elise	34	0
+2014-09-20	GP	McALL, Malcolm Ley Stuart	35	0
+2014-09-20	GP	FORD, Christopher John	36	0
+2014-09-20	GP	HUNT, Reuben Timothy	37	0
+2014-09-20	GP	BAILEY, Paul Edward	38	0
+2014-09-20	GP	CONROY, Caroline Anne	39	0
+2014-09-20	GP	COUTTS, Susan Jane	40	0
+2014-09-20	GP	DOHERTY, Paul William	41	0
+2014-09-20	GP	DREW, Madeleine Rose	42	0
+2014-09-20	GP	GALLAGHER, Shane Anthony	43	0
+2014-09-20	GP	HILL, Peter Selwyn	44	0
+2014-09-20	GP	IRWIN, Frances Ruth	45	0
+2014-09-20	GP	KANI, Henare Matua	46	0
+2014-09-20	GP	MACLEAN, Gavin Wareham	47	0
+2014-09-20	GP	MAYNE, Nicholas Robert	48	0
+2014-09-20	GP	McLEAN, Ian Gordon	49	0
+2014-09-20	GP	MOORE, Robert Bruce	50	0
+2014-09-20	GP	ROBERTS, Sarah Ngaire	51	0
+2014-09-20	GP	ROBERTSON, Colin Donald	52	0
+2014-09-20	GP	ROBINSON, David John	53	0
+2014-09-20	GP	SERVIAN, Mark Anthony	54	0
+2014-09-20	GP	SIGGAARD, Dorthe	55	0
+2014-09-20	GP	STANSFIELD, Brett Thomas	56	0
+2014-09-20	GP	STEWART, Gary Todd	57	0
+2014-09-20	GP	STRICKSON-PUA, Muamua Sofi	58	0
+2014-09-20	GP	TUPOU, Patricia Margaret	59	0
+2014-09-20	Labour	CUNLIFFE, David Richard	1	1
+2014-09-20	Labour	PARKER, David William	2	2
+2014-09-20	Labour	ROBERTSON, Grant Murray	3	1
+2014-09-20	Labour	KING, Annette Faye	4	1
+2014-09-20	Labour	ARDERN, Jacinda	5	2
+2014-09-20	Labour	MAHUTA, Nanaia Cybele	6	1
+2014-09-20	Labour	TWYFORD, Philip Stoner	7	1
+2014-09-20	Labour	COSGROVE, Clayton James	8	2
+2014-09-20	Labour	HIPKINS, Christopher John	9	1
+2014-09-20	Labour	MORONEY, Suzanne Mary	10	2
+2014-09-20	Labour	LITTLE, Andrew James	11	2
+2014-09-20	Labour	WALL, Louisa Hareruia	12	1
+2014-09-20	Labour	SHEARER, David James	13	1
+2014-09-20	Labour	SIO, Sua William	14	1
+2014-09-20	Labour	STREET, Maryan	15	0
+2014-09-20	Labour	GOFF, Philip Bruce	16	1
+2014-09-20	Labour	MACKEY, Moana Lynore	17	0
+2014-09-20	Labour	DAVIS, Kelvin Glen	18	1
+2014-09-20	Labour	WHAITIRI, Meka	19	1
+2014-09-20	Labour	WOODS, Megan Cherie	20	1
+2014-09-20	Labour	HUO, Raymond	21	0
+2014-09-20	Labour	O'CONNOR, Damien Peter	22	1
+2014-09-20	Labour	RADHAKRISHNAN, Priyanca	23	0
+2014-09-20	Labour	LEES-GALLOWAY, Iain Francis	24	1
+2014-09-20	Labour	JONES, Rachel Anne	25	0
+2014-09-20	Labour	CLARK, David Scott	26	1
+2014-09-20	Labour	BEAUMONT, Carol Ann	27	0
+2014-09-20	Labour	WILLIAMS, Munokoa Poto	28	1
+2014-09-20	Labour	SEPULONI, Carmel Jean	29	1
+2014-09-20	Labour	COFFEY, Tamati Gerald	30	0
+2014-09-20	Labour	SALESA, Jennifer Teresia	31	1
+2014-09-20	Labour	CRAIG, Elizabeth Dorothy	32	0
+2014-09-20	Labour	RUSSELL, Deborah Faye	33	0
+2014-09-20	Labour	PRIME, Willow-Jean	34	0
+2014-09-20	Labour	MIKA, Jerome	35	0
+2014-09-20	Labour	MILNE, Tony Robert	36	0
+2014-09-20	Labour	ANDERSEN, Virginia Ruby	37	0
+2014-09-20	Labour	SZABO, Claire Elizabeth	38	0
+2014-09-20	Labour	WOOD, Michael Philip	39	0
+2014-09-20	Labour	WILLIAMS, Arena Hinekura Sherburd	40	0
+2014-09-20	Labour	McDOUALL, Hamish Crichton	41	0
+2014-09-20	Labour	RAHMAN, Anjum Nausheen	42	0
+2014-09-20	Labour	KAUSHAL, Sushil	43	0
+2014-09-20	Labour	GREER, Christine	44	0
+2014-09-20	Labour	GAYLOR, Penelope Louise	45	0
+2014-09-20	Labour	WALKER, Janette Florence	46	0
+2014-09-20	Labour	HILLS, Richard Brian	47	0
+2014-09-20	Labour	HALBERT, Shanan Kiritea	48	0
+2014-09-20	Labour	KANONGATA'A-SUISUIKI, Anahila Lose	49	0
+2014-09-20	Labour	WILSON, Clare Campbell	50	0
+2014-09-20	Labour	DANN, James Macbeth	51	0
+2014-09-20	Labour	ELLIS, Siobhan Kelly	52	0
+2014-09-20	Labour	HADDOCK, Corie Jon	53	0
+2014-09-20	Labour	STRANGE, Jamie Ross	54	0
+2014-09-20	Labour	PAUL, Katie Ann Priocilla	55	0
+2014-09-20	Labour	GIBSON, Steven John	56	0
+2014-09-20	Labour	WU, Chao-Fu	57	0
+2014-09-20	Labour	GRIMSHAW, Paul Radcliffe	58	0
+2014-09-20	Labour	DORREEN, Tracey Pamela	59	0
+2014-09-20	Labour	MAMEDOV, Tofik Shirzad Ogly	60	0
+2014-09-20	Labour	TOROA, Hikiera Johnathan	61	0
+2014-09-20	Labour	TYLER, Allan Hugh	62	0
+2014-09-20	Labour	ELLIOTT, Susan Mary	63	0
+2014-09-20	Labour	BUCKINGHAM, Simon Derek	64	0
+2014-09-20	Maori	FLAVELL, Te Ururoa James William Ben	1	1
+2014-09-20	Maori	FOX, Marama Kahu	2	2
+2014-09-20	Maori	McKENZIE, Christopher Owen	3	0
+2014-09-20	Maori	PAENGA, Te Hira Keretene Te Whakaiti	4	0
+2014-09-20	Maori	BUTTON, Ngaire Lorraine	5	0
+2014-09-20	Maori	TUAINE, Nancy Te Urumanao	6	0
+2014-09-20	Maori	ITI, Tame	7	0
+2014-09-20	Maori	KIEL, Eraia James Rangiriri	8	0
+2014-09-20	Maori	KAIPO, Anaru Joseph	9	0
+2014-09-20	Maori	BHANA, Raewyn Teresa	10	0
+2014-09-20	Maori	GLAVISH, Rangimarie Naida	11	0
+2014-09-20	Maori	RERITI-CROFTS, Aroha Hohipera	12	0
+2014-09-20	Maori	TE HAU, Te Hinurewa Ngahiwi Tame Kawe	13	0
+2014-09-20	Maori	PHILLIPS, Thomas Tuatu Toihau	14	0
+2014-09-20	Maori	GATE, Verna Te Roha	15	0
+2014-09-20	Maori	KENDALL, Anne Marie	16	0
+2014-09-20	Maori	PAKINGA, Hiria Gillian	17	0
+2014-09-20	Maori	WINITANA, Claire Te Atamira	18	0
+2014-09-20	Maori	SMITH, Rawiri Richard	19	0
+2014-09-20	Maori	DAVIDSON, Lenis Mary	20	0
+2014-09-20	Maori	MATAKI, Tania	21	0
+2014-09-20	Maori	GARDYNE, Sheryl Ann	22	0
+2014-09-20	Maori	PHILLIPS, Te Whe Ariki	23	0
+2014-09-20	Maori	WAKEFIELD, Benita Waina	24	0
+2014-09-20	National	KEY, John Phillip	1	1
+2014-09-20	National	ENGLISH, Simon William	2	2
+2014-09-20	National	CARTER, David Cunningham	3	2
+2014-09-20	National	BROWNLEE, Gerard Anthony	4	1
+2014-09-20	National	JOYCE, Steven Leonard	5	2
+2014-09-20	National	COLLINS, Judith Anne	6	1
+2014-09-20	National	PARATA, Patricia Hekia	7	2
+2014-09-20	National	FINLAYSON, Christopher Francis	8	2
+2014-09-20	National	BENNETT, Paula Lee	9	1
+2014-09-20	National	COLEMAN, Jonathan David	10	1
+2014-09-20	National	McCULLY, Murray Stuart	11	1
+2014-09-20	National	TOLLEY, Anne Merrilyn	12	1
+2014-09-20	National	SMITH, Nick	13	1
+2014-09-20	National	GROSER, Timothy John	14	2
+2014-09-20	National	ADAMS, Amy Juliet	15	1
+2014-09-20	National	GUY, Allen Nathan	16	1
+2014-09-20	National	FOSS, Craig	17	1
+2014-09-20	National	BRIDGES, Simon Joseph	18	1
+2014-09-20	National	KAYE, Nicola Laura	19	1
+2014-09-20	National	WOODHOUSE, Michael Allan	20	2
+2014-09-20	National	GOODHEW, Joanne Gay	21	1
+2014-09-20	National	BORROWS, Kerry James	22	1
+2014-09-20	National	McCLAY, Todd Michael	23	1
+2014-09-20	National	LOTU-IIGA, Peseta Samuelu Masunu	24	1
+2014-09-20	National	WAGNER, Nicola Joanne	25	1
+2014-09-20	National	TISCH, William Lindsay	26	1
+2014-09-20	National	UPSTON, Louise Claire	27	1
+2014-09-20	National	MACINDOE, Timothy Harley	28	1
+2014-09-20	National	ROSS, Jami-Lee Matenga	29	1
+2014-09-20	National	GOLDSMITH, Paul Jonathan	30	2
+2014-09-20	National	LEE, Melissa	31	2
+2014-09-20	National	BAKSHI, Kanwaljit Singh	32	2
+2014-09-20	National	YANG, Jian	33	2
+2014-09-20	National	NGARO, Alfred	34	2
+2014-09-20	National	WILLIAMSON, Maurice Donald	35	1
+2014-09-20	National	DEAN, Jacqueline Isobel	36	1
+2014-09-20	National	BENNETT, David Allister	37	1
+2014-09-20	National	YOUNG, Jonathan Edgar Joseph	38	1
+2014-09-20	National	HUDSON, Brett John	39	2
+2014-09-20	National	BARRY, Margaret Mary	40	1
+2014-09-20	National	McKELVIE, Ian Robert Flockhart	41	1
+2014-09-20	National	MITCHELL, Mark Patrick	42	1
+2014-09-20	National	O'CONNOR, Simon	43	1
+2014-09-20	National	SABIN, Michael Lewis	44	1
+2014-09-20	National	SIMPSON, Scott Anthony	45	1
+2014-09-20	National	FOSTER-BELL, Paul Ayers Robert	46	2
+2014-09-20	National	HAYES, Joanne Kowhai	47	2
+2014-09-20	National	PARMAR, Kushmiita Parmjeet Kaur	48	2
+2014-09-20	National	BISHOP, Christopher	49	2
+2014-09-20	National	KORAKO, Tutehounuku	50	2
+2014-09-20	National	NAYLOR, Jonathan Mark	51	2
+2014-09-20	National	PUGH, Maureen Helena	52	0
+2014-09-20	National	TURNER-TUPOU, Fia Taemanu	53	0
+2014-09-20	National	BARCLAY, Todd Keith	54	1
+2014-09-20	National	BAYLY, Andrew Henry	55	1
+2014-09-20	National	DOOCEY, Matthew Maurice	56	1
+2014-09-20	National	DOWIE, Sarah Maree	57	1
+2014-09-20	National	KURIGER, Barbara Joan	58	1
+2014-09-20	National	MULLER, Todd Michael	59	1
+2014-09-20	National	RETI, Shane Raymond	60	1
+2014-09-20	National	SCOTT, Alastair Oliver	61	1
+2014-09-20	National	SMITH, Stuart Tayler	62	1
+2014-09-20	National	WALFORD, Wayne Douglas	63	0
+2014-09-20	National	BROWN, Simeon Peter	64	0
+2014-09-20	National	WALKER, Hamish	65	0
+2014-09-20	National	HOLDEN, Lewis	66	0
+2014-09-20	National	VARLEY, Karl Daniel	67	0
+2014-09-20	National	PENK, Christopher Aidan	68	0
+2014-09-20	National	COOPER, Linda Ann	69	0
+2014-09-20	National	O'DWYER, Letitia Marie	70	0
+2014-09-20	National	BRIDGES, Mark	71	0
+2014-09-20	National	SOKRATOV, Boris	72	0
+2014-09-20	National	EVETTS, Matthew Zane	73	0
+2014-09-20	National	O'FALLON, Carolyn Elisabeth	74	0
+2014-09-20	National	LITTLEWOOD, Charlotte	75	0
+2014-09-20	NZF	PETERS, Winston Raymond	1	2
+2014-09-20	NZF	MARTIN, Tracey Anne	2	2
+2014-09-20	NZF	PROSSER, Richard Ivor	3	2
+2014-09-20	NZF	TABUTEAU, Fletcher	4	2
+2014-09-20	NZF	STEWART, Barbara Joy	5	2
+2014-09-20	NZF	MITCHELL, Clayton Robert Henry	6	2
+2014-09-20	NZF	O'ROURKE, Denis John	7	2
+2014-09-20	NZF	PARAONE, Rewiti Pomare Kingi	8	2
+2014-09-20	NZF	MARK, Ron Stanley	9	2
+2014-09-20	NZF	BALL, Darroch Leicester	10	2
+2014-09-20	NZF	BINDRA, Mahesh	11	2
+2014-09-20	NZF	BOND, Ria Iris Daphne	12	0
+2014-09-20	NZF	PARORO, Mataroa	13	0
+2014-09-20	NZF	RUDZKI, Romuald Edward John	14	0
+2014-09-20	NZF	REEVES, Jon Blaiklock	15	0
+2014-09-20	NZF	LOLE-TAYLOR, Asenati	16	0
+2014-09-20	NZF	CATCHPOLE, Brent Stanley	17	0
+2014-09-20	NZF	ABRAHAM, George	18	0
+2014-09-20	NZF	DOLMAN, Raymond	19	0
+2014-09-20	NZF	BARR, Hugh	20	0
+2014-09-20	NZF	DEGIA-PALA, Anne	21	0
+2014-09-20	NZF	CAMPBELL, Steven Robert	22	0
+2014-09-20	NZF	PERRY, Edwin Jock	23	0
+2014-09-20	NZF	GUDGEON, William M	24	0
+2014-09-20	NZF	PIERSON, Brent	25	0
+2014-09-20	NZF	HUNT, Aaron Ronald	26	0
+2014-09-20	NZF	HALL, John Harold	27	0
+2014-09-20	NZF	TAURIMA, Richard John	28	0
+2014-09-20	NZF	ERTEL, Grant Ernest	29	0
+2014-09-20	NZF	LYON, Clifton Killip	30	0
+2014-09-20	NZF	WOODS, William Edward	31	0
+2014-09-20	UFNZ	DUNNE, Peter Francis	1	1
+2014-09-20	UFNZ	SIMMONS, Alan Frank	2	0
+2014-09-20	UFNZ	LIGHT, Damian Francis	3	0
+2014-09-20	UFNZ	EUSOFF, Mohamed Sultan	4	0
+2014-09-20	UFNZ	RICKARD, Benjamin John Cranswick	5	0
+2014-09-20	UFNZ	WOOLSTON, Jason Bruce	6	0
+2014-09-20	UFNZ	STONYER, David Lester	7	0
+2014-09-20	UFNZ	MOCKRIDGE, Bryan	8	0
+2014-09-20	UFNZ	TODD, Quentin Gregory	9	0
+2014-09-20	UFNZ	MAXWELL, James Waerengaahika	10	0
+2014-09-20	UFNZ	PARK, Sevaschan Sam	11	0

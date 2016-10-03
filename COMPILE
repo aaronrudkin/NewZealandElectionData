@@ -1,0 +1,30 @@
+# Move from raw data files to files actually used in analysis.
+cd "Canada Data/Merge"
+python processResults.py
+cd ../SyntheticObs/
+Rscript syntheticObservationExportCanada.R
+python processResults.py
+cd "../../New Zealand Data/Merge"
+python processResults.py
+cd ../SyntheticObs/
+Rscript syntheticObservationNZ.R
+python processResults.py
+cd ../../
+
+# Run data analysis
+Rscript CanadaDataAnalysis.r
+Rscript NewZealandDataAnalysis.r
+
+# Generate tables and figures for document
+cd Includes
+Rscript GenerateFiguresAndPlots.R
+python shrinkTex.py
+python genDecadeDecomposition.py
+cd ../
+Rscript New\ Zealand\ Electorate\ Control.R
+
+# Remove saved data
+cd "Canada Data/Merge"
+rm OutputCA.RData
+cd "../../New Zealand Data/Merge"
+rm OutputNZ.RData

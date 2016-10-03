@@ -1,0 +1,1600 @@
+Christopher Dunkin	Dunkin, C.	Minister of Agriculture	1869-11-16	1871-10-24	0	1
+John Henry Pope	Pope, J. H.	Minister of Agriculture	1871-10-25	1873-11-05	0	1
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Customs	1867-07-01	1873-02-21	0	1
+Charles Tupper	Tupper, C.	Minister of Customs	1873-02-22	1873-11-05	0	1
+Alexander Tilloch Galt	Galt, A. T.	Minister of Finance	1867-07-01	1867-11-07	0	1
+John Rose	Rose, J.	Minister of Finance	1867-11-18	1869-09-30	0	1
+Francis Hincks	Hincks, F.	Minister of Finance	1869-10-09	1873-02-21	0	1
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Finance	1873-02-22	1873-11-05	0	1
+Hector Louis Langevin	Langevin, H. L.	Superintendent-General of Indian Affairs	1868-05-22	1869-12-07	0	1
+Joseph Howe	Howe, J.	Superintendent-General of Indian Affairs	1869-12-08	1873-05-06	0	1
+James Cox Aikins	Aikins, J. C.	Superintendent-General of Indian Affairs	1873-05-07	1873-06-13	0	1
+Thomas Nicholson Gibbs	Gibbs, T. N.	Superintendent-General of Indian Affairs	1873-06-14	1873-06-30	0	1
+William Pearce Howland	Howland, W. P.	Minister of Inland Revenue	1867-07-01	1868-07-14	0	1
+Alexander Campbell	Campbell, A.	Minister of Inland Revenue	1868-07-15	1869-11-15	0	1
+Alexander Morris	Morris, A.	Minister of Inland Revenue	1869-11-16	1872-07-01	0	1
+Charles Tupper	Tupper, C.	Minister of Inland Revenue	1872-07-02	1873-03-03	0	1
+John O'Connor	O'Connor, J.	Minister of Inland Revenue	1873-03-04	1873-06-30	0	1
+Thomas Nicholson Gibbs	Gibbs, T. N.	Minister of Inland Revenue	1873-07-01	1873-11-05	0	1
+John Alexander Macdonald	Macdonald, J. A.	Minister of Justice and Attorney General	1867-07-01	1873-11-05	1	1
+George Etienne Cartier	Cartier, G. E.	Minister of Militia and Defence	1867-07-01	1873-05-20	0	1
+Hugh McDonald	McDonald, H.	Minister of Militia and Defence	1873-07-01	1873-11-04	0	1
+John O'Connor	O'Connor, J.	Postmaster General	1873-07-01	1873-11-05	0	1
+Joseph Howe	Howe, J.	President of the Privy Council	1869-01-30	1869-11-15	0	1
+Charles Tupper	Tupper, C.	President of the Privy Council	1870-06-21	1872-07-01	0	1
+John O'Connor	O'Connor, J.	President of the Privy Council	1872-07-02	1873-03-03	0	1
+Hugh McDonald	McDonald, H.	President of the Privy Council	1873-06-14	1873-06-30	0	1
+William McDougall	McDougall, W.	Minister of Public Works	1867-07-01	1869-09-27	0	1
+Hector Louis Langevin	Langevin, H. L.	Minister of Public Works	1869-12-08	1873-11-05	0	1
+Theodore Robitaille	Robitaille, T.	Receiver General	1873-01-30	1873-11-05	0	1
+Adams George Archibald	Archibald, A. G.	Secretary of State for the Provinces	1867-07-01	1868-04-30	0	1
+Joseph Howe	Howe, J.	Secretary of State for the Provinces	1869-11-16	1873-05-06	0	1
+James Cox Aikins	Aikins, J. C.	Secretary of State for the Provinces	1873-05-07	1873-06-13	0	1
+Thomas Nicholson Gibbs	Gibbs, T. N.	Secretary of State for the Provinces	1873-06-14	1873-06-30	0	1
+Hector Louis Langevin	Langevin, H. L.	Secretary of State of Canada	1867-07-01	1869-12-07	0	1
+Isaac Burpee	Burpee, I.	Minister of Customs	1873-11-07	1878-10-08	1	2
+Richard John Cartwright	Cartwright, R. J.	Minister of Finance	1873-11-07	1878-10-08	1	2
+David Laird	Laird, D.	Superintendent-General of Indian Affairs	1873-11-07	1876-10-06	0	2
+Richard William Scott	Scott, R. W.	Superintendent-General of Indian Affairs	1876-10-07	1876-10-23	0	2
+David Mills	Mills, D.	Superintendent-General of Indian Affairs	1876-10-24	1878-10-08	0	2
+Telesphore Fournier	Fournier, T.	Minister of Inland Revenue	1873-11-07	1874-07-07	0	2
+Felix Geoffrion	Geoffrion, F.	Minister of Inland Revenue	1874-07-08	1876-11-08	0	2
+Toussaint Antoine Rodolphe Laflamme	Laflamme, T. A. R.	Minister of Inland Revenue	1876-11-09	1877-06-07	0	2
+Joseph Edouard Cauchon	Cauchon, J. E.	Minister of Inland Revenue	1877-06-08	1877-10-07	0	2
+Wilfrid Laurier	Laurier, W.	Minister of Inland Revenue	1877-10-08	1878-10-08	0	2
+David Laird	Laird, D.	Minister of the Interior	1873-11-07	1876-10-06	0	2
+Richard William Scott	Scott, R. W.	Minister of the Interior	1876-10-07	1876-10-23	0	2
+David Mills	Mills, D.	Minister of the Interior	1876-10-24	1878-10-08	0	2
+Antoine-Aime Dorion	Dorion, A.	Minister of Justice and Attorney General	1873-11-07	1874-05-31	0	2
+Telesphore Fournier	Fournier, T.	Minister of Justice and Attorney General	1874-07-08	1875-05-18	0	2
+Dominick Edward Blake	Blake, D. E.	Minister of Justice and Attorney General	1875-05-19	1877-06-07	0	2
+Toussaint Antoine Rodolphe Laflamme	Laflamme, T. A. R.	Minister of Justice and Attorney General	1877-06-08	1878-10-08	0	2
+Albert James Smith	Smith, A. J.	Minister of Marine and Fisheries	1873-11-07	1878-10-08	1	2
+William Ross	Ross, W.	Minister of Militia and Defence	1873-11-07	1874-09-29	0	2
+William Berrian Vail	Vail, W. B.	Minister of Militia and Defence	1874-09-30	1878-01-20	0	2
+Alfred Gilpin Jones	Jones, A. G.	Minister of Militia and Defence	1878-01-21	1878-10-08	0	2
+Dominick Edward Blake	Blake, D. E.	Minister without Portfolio	1873-11-07	1874-02-13	0	2
+Richard William Scott	Scott, R. W.	Minister without Portfolio	1873-11-07	1874-01-08	0	2
+Donald Alexander Macdonald	Macdonald, D. A.	Postmaster General	1873-11-07	1875-05-17	0	2
+Telesphore Fournier	Fournier, T.	Postmaster General	1875-05-19	1875-10-07	0	2
+Lucius Seth Huntington	Huntington, L. S.	Postmaster General	1875-10-09	1878-10-08	0	2
+Lucius Seth Huntington	Huntington, L. S.	President of the Privy Council	1874-01-20	1875-10-08	0	2
+Joseph Edouard Cauchon	Cauchon, J. E.	President of the Privy Council	1875-12-07	1877-06-07	0	2
+Dominick Edward Blake	Blake, D. E.	President of the Privy Council	1877-06-08	1878-01-17	0	2
+Alexander Mackenzie	Mackenzie, A.	Minister of Public Works	1873-11-07	1878-10-08	1	2
+Thomas Coffin	Coffin, T.	Receiver General	1873-11-07	1878-10-08	1	2
+John Henry Pope	Pope, J. H.	Minister of Agriculture	1878-10-17	1885-09-24	0	3
+John Carling	Carling, J.	Minister of Agriculture	1885-09-25	1891-06-06	0	3
+Mackenzie Bowell	Bowell, M.	Minister of Customs	1878-10-19	1891-06-06	0	3
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Finance	1878-10-17	1879-05-19	0	3
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Finance and Receiver General	1879-05-20	1885-11-10	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	Minister of Finance and Receiver General	1885-12-10	1887-01-26	0	3
+Charles Tupper	Tupper, C.	Minister of Finance and Receiver General	1887-01-27	1888-05-22	0	3
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1888-05-29	1891-06-06	0	3
+John Alexander Macdonald	Macdonald, J. A.	Superintendent-General of Indian Affairs	1878-10-17	1887-10-02	0	3
+Thomas White	White, T.	Superintendent-General of Indian Affairs	1887-10-03	1888-04-21	0	3
+Edgar Dewdney	Dewdney, E.	Superintendent-General of Indian Affairs	1888-09-25	1891-06-06	0	3
+Louis Francois Georges Baby	Baby, L. F. G.	Minister of Inland Revenue	1878-10-26	1880-10-28	0	3
+John Costigan	Costigan, J.	Minister of Inland Revenue	1882-05-23	1891-06-06	0	3
+John Alexander Macdonald	Macdonald, J. A.	Minister of the Interior	1878-10-17	1883-10-16	0	3
+Thomas White	White, T.	Minister of the Interior	1885-08-05	1888-04-21	0	3
+Edgar Dewdney	Dewdney, E.	Minister of the Interior	1888-09-25	1891-06-06	0	3
+James McDonald	McDonald, J.	Minister of Justice and Attorney General	1878-10-17	1881-05-19	0	3
+John Sparrow David Thompson	Thompson, J. S. D.	Minister of Justice and Attorney General	1885-09-26	1891-06-06	0	3
+James Colledge Pope	Pope, J. C.	Minister of Marine and Fisheries	1878-10-19	1882-07-09	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	Minister of Marine and Fisheries	1882-07-10	1885-12-09	0	3
+George Eulas Foster	Foster, G. E.	Minister of Marine and Fisheries	1885-12-10	1888-05-28	0	3
+Charles Tupper	Tupper, C.	Minister of Marine and Fisheries	1888-06-01	1891-06-06	0	3
+Louis Francois Rodrigue Masson	Masson, L. F. R.	Minister of Militia and Defence	1878-10-19	1880-01-15	0	3
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Minister of Militia and Defence	1880-11-08	1891-06-06	0	3
+Hector Louis Langevin	Langevin, H. L.	Postmaster General	1878-10-19	1879-05-19	0	3
+John O'Connor	O'Connor, J.	Postmaster General	1880-01-16	1880-11-07	0	3
+John O'Connor	O'Connor, J.	Postmaster General	1881-05-20	1882-05-22	0	3
+John Carling	Carling, J.	Postmaster General	1882-05-23	1885-09-24	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	Postmaster General	1887-01-27	1888-07-09	0	3
+John Graham Haggart	Haggart, J. G.	Postmaster General	1888-08-06	1891-06-06	0	3
+John O'Connor	O'Connor, J.	President of the Privy Council	1878-10-17	1880-01-15	0	3
+Louis Francois Rodrigue Masson	Masson, L. F. R.	President of the Privy Council	1880-01-16	1880-07-31	0	3
+Joseph-Alfred Mousseau	Mousseau, J.	President of the Privy Council	1880-11-08	1881-05-19	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	President of the Privy Council	1881-05-20	1882-07-09	0	3
+John Alexander Macdonald	Macdonald, J. A.	President of the Privy Council	1883-10-17	1889-11-27	0	3
+Charles Carrol Colby	Colby, C. C.	President of the Privy Council	1889-11-28	1891-04-30	0	3
+Charles Tupper	Tupper, C.	Minister of Public Works	1878-10-17	1879-05-19	0	3
+Hector Louis Langevin	Langevin, H. L.	Minister of Public Works	1879-05-20	1891-06-06	0	3
+Charles Tupper	Tupper, C.	Minister of Railways and Canals	1879-05-20	1884-05-28	0	3
+John Henry Pope	Pope, J. H.	Minister of Railways and Canals	1885-09-25	1889-04-01	0	3
+John Alexander Macdonald	Macdonald, J. A.	Minister of Railways and Canals	1889-11-28	1891-06-06	0	3
+John O'Connor	O'Connor, J.	Secretary of State of Canada	1880-11-08	1881-05-19	0	3
+Joseph-Alfred Mousseau	Mousseau, J.	Secretary of State of Canada	1881-05-20	1882-07-28	0	3
+Joseph Adolphe Chapleau	Chapleau, J. A.	Secretary of State of Canada	1882-07-29	1891-06-06	0	3
+Mackenzie Bowell	Bowell, M.	Minister of Customs	1891-06-16	1892-01-24	0	4
+Joseph Adolphe Chapleau	Chapleau, J. A.	Minister of Customs	1892-01-25	1892-11-24	0	4
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1891-06-16	1892-11-24	1	4
+Edgar Dewdney	Dewdney, E.	Superintendent-General of Indian Affairs	1891-06-16	1892-10-16	0	4
+Thomas Mayne Daly	Daly, T. M.	Superintendent-General of Indian Affairs	1892-10-17	1892-11-24	0	4
+John Costigan	Costigan, J.	Minister of Inland Revenue	1891-06-16	1892-11-24	1	4
+Edgar Dewdney	Dewdney, E.	Minister of the Interior	1891-06-16	1892-10-16	0	4
+Thomas Mayne Daly	Daly, T. M.	Minister of the Interior	1892-10-17	1892-11-24	0	4
+John Sparrow David Thompson	Thompson, J. S. D.	Minister of Justice and Attorney General	1891-06-16	1892-11-24	1	4
+Charles Tupper	Tupper, C.	Minister of Marine and Fisheries	1891-06-16	1892-11-24	1	4
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Minister of Militia and Defence	1891-06-16	1892-01-24	0	4
+Mackenzie Bowell	Bowell, M.	Minister of Militia and Defence	1892-01-25	1892-11-24	0	4
+John Graham Haggart	Haggart, J. G.	Postmaster General	1891-06-16	1892-01-10	0	4
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Postmaster General	1892-01-25	1892-11-24	0	4
+Hector Louis Langevin	Langevin, H. L.	Minister of Public Works	1891-06-16	1891-08-11	0	4
+Joseph Alderic Ouimet	Ouimet, J. A.	Minister of Public Works	1892-01-11	1892-11-24	0	4
+John Graham Haggart	Haggart, J. G.	Minister of Railways and Canals	1892-01-11	1892-11-24	0	4
+Joseph Adolphe Chapleau	Chapleau, J. A.	Secretary of State of Canada	1891-06-16	1892-01-24	0	4
+James Colebrooke Patterson	Patterson, J. C.	Secretary of State of Canada	1892-01-25	1892-11-24	0	4
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1892-12-05	1894-12-12	1	5
+Thomas Mayne Daly	Daly, T. M.	Superintendent-General of Indian Affairs	1892-12-05	1894-12-12	1	5
+Thomas Mayne Daly	Daly, T. M.	Minister of the Interior	1892-12-05	1894-12-12	1	5
+John Sparrow David Thompson	Thompson, J. S. D.	Minister of Justice and Attorney General	1892-12-05	1894-12-12	1	5
+Charles Tupper	Tupper, C.	Minister of Marine and Fisheries	1892-12-05	1894-12-12	1	5
+James Colebrooke Patterson	Patterson, J. C.	Minister of Militia and Defence	1892-12-05	1894-12-12	1	5
+John Carling	Carling, J.	Minister without Portfolio	1892-12-05	1894-12-12	1	5
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Postmaster General	1892-12-05	1894-12-12	1	5
+William Bullock Ives	Ives, W. B.	President of the Privy Council	1892-12-07	1894-12-12	0	5
+Joseph Alderic Ouimet	Ouimet, J. A.	Minister of Public Works	1892-12-05	1894-12-12	1	5
+John Graham Haggart	Haggart, J. G.	Minister of Railways and Canals	1892-12-05	1894-12-12	1	5
+John Costigan	Costigan, J.	Secretary of State of Canada	1892-12-05	1894-12-12	1	5
+Christopher Dunkin	Dunkin, C.	Minister of Agriculture	1869-11-16	1871-10-24	0	1
+John Henry Pope	Pope, J. H.	Minister of Agriculture	1871-10-25	1873-11-05	0	1
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Customs	1867-07-01	1873-02-21	0	1
+Charles Tupper	Tupper, C.	Minister of Customs	1873-02-22	1873-11-05	0	1
+Alexander Tilloch Galt	Galt, A. T.	Minister of Finance	1867-07-01	1867-11-07	0	1
+John Rose	Rose, J.	Minister of Finance	1867-11-18	1869-09-30	0	1
+Francis Hincks	Hincks, F.	Minister of Finance	1869-10-09	1873-02-21	0	1
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Finance	1873-02-22	1873-11-05	0	1
+Hector Louis Langevin	Langevin, H. L.	Superintendent-General of Indian Affairs	1868-05-22	1869-12-07	0	1
+Joseph Howe	Howe, J.	Superintendent-General of Indian Affairs	1869-12-08	1873-05-06	0	1
+James Cox Aikins	Aikins, J. C.	Superintendent-General of Indian Affairs	1873-05-07	1873-06-13	0	1
+Thomas Nicholson Gibbs	Gibbs, T. N.	Superintendent-General of Indian Affairs	1873-06-14	1873-06-30	0	1
+William Pearce Howland	Howland, W. P.	Minister of Inland Revenue	1867-07-01	1868-07-14	0	1
+Alexander Campbell	Campbell, A.	Minister of Inland Revenue	1868-07-15	1869-11-15	0	1
+Alexander Morris	Morris, A.	Minister of Inland Revenue	1869-11-16	1872-07-01	0	1
+Charles Tupper	Tupper, C.	Minister of Inland Revenue	1872-07-02	1873-03-03	0	1
+John O'Connor	O'Connor, J.	Minister of Inland Revenue	1873-03-04	1873-06-30	0	1
+Thomas Nicholson Gibbs	Gibbs, T. N.	Minister of Inland Revenue	1873-07-01	1873-11-05	0	1
+John Alexander Macdonald	Macdonald, J. A.	Minister of Justice and Attorney General	1867-07-01	1873-11-05	1	1
+George Etienne Cartier	Cartier, G. E.	Minister of Militia and Defence	1867-07-01	1873-05-20	0	1
+Hugh McDonald	McDonald, H.	Minister of Militia and Defence	1873-07-01	1873-11-04	0	1
+John O'Connor	O'Connor, J.	Postmaster General	1873-07-01	1873-11-05	0	1
+Joseph Howe	Howe, J.	President of the Privy Council	1869-01-30	1869-11-15	0	1
+Charles Tupper	Tupper, C.	President of the Privy Council	1870-06-21	1872-07-01	0	1
+John O'Connor	O'Connor, J.	President of the Privy Council	1872-07-02	1873-03-03	0	1
+Hugh McDonald	McDonald, H.	President of the Privy Council	1873-06-14	1873-06-30	0	1
+William McDougall	McDougall, W.	Minister of Public Works	1867-07-01	1869-09-27	0	1
+Hector Louis Langevin	Langevin, H. L.	Minister of Public Works	1869-12-08	1873-11-05	0	1
+Theodore Robitaille	Robitaille, T.	Receiver General	1873-01-30	1873-11-05	0	1
+Adams George Archibald	Archibald, A. G.	Secretary of State for the Provinces	1867-07-01	1868-04-30	0	1
+Joseph Howe	Howe, J.	Secretary of State for the Provinces	1869-11-16	1873-05-06	0	1
+James Cox Aikins	Aikins, J. C.	Secretary of State for the Provinces	1873-05-07	1873-06-13	0	1
+Thomas Nicholson Gibbs	Gibbs, T. N.	Secretary of State for the Provinces	1873-06-14	1873-06-30	0	1
+Hector Louis Langevin	Langevin, H. L.	Secretary of State of Canada	1867-07-01	1869-12-07	0	1
+Isaac Burpee	Burpee, I.	Minister of Customs	1873-11-07	1878-10-08	1	2
+Richard John Cartwright	Cartwright, R. J.	Minister of Finance	1873-11-07	1878-10-08	1	2
+David Laird	Laird, D.	Superintendent-General of Indian Affairs	1873-11-07	1876-10-06	0	2
+Richard William Scott	Scott, R. W.	Superintendent-General of Indian Affairs	1876-10-07	1876-10-23	0	2
+David Mills	Mills, D.	Superintendent-General of Indian Affairs	1876-10-24	1878-10-08	0	2
+Telesphore Fournier	Fournier, T.	Minister of Inland Revenue	1873-11-07	1874-07-07	0	2
+Felix Geoffrion	Geoffrion, F.	Minister of Inland Revenue	1874-07-08	1876-11-08	0	2
+Toussaint Antoine Rodolphe Laflamme	Laflamme, T. A. R.	Minister of Inland Revenue	1876-11-09	1877-06-07	0	2
+Joseph Edouard Cauchon	Cauchon, J. E.	Minister of Inland Revenue	1877-06-08	1877-10-07	0	2
+Wilfrid Laurier	Laurier, W.	Minister of Inland Revenue	1877-10-08	1878-10-08	0	2
+David Laird	Laird, D.	Minister of the Interior	1873-11-07	1876-10-06	0	2
+Richard William Scott	Scott, R. W.	Minister of the Interior	1876-10-07	1876-10-23	0	2
+David Mills	Mills, D.	Minister of the Interior	1876-10-24	1878-10-08	0	2
+Antoine-Aime Dorion	Dorion, A.	Minister of Justice and Attorney General	1873-11-07	1874-05-31	0	2
+Telesphore Fournier	Fournier, T.	Minister of Justice and Attorney General	1874-07-08	1875-05-18	0	2
+Dominick Edward Blake	Blake, D. E.	Minister of Justice and Attorney General	1875-05-19	1877-06-07	0	2
+Toussaint Antoine Rodolphe Laflamme	Laflamme, T. A. R.	Minister of Justice and Attorney General	1877-06-08	1878-10-08	0	2
+Albert James Smith	Smith, A. J.	Minister of Marine and Fisheries	1873-11-07	1878-10-08	1	2
+William Ross	Ross, W.	Minister of Militia and Defence	1873-11-07	1874-09-29	0	2
+William Berrian Vail	Vail, W. B.	Minister of Militia and Defence	1874-09-30	1878-01-20	0	2
+Alfred Gilpin Jones	Jones, A. G.	Minister of Militia and Defence	1878-01-21	1878-10-08	0	2
+Dominick Edward Blake	Blake, D. E.	Minister without Portfolio	1873-11-07	1874-02-13	0	2
+Richard William Scott	Scott, R. W.	Minister without Portfolio	1873-11-07	1874-01-08	0	2
+Donald Alexander Macdonald	Macdonald, D. A.	Postmaster General	1873-11-07	1875-05-17	0	2
+Telesphore Fournier	Fournier, T.	Postmaster General	1875-05-19	1875-10-07	0	2
+Lucius Seth Huntington	Huntington, L. S.	Postmaster General	1875-10-09	1878-10-08	0	2
+Lucius Seth Huntington	Huntington, L. S.	President of the Privy Council	1874-01-20	1875-10-08	0	2
+Joseph Edouard Cauchon	Cauchon, J. E.	President of the Privy Council	1875-12-07	1877-06-07	0	2
+Dominick Edward Blake	Blake, D. E.	President of the Privy Council	1877-06-08	1878-01-17	0	2
+Alexander Mackenzie	Mackenzie, A.	Minister of Public Works	1873-11-07	1878-10-08	1	2
+Thomas Coffin	Coffin, T.	Receiver General	1873-11-07	1878-10-08	1	2
+John Henry Pope	Pope, J. H.	Minister of Agriculture	1878-10-17	1885-09-24	0	3
+John Carling	Carling, J.	Minister of Agriculture	1885-09-25	1891-06-06	0	3
+Mackenzie Bowell	Bowell, M.	Minister of Customs	1878-10-19	1891-06-06	0	3
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Finance	1878-10-17	1879-05-19	0	3
+Samuel Leonard Tilley	Tilley, S. L.	Minister of Finance and Receiver General	1879-05-20	1885-11-10	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	Minister of Finance and Receiver General	1885-12-10	1887-01-26	0	3
+Charles Tupper	Tupper, C.	Minister of Finance and Receiver General	1887-01-27	1888-05-22	0	3
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1888-05-29	1891-06-06	0	3
+John Alexander Macdonald	Macdonald, J. A.	Superintendent-General of Indian Affairs	1878-10-17	1887-10-02	0	3
+Thomas White	White, T.	Superintendent-General of Indian Affairs	1887-10-03	1888-04-21	0	3
+Edgar Dewdney	Dewdney, E.	Superintendent-General of Indian Affairs	1888-09-25	1891-06-06	0	3
+Louis Francois Georges Baby	Baby, L. F. G.	Minister of Inland Revenue	1878-10-26	1880-10-28	0	3
+John Costigan	Costigan, J.	Minister of Inland Revenue	1882-05-23	1891-06-06	0	3
+John Alexander Macdonald	Macdonald, J. A.	Minister of the Interior	1878-10-17	1883-10-16	0	3
+Thomas White	White, T.	Minister of the Interior	1885-08-05	1888-04-21	0	3
+Edgar Dewdney	Dewdney, E.	Minister of the Interior	1888-09-25	1891-06-06	0	3
+James McDonald	McDonald, J.	Minister of Justice and Attorney General	1878-10-17	1881-05-19	0	3
+John Sparrow David Thompson	Thompson, J. S. D.	Minister of Justice and Attorney General	1885-09-26	1891-06-06	0	3
+James Colledge Pope	Pope, J. C.	Minister of Marine and Fisheries	1878-10-19	1882-07-09	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	Minister of Marine and Fisheries	1882-07-10	1885-12-09	0	3
+George Eulas Foster	Foster, G. E.	Minister of Marine and Fisheries	1885-12-10	1888-05-28	0	3
+Charles Tupper	Tupper, C.	Minister of Marine and Fisheries	1888-06-01	1891-06-06	0	3
+Louis Francois Rodrigue Masson	Masson, L. F. R.	Minister of Militia and Defence	1878-10-19	1880-01-15	0	3
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Minister of Militia and Defence	1880-11-08	1891-06-06	0	3
+Hector Louis Langevin	Langevin, H. L.	Postmaster General	1878-10-19	1879-05-19	0	3
+John O'Connor	O'Connor, J.	Postmaster General	1880-01-16	1880-11-07	0	3
+John O'Connor	O'Connor, J.	Postmaster General	1881-05-20	1882-05-22	0	3
+John Carling	Carling, J.	Postmaster General	1882-05-23	1885-09-24	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	Postmaster General	1887-01-27	1888-07-09	0	3
+John Graham Haggart	Haggart, J. G.	Postmaster General	1888-08-06	1891-06-06	0	3
+John O'Connor	O'Connor, J.	President of the Privy Council	1878-10-17	1880-01-15	0	3
+Louis Francois Rodrigue Masson	Masson, L. F. R.	President of the Privy Council	1880-01-16	1880-07-31	0	3
+Joseph-Alfred Mousseau	Mousseau, J.	President of the Privy Council	1880-11-08	1881-05-19	0	3
+Archibald Woodbury McLelan	McLelan, A. W.	President of the Privy Council	1881-05-20	1882-07-09	0	3
+John Alexander Macdonald	Macdonald, J. A.	President of the Privy Council	1883-10-17	1889-11-27	0	3
+Charles Carrol Colby	Colby, C. C.	President of the Privy Council	1889-11-28	1891-04-30	0	3
+Charles Tupper	Tupper, C.	Minister of Public Works	1878-10-17	1879-05-19	0	3
+Hector Louis Langevin	Langevin, H. L.	Minister of Public Works	1879-05-20	1891-06-06	0	3
+Charles Tupper	Tupper, C.	Minister of Railways and Canals	1879-05-20	1884-05-28	0	3
+John Henry Pope	Pope, J. H.	Minister of Railways and Canals	1885-09-25	1889-04-01	0	3
+John Alexander Macdonald	Macdonald, J. A.	Minister of Railways and Canals	1889-11-28	1891-06-06	0	3
+John O'Connor	O'Connor, J.	Secretary of State of Canada	1880-11-08	1881-05-19	0	3
+Joseph-Alfred Mousseau	Mousseau, J.	Secretary of State of Canada	1881-05-20	1882-07-28	0	3
+Joseph Adolphe Chapleau	Chapleau, J. A.	Secretary of State of Canada	1882-07-29	1891-06-06	0	3
+Mackenzie Bowell	Bowell, M.	Minister of Customs	1891-06-16	1892-01-24	0	4
+Joseph Adolphe Chapleau	Chapleau, J. A.	Minister of Customs	1892-01-25	1892-11-24	0	4
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1891-06-16	1892-11-24	1	4
+Edgar Dewdney	Dewdney, E.	Superintendent-General of Indian Affairs	1891-06-16	1892-10-16	0	4
+Thomas Mayne Daly	Daly, T. M.	Superintendent-General of Indian Affairs	1892-10-17	1892-11-24	0	4
+John Costigan	Costigan, J.	Minister of Inland Revenue	1891-06-16	1892-11-24	1	4
+Edgar Dewdney	Dewdney, E.	Minister of the Interior	1891-06-16	1892-10-16	0	4
+Thomas Mayne Daly	Daly, T. M.	Minister of the Interior	1892-10-17	1892-11-24	0	4
+John Sparrow David Thompson	Thompson, J. S. D.	Minister of Justice and Attorney General	1891-06-16	1892-11-24	1	4
+Charles Tupper	Tupper, C.	Minister of Marine and Fisheries	1891-06-16	1892-11-24	1	4
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Minister of Militia and Defence	1891-06-16	1892-01-24	0	4
+Mackenzie Bowell	Bowell, M.	Minister of Militia and Defence	1892-01-25	1892-11-24	0	4
+John Graham Haggart	Haggart, J. G.	Postmaster General	1891-06-16	1892-01-10	0	4
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Postmaster General	1892-01-25	1892-11-24	0	4
+Hector Louis Langevin	Langevin, H. L.	Minister of Public Works	1891-06-16	1891-08-11	0	4
+Joseph Alderic Ouimet	Ouimet, J. A.	Minister of Public Works	1892-01-11	1892-11-24	0	4
+John Graham Haggart	Haggart, J. G.	Minister of Railways and Canals	1892-01-11	1892-11-24	0	4
+Joseph Adolphe Chapleau	Chapleau, J. A.	Secretary of State of Canada	1891-06-16	1892-01-24	0	4
+James Colebrooke Patterson	Patterson, J. C.	Secretary of State of Canada	1892-01-25	1892-11-24	0	4
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1892-12-05	1894-12-12	1	5
+Thomas Mayne Daly	Daly, T. M.	Superintendent-General of Indian Affairs	1892-12-05	1894-12-12	1	5
+Thomas Mayne Daly	Daly, T. M.	Minister of the Interior	1892-12-05	1894-12-12	1	5
+John Sparrow David Thompson	Thompson, J. S. D.	Minister of Justice and Attorney General	1892-12-05	1894-12-12	1	5
+Charles Tupper	Tupper, C.	Minister of Marine and Fisheries	1892-12-05	1894-12-12	1	5
+James Colebrooke Patterson	Patterson, J. C.	Minister of Militia and Defence	1892-12-05	1894-12-12	1	5
+John Carling	Carling, J.	Minister without Portfolio	1892-12-05	1894-12-12	1	5
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Postmaster General	1892-12-05	1894-12-12	1	5
+William Bullock Ives	Ives, W. B.	President of the Privy Council	1892-12-07	1894-12-12	0	5
+Joseph Alderic Ouimet	Ouimet, J. A.	Minister of Public Works	1892-12-05	1894-12-12	1	5
+John Graham Haggart	Haggart, J. G.	Minister of Railways and Canals	1892-12-05	1894-12-12	1	5
+John Costigan	Costigan, J.	Secretary of State of Canada	1892-12-05	1894-12-12	1	5
+Walter Humphries Montague	Montague, W. H.	Minister of Agriculture	1895-12-21	1896-01-05	0	6
+Donald Ferguson	Ferguson, D.	Minister of Agriculture	1896-01-06	1896-01-14	0	6
+Walter Humphries Montague	Montague, W. H.	Minister of Agriculture	1896-01-15	1896-04-27	0	6
+John Fisher Wood	Wood, J. F.	Controller of Customs	1895-12-24	1896-01-05	0	6
+Frank Smith	Smith, F.	Controller of Customs	1896-01-06	1896-01-14	0	6
+John Fisher Wood	Wood, J. F.	Controller of Customs	1896-01-15	1896-04-27	0	6
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1894-12-21	1896-01-05	0	6
+Mackenzie Bowell	Bowell, M.	Minister of Finance and Receiver General	1896-01-06	1896-01-14	0	6
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1896-01-15	1896-04-27	0	6
+Thomas Mayne Daly	Daly, T. M.	Superintendent-General of Indian Affairs	1894-12-21	1896-04-27	1	6
+Edward Gawler Prior	Prior, E. G.	Controller of Inland Revenue	1895-12-17	1896-04-27	0	6
+Thomas Mayne Daly	Daly, T. M.	Minister of the Interior	1894-12-21	1896-04-27	1	6
+Charles Tupper	Tupper, C.	Minister of Justice and Attorney General	1894-12-21	1896-01-05	0	6
+Arthur Rupert Dickey	Dickey, A. R.	Minister of Justice and Attorney General	1896-01-15	1896-04-27	0	6
+John Costigan	Costigan, J.	Minister of Marine and Fisheries	1894-12-21	1896-04-27	1	6
+James Colebrooke Patterson	Patterson, J. C.	Minister of Militia and Defence	1894-12-21	1895-03-25	0	6
+Arthur Rupert Dickey	Dickey, A. R.	Minister of Militia and Defence	1895-03-26	1896-01-05	0	6
+Mackenzie Bowell	Bowell, M.	Minister of Militia and Defence	1896-01-06	1896-01-14	0	6
+Walter Humphries Montague	Montague, W. H.	Minister without Portfolio	1894-12-21	1895-03-25	0	6
+James Colebrooke Patterson	Patterson, J. C.	Minister without Portfolio	1895-03-26	1895-09-01	0	6
+Joseph Philippe Rene Adolphe Caron	Caron, J. P. R. A.	Postmaster General	1894-12-21	1896-04-27	1	6
+Joseph Alderic Ouimet	Ouimet, J. A.	Minister of Public Works	1894-12-21	1896-04-27	1	6
+John Graham Haggart	Haggart, J. G.	Minister of Railways and Canals	1894-12-21	1896-01-05	0	6
+John Graham Haggart	Haggart, J. G.	Minister of Railways and Canals	1896-01-15	1896-04-27	0	6
+Arthur Rupert Dickey	Dickey, A. R.	Secretary of State of Canada	1894-12-21	1895-03-25	0	6
+Walter Humphries Montague	Montague, W. H.	Secretary of State of Canada	1895-03-26	1895-12-20	0	6
+Charles Tupper	Tupper, C.	Secretary of State of Canada	1896-01-15	1896-04-27	0	6
+William Bullock Ives	Ives, W. B.	Minister of Trade and Commerce	1894-12-21	1896-01-05	0	6
+William Bullock Ives	Ives, W. B.	Minister of Trade and Commerce	1896-01-15	1896-04-27	0	6
+Walter Humphries Montague	Montague, W. H.	Minister of Agriculture	1896-05-01	1896-07-08	1	7
+John Fisher Wood	Wood, J. F.	Controller of Customs	1896-05-01	1896-07-08	1	7
+George Eulas Foster	Foster, G. E.	Minister of Finance and Receiver General	1896-05-01	1896-07-08	1	7
+Hugh John Macdonald	Macdonald, H. J.	Superintendent-General of Indian Affairs	1896-05-01	1896-07-08	1	7
+Edward Gawler Prior	Prior, E. G.	Controller of Inland Revenue	1896-05-01	1896-07-08	1	7
+Hugh John Macdonald	Macdonald, H. J.	Minister of the Interior	1896-05-01	1896-07-08	1	7
+Arthur Rupert Dickey	Dickey, A. R.	Minister of Justice and Attorney General	1896-05-01	1896-07-08	1	7
+John Costigan	Costigan, J.	Minister of Marine and Fisheries	1896-05-01	1896-07-08	1	7
+David Tisdale	Tisdale, D.	Minister of Militia and Defence	1896-05-01	1896-07-08	1	7
+Louis-Olivier Taillon	Taillon, L.	Postmaster General	1896-05-01	1896-07-08	1	7
+John Graham Haggart	Haggart, J. G.	Minister of Railways and Canals	1896-05-01	1896-07-08	1	7
+Charles Tupper	Tupper, C.	Secretary of State of Canada	1896-05-01	1896-07-08	1	7
+William Bullock Ives	Ives, W. B.	Minister of Trade and Commerce	1896-05-01	1896-07-08	1	7
+Sydney Arthur Fisher	Fisher, S. A.	Minister of Agriculture	1896-07-13	1911-10-06	0	8
+William Paterson	Paterson, W.	Minister of Customs	1897-06-30	1911-10-06	0	8
+William Stevens Fielding	Fielding, W. S.	Minister of Finance and Receiver General	1896-07-20	1911-10-06	0	8
+Richard William Scott	Scott, R. W.	Superintendent-General of Indian Affairs	1896-07-17	1896-11-16	0	8
+Clifford Sifton	Sifton, C.	Superintendent-General of Indian Affairs	1896-11-17	1905-02-28	0	8
+Frank Oliver	Oliver, F.	Superintendent-General of Indian Affairs	1905-04-08	1911-10-06	0	8
+Henri Gustave Joly de Lotbiniere	Lotbiniere, H. G. J. D.	Minister of Inland Revenue	1897-06-30	1900-06-21	0	8
+Michel Esdras Bernier	Bernier, M. E.	Minister of Inland Revenue	1900-06-22	1904-01-18	0	8
+Louis-Philippe Brodeur	Brodeur, L.	Minister of Inland Revenue	1904-01-19	1906-02-05	0	8
+William Templeman	Templeman, W.	Minister of Inland Revenue	1906-02-06	1911-10-06	0	8
+Richard William Scott	Scott, R. W.	Minister of the Interior	1896-07-17	1896-11-16	0	8
+Clifford Sifton	Sifton, C.	Minister of the Interior	1896-11-17	1905-02-28	0	8
+Frank Oliver	Oliver, F.	Minister of the Interior	1905-04-08	1911-10-06	0	8
+Charles Fitzpatrick	Fitzpatrick, C.	Minister of Justice and Attorney General	1902-02-11	1906-06-03	0	8
+Allen Bristol Aylesworth	Aylesworth, A. B.	Minister of Justice and Attorney General	1906-06-04	1911-10-06	0	8
+William Lyon Mackenzie King	King, W. L. M.	Minister of Labour	1909-06-02	1911-10-06	0	8
+Louis Henry Davies	Davies, L. H.	Minister of Marine and Fisheries	1896-07-13	1901-09-24	0	8
+James Sutherland	Sutherland, J.	Minister of Marine and Fisheries	1902-01-15	1902-11-10	0	8
+Joseph Raymond Fournier Prefontaine	Prefontaine, J. R. F.	Minister of Marine and Fisheries	1902-11-11	1905-12-25	0	8
+Louis-Philippe Brodeur	Brodeur, L.	Minister of Marine and Fisheries	1906-02-06	1911-08-10	0	8
+Rodolphe Lemieux	Lemieux, R.	Minister of Marine and Fisheries	1911-08-11	1911-10-06	0	8
+Frederick William Borden	Borden, F. W.	Minister of Militia and Defence	1896-07-13	1911-10-06	0	8
+William Templeman	Templeman, W.	Minister of Mines	1907-05-03	1911-10-06	0	8
+Richard Reid Dobell	Dobell, R. R.	Minister without Portfolio	1896-07-13	1902-01-11	0	8
+Christophe Alphonse Geoffrion	Geoffrion, C. A.	Minister without Portfolio	1896-08-21	1899-07-18	0	8
+James Sutherland	Sutherland, J.	Minister without Portfolio	1899-09-30	1902-01-14	0	8
+Charles Smith Hyman	Hyman, C. S.	Minister without Portfolio	1904-02-05	1905-05-21	0	8
+Louis-Philippe Brodeur	Brodeur, L.	Minister of the Naval Service	1910-05-04	1911-08-10	0	8
+Rodolphe Lemieux	Lemieux, R.	Minister of the Naval Service	1911-08-11	1911-10-06	0	8
+William Mulock	Mulock, W.	Postmaster General	1896-07-13	1905-10-15	0	8
+Allen Bristol Aylesworth	Aylesworth, A. B.	Postmaster General	1905-10-16	1906-06-03	0	8
+Rodolphe Lemieux	Lemieux, R.	Postmaster General	1906-06-04	1911-08-10	0	8
+Henri Severin Beland	Beland, H. S.	Postmaster General	1911-08-19	1911-10-06	0	8
+Wilfrid Laurier	Laurier, W.	President of the Privy Council	1896-07-11	1911-10-06	1	8
+Joseph Israel Tarte	Tarte, J. I.	Minister of Public Works	1896-07-13	1902-10-21	0	8
+James Sutherland	Sutherland, J.	Minister of Public Works	1902-11-11	1905-05-03	0	8
+Charles Smith Hyman	Hyman, C. S.	Minister of Public Works	1905-05-22	1907-08-29	0	8
+William Pugsley	Pugsley, W.	Minister of Public Works	1907-08-30	1911-10-06	0	8
+Andrew George Blair	Blair, A. G.	Minister of Railways and Canals	1896-07-20	1903-07-20	0	8
+Henry Robert Emmerson	Emmerson, H. R.	Minister of Railways and Canals	1904-01-15	1907-04-02	0	8
+George Perry Graham	Graham, G. P.	Minister of Railways and Canals	1907-08-30	1911-10-06	0	8
+Charles Murphy	Murphy, C.	Secretary of State of Canada	1908-10-09	1911-10-06	0	8
+Martin Burrell	Burrell, M.	Minister of Agriculture	1911-10-16	1917-10-12	0	9
+John Dowsley Reid	Reid, J. D.	Minister of Customs	1911-10-10	1917-10-12	1	9
+Robert Laird Borden	Borden, R. L.	Secretary of State for External Affairs	1912-04-01	1917-10-12	0	9
+William Thomas White	White, W. T.	Minister of Finance and Receiver General	1911-10-10	1917-10-12	1	9
+Robert Rogers	Rogers, R.	Superintendent-General of Indian Affairs	1911-10-10	1912-10-28	0	9
+William James Roche	Roche, W. J.	Superintendent-General of Indian Affairs	1912-10-29	1917-10-12	0	9
+Wilfrid Bruno Nantel	Nantel, W. B.	Minister of Inland Revenue	1911-10-10	1914-10-19	0	9
+Pierre-Edouard Blondin	Blondin, P.	Minister of Inland Revenue	1914-10-20	1915-10-05	0	9
+Esioff-Leon Patenaude	Patenaude, E.	Minister of Inland Revenue	1915-10-06	1917-01-07	0	9
+Albert Sevigny	Sevigny, A.	Minister of Inland Revenue	1917-01-08	1917-10-12	0	9
+Robert Rogers	Rogers, R.	Minister of the Interior	1911-10-10	1912-10-28	0	9
+William James Roche	Roche, W. J.	Minister of the Interior	1912-10-29	1917-10-12	0	9
+Charles Joseph Doherty	Doherty, C. J.	Minister of Justice and Attorney General	1911-10-10	1917-10-12	1	9
+Thomas Wilson Crothers	Crothers, T. W.	Minister of Labour	1911-10-10	1917-10-12	1	9
+John Douglas Hazen	Hazen, J. D.	Minister of Marine and Fisheries	1911-10-10	1917-10-12	1	9
+Samuel Hughes	Hughes, S.	Minister of Militia and Defence	1911-10-10	1916-10-12	0	9
+Albert Edward Kemp	Kemp, A. E.	Minister of Militia and Defence	1916-11-23	1917-10-12	0	9
+Wilfrid Bruno Nantel	Nantel, W. B.	Minister of Mines	1911-10-10	1912-03-29	0	9
+Robert Rogers	Rogers, R.	Minister of Mines	1912-03-30	1912-10-28	0	9
+William James Roche	Roche, W. J.	Minister of Mines	1912-10-29	1913-02-09	0	9
+Louis Coderre	Coderre, L.	Minister of Mines	1913-02-10	1915-10-05	0	9
+Pierre-Edouard Blondin	Blondin, P.	Minister of Mines	1915-10-06	1917-01-07	0	9
+Esioff-Leon Patenaude	Patenaude, E.	Minister of Mines	1917-01-08	1917-06-12	0	9
+Arthur Meighen	Meighen, A.	Minister of Mines	1917-08-25	1917-10-12	0	9
+George Halsey Perley	Perley, G. H.	Minister without Portfolio	1911-10-10	1916-10-30	0	9
+Albert Edward Kemp	Kemp, A. E.	Minister without Portfolio	1911-10-10	1916-11-22	0	9
+John Douglas Hazen	Hazen, J. D.	Minister of the Naval Service	1911-10-10	1917-10-12	1	9
+George Halsey Perley	Perley, G. H.	Minister of the Overseas Military Forces	1916-10-31	1917-10-12	0	9
+Louis-Philippe Pelletier	Pelletier, L.	Postmaster General	1911-10-10	1914-10-19	0	9
+Thomas Chase Casgrain	Casgrain, T. C.	Postmaster General	1914-10-20	1916-12-29	0	9
+Pierre-Edouard Blondin	Blondin, P.	Postmaster General	1917-01-08	1917-10-12	0	9
+Robert Laird Borden	Borden, R. L.	President of the Privy Council	1911-10-10	1917-10-12	1	9
+Frederick Debartzch Monk	Monk, F. D.	Minister of Public Works	1911-10-10	1912-10-28	0	9
+Robert Rogers	Rogers, R.	Minister of Public Works	1912-10-29	1917-08-22	0	9
+Charles Colquhoun Ballantyne	Ballantyne, C. C.	Minister of Public Works	1917-10-03	1917-10-12	0	9
+Francis Cochrane	Cochrane, F.	Minister of Railways and Canals	1911-10-10	1917-10-12	1	9
+William James Roche	Roche, W. J.	Secretary of State of Canada	1911-10-10	1912-10-28	0	9
+Louis Coderre	Coderre, L.	Secretary of State of Canada	1912-10-29	1915-10-05	0	9
+Pierre-Edouard Blondin	Blondin, P.	Secretary of State of Canada	1915-10-06	1917-01-07	0	9
+Esioff-Leon Patenaude	Patenaude, E.	Secretary of State of Canada	1917-01-08	1917-06-12	0	9
+Arthur Meighen	Meighen, A.	Secretary of State of Canada	1917-08-25	1917-10-12	0	9
+Arthur Meighen	Meighen, A.	Solicitor General of Canada	1915-10-02	1917-08-24	0	9
+George Eulas Foster	Foster, G. E.	Minister of Trade and Commerce	1911-10-10	1917-10-12	1	9
+Thomas Alexander Crerar L	Crerar, T. A.	Minister of Agriculture	1917-10-12	1919-06-11	0	10
+Simon Fraser Tolmie C	Tolmie, S. F.	Minister of Agriculture	1919-08-12	1920-07-10	0	10
+Arthur Lewis Sifton	Sifton, A. L.	Minister of Customs	1917-10-12	1918-05-17	0	10
+Arthur Lewis Sifton	Sifton, A. L.	Minister of Customs and Inland Revenue	1918-05-18	1919-09-01	0	10
+Martin Burrell C	Burrell, M.	Minister of Customs and Inland Revenue	1919-12-31	1920-07-07	0	10
+Robert Laird Borden C	Borden, R. L.	Secretary of State for External Affairs	1917-10-12	1920-07-10	1	10
+William Thomas White C	White, W. T.	Minister of Finance and Receiver General	1917-10-12	1919-08-01	0	10
+Henry Lumley Drayton C	Drayton, H. L.	Minister of Finance and Receiver General	1919-08-02	1920-07-10	0	10
+James Alexander Calder L	Calder, J. A.	Minister of Immigration and Colonization	1917-10-12	1920-07-10	1	10
+Arthur Meighen C	Meighen, A.	Superintendent-General of Indian Affairs	1917-10-12	1920-07-10	1	10
+Albert Sevigny C	Sevigny, A.	Minister of Inland Revenue	1917-10-12	1918-04-01	0	10
+Arthur Lewis Sifton	Sifton, A. L.	Minister of Inland Revenue	1918-05-14	1918-05-17	0	10
+Arthur Meighen C	Meighen, A.	Minister of the Interior	1917-10-12	1920-07-10	1	10
+Charles Joseph Doherty C	Doherty, C. J.	Minister of Justice and Attorney General	1917-10-12	1920-07-10	1	10
+Thomas Wilson Crothers C	Crothers, T. W.	Minister of Labour	1917-10-12	1918-11-06	0	10
+Charles Colquhoun Ballantyne L	Ballantyne, C. C.	Minister of Marine and Fisheries	1917-10-13	1920-07-10	0	10
+Sydney Chilton Mewburn L	Mewburn, S. C.	Minister of Militia and Defence	1917-10-12	1920-01-15	0	10
+Hugh Guthrie L	Guthrie, H.	Minister of Militia and Defence	1920-01-24	1920-07-10	0	10
+Martin Burrell C	Burrell, M.	Minister of Mines	1917-10-12	1919-12-30	0	10
+Arthur Meighen C	Meighen, A.	Minister of Mines	1919-12-31	1920-07-10	0	10
+Francis Cochrane C	Cochrane, F.	Minister without Portfolio	1917-10-12	1919-09-22	0	10
+Alexander Kenneth Maclean L	Maclean, A. K.	Minister without Portfolio	1917-10-23	1920-02-24	0	10
+Charles Colquhoun Ballantyne L	Ballantyne, C. C.	Minister of the Naval Service	1917-10-13	1920-07-10	0	10
+Albert Edward Kemp C	Kemp, A. E.	Minister of the Overseas Military Forces	1917-10-12	1920-07-01	0	10
+Newton Wesley Rowell L	Rowell, N. W.	President of the Privy Council	1917-10-12	1920-07-10	1	10
+Charles Colquhoun Ballantyne	Ballantyne, C. C.	Minister of Public Works	1917-10-12	1917-10-12	0	10
+Frank Broadstreet Carvell L	Carvell, F. B.	Minister of Public Works	1917-10-13	1919-08-01	0	10
+Arthur Lewis Sifton	Sifton, A. L.	Minister of Public Works	1919-09-03	1919-12-30	0	10
+John Dowsley Reid C	Reid, J. D.	Minister of Railways and Canals	1917-10-12	1920-07-10	1	10
+Martin Burrell	Burrell, M.	Secretary of State of Canada	1917-10-12	1919-12-30	0	10
+Arthur Lewis Sifton	Sifton, A. L.	Secretary of State of Canada	1919-12-31	1920-07-10	0	10
+Hugh Guthrie	Guthrie, H.	Solicitor General of Canada	1919-07-05	1920-01-23	0	10
+Hugh Guthrie L	Guthrie, H.	Solicitor General of Canada	1920-01-24	1920-07-10	0	10
+George Eulas Foster C	Foster, G. E.	Minister of Trade and Commerce	1917-10-12	1920-07-10	1	10
+Simon Fraser Tolmie	Tolmie, S. F.	Minister of Agriculture	1920-07-10	1921-12-29	1	11
+Rupert Wilson Wigmore	Wigmore, R. W.	Minister of Customs and Excise	1921-06-04	1921-09-20	0	11
+John Babington Macaulay Baxter	Baxter, J. B. M.	Minister of Customs and Excise	1921-09-21	1921-12-29	0	11
+Rupert Wilson Wigmore	Wigmore, R. W.	Minister of Customs and Inland Revenue	1920-07-13	1921-06-03	0	11
+Arthur Meighen	Meighen, A.	Secretary of State for External Affairs	1920-07-10	1921-12-29	1	11
+Henry Lumley Drayton	Drayton, H. L.	Minister of Finance and Receiver General	1920-07-10	1921-12-29	1	11
+James Alexander Calder	Calder, J. A.	Minister of Immigration and Colonization	1920-07-10	1921-09-20	0	11
+John Wesley Edwards	Edwards, J. W.	Minister of Immigration and Colonization	1921-09-21	1921-12-29	0	11
+Charles Joseph Doherty	Doherty, C. J.	Minister of Justice and Attorney General	1920-07-10	1921-09-20	0	11
+Richard Bedford Bennett	Bennett, R. B.	Minister of Justice and Attorney General	1921-10-04	1921-12-29	0	11
+Charles Colquhoun Ballantyne	Ballantyne, C. C.	Minister of Marine and Fisheries	1920-07-10	1921-12-29	1	11
+Hugh Guthrie	Guthrie, H.	Minister of Militia and Defence	1920-07-10	1921-12-29	1	11
+Edgar Keith Spinney	Spinney, E. K.	Minister without Portfolio	1920-07-13	1921-12-29	0	11
+Edmund James Bristol	Bristol, E. J.	Minister without Portfolio	1921-09-21	1921-12-29	0	11
+James Robert Wilson	Wilson, J. R.	Minister without Portfolio	1921-09-26	1921-12-29	0	11
+Charles Colquhoun Ballantyne	Ballantyne, C. C.	Minister of the Naval Service	1920-07-10	1921-12-29	1	11
+Louis-de-Gonzague Belley	Belley, L.	Postmaster General	1921-09-21	1921-12-29	0	11
+James Alexander Calder	Calder, J. A.	President of the Privy Council	1920-07-10	1921-09-20	0	11
+Louis-Philippe Normand	Normand, L.	President of the Privy Council	1921-09-21	1921-12-29	0	11
+Fleming Blanchard McCurdy	McCurdy, F. B.	Minister of Public Works	1920-07-13	1921-12-29	0	11
+John Dowsley Reid	Reid, J. D.	Minister of Railways and Canals	1920-07-10	1921-09-20	0	11
+John Alexander Stewart	Stewart, J. A.	Minister of Railways and Canals	1921-09-21	1921-12-29	0	11
+Arthur Lewis Sifton	Sifton, A. L.	Secretary of State of Canada	1920-07-10	1921-01-21	0	11
+Rodolphe Monty	Monty, R.	Secretary of State of Canada	1921-09-21	1921-12-29	0	11
+James Alexander Lougheed	Lougheed, J. A.	Minister of Soldiers' Civil Re-establishment	1920-07-19	1921-09-21	0	11
+Robert James Manion	Manion, R. J.	Minister of Soldiers' Civil Re-establishment	1921-09-22	1921-12-29	0	11
+George Eulas Foster	Foster, G. E.	Minister of Trade and Commerce	1920-07-10	1921-09-20	0	11
+Henry Herbert Stevens	Stevens, H. H.	Minister of Trade and Commerce	1921-09-21	1921-12-29	0	11
+William Richard Motherwell	Motherwell, W. R.	Minister of Agriculture	1921-12-29	1926-06-28	1	12
+Jacques Bureau	Bureau, J.	Minister of Customs and Excise	1921-12-29	1925-09-04	0	12
+Georges-Henri Boivin	Boivin, G.	Minister of Customs and Excise	1925-09-05	1926-06-28	0	12
+William Lyon Mackenzie King	King, W. L. M.	Secretary of State for External Affairs	1921-12-29	1926-06-28	1	12
+William Stevens Fielding	Fielding, W. S.	Minister of Finance and Receiver General	1921-12-29	1925-09-04	0	12
+James Alexander Robb	Robb, J. A.	Minister of Finance and Receiver General	1925-09-05	1926-06-28	0	12
+Hewitt Bostock	Bostock, H.	Minister of Immigration and Colonization	1922-01-03	1922-02-02	0	12
+James Alexander Robb	Robb, J. A.	Minister of Immigration and Colonization	1923-08-17	1925-09-04	0	12
+George Newcombe Gordon	Gordon, G. N.	Minister of Immigration and Colonization	1925-09-07	1925-11-12	0	12
+Charles Stewart	Stewart, C.	Superintendent-General of Indian Affairs	1921-12-29	1926-06-28	1	12
+Charles Stewart	Stewart, C.	Minister of the Interior	1921-12-29	1926-06-28	1	12
+Jean Lomer Gouin	Gouin, J. L.	Minister of Justice and Attorney General	1921-12-29	1924-01-03	0	12
+Ernest Lapointe	Lapointe, E.	Minister of Justice and Attorney General	1924-01-30	1926-06-28	0	12
+James Murdock	Murdock, J.	Minister of Labour	1921-12-29	1925-11-12	0	12
+John Campbell Elliott	Elliott, J. C.	Minister of Labour	1926-03-08	1926-06-28	0	12
+Ernest Lapointe	Lapointe, E.	Minister of Marine and Fisheries	1921-12-29	1924-01-29	0	12
+Pierre Joseph Arthur Cardin	Cardin, P. J. A.	Minister of Marine and Fisheries	1924-01-30	1926-06-28	0	12
+George Perry Graham	Graham, G. P.	Minister of Militia and Defence	1921-12-29	1922-12-31	0	12
+Charles Stewart	Stewart, C.	Minister of Mines	1921-12-29	1926-06-28	1	12
+Thomas Andrew Low	Low, T. A.	Minister without Portfolio	1921-12-29	1923-08-16	0	12
+John Ewen Sinclair	Sinclair, J. E.	Minister without Portfolio	1921-12-30	1925-10-29	0	12
+Edward Mortimer Macdonald	Macdonald, E. M.	Minister without Portfolio	1923-04-12	1923-08-16	0	12
+Harold Buchanan McGiverin	McGiverin, H. B.	Minister without Portfolio	1924-09-20	1925-10-29	0	12
+Herbert Meredith Marler	Marler, H. M.	Minister without Portfolio	1925-09-09	1926-01-06	0	12
+Charles Vincent Massey	Massey, C. V.	Minister without Portfolio	1925-09-16	1925-11-12	0	12
+George Perry Graham	Graham, G. P.	Minister without Portfolio	1926-02-20	1926-04-06	0	12
+George Perry Graham	Graham, G. P.	Minister of National Defence	1923-01-01	1923-04-27	0	12
+Edward Mortimer Macdonald	Macdonald, E. M.	Minister of National Defence	1923-08-17	1926-06-28	0	12
+George Perry Graham	Graham, G. P.	Minister of the Naval Service	1921-12-29	1922-12-31	0	12
+William Lyon Mackenzie King	King, W. L. M.	President of the Privy Council	1921-12-29	1926-06-28	1	12
+James Horace King	King, J. H.	Minister of Public Works	1922-02-03	1926-06-28	0	12
+William Costello Kennedy	Kennedy, W. C.	Minister of Railways and Canals	1921-12-29	1923-01-18	0	12
+George Perry Graham	Graham, G. P.	Minister of Railways and Canals	1923-04-28	1926-02-19	0	12
+Charles Avery Dunning	Dunning, C. A.	Minister of Railways and Canals	1926-03-01	1926-06-28	0	12
+Arthur Bliss Copp	Copp, A. B.	Secretary of State of Canada	1921-12-29	1925-09-24	0	12
+Walter Edward Foster	Foster, W. E.	Secretary of State of Canada	1925-09-26	1925-11-12	0	12
+Charles Murphy	Murphy, C.	Secretary of State of Canada	1925-11-13	1926-03-23	0	12
+Ernest Lapointe	Lapointe, E.	Secretary of State of Canada	1926-03-24	1926-06-28	0	12
+John Campbell Elliott	Elliott, J. C.	Minister of Soldiers' Civil Re-establishment	1926-04-15	1926-06-28	0	12
+Daniel Duncan McKenzie	McKenzie, D. D.	Solicitor General of Canada	1921-12-29	1923-04-10	0	12
+Edward James McMurray	McMurray, E. J.	Solicitor General of Canada	1923-11-14	1925-05-22	0	12
+James Alexander Robb	Robb, J. A.	Minister of Trade and Commerce	1921-12-29	1923-08-16	0	12
+Thomas Andrew Low	Low, T. A.	Minister of Trade and Commerce	1923-08-17	1925-11-12	0	12
+Simon Fraser Tolmie	Tolmie, S. F.	Minister of Agriculture	1926-07-13	1926-09-25	0	13
+Henry Herbert Stevens	Stevens, H. H.	Minister of Customs and Excise	1926-07-13	1926-09-25	0	13
+Arthur Meighen	Meighen, A.	Secretary of State for External Affairs	1926-06-29	1926-09-25	1	13
+Richard Bedford Bennett	Bennett, R. B.	Minister of Finance and Receiver General	1926-07-13	1926-09-25	0	13
+Esioff-Leon Patenaude	Patenaude, E.	Minister of Justice and Attorney General	1926-07-13	1926-09-25	0	13
+George Burpee Jones	Jones, G. B.	Minister of Labour	1926-07-13	1926-09-25	0	13
+Richard Bedford Bennett	Bennett, R. B.	Minister without Portfolio	1926-07-07	1926-07-12	0	13
+Henry Lumley Drayton	Drayton, H. L.	Minister without Portfolio	1926-07-13	1926-09-25	0	13
+Raymond Ducharme Morand	Morand, R. D.	Minister without Portfolio	1926-07-13	1926-09-25	0	13
+John Alexander Macdonald	Macdonald, J. A.	Minister without Portfolio	1926-07-13	1926-09-25	0	13
+Donald Sutherland	Sutherland, D.	Minister without Portfolio	1926-07-13	1926-09-25	0	13
+Hugh Guthrie	Guthrie, H.	Minister of National Defence	1926-07-13	1926-09-25	0	13
+Robert James Manion	Manion, R. J.	Postmaster General	1926-07-13	1926-09-25	0	13
+Arthur Meighen	Meighen, A.	President of the Privy Council	1926-06-29	1926-09-25	1	13
+Edmond Baird Ryckman	Ryckman, E. B.	Minister of Public Works	1926-07-13	1926-09-25	0	13
+William Anderson Black	Black, W. A.	Minister of Railways and Canals	1926-07-13	1926-09-25	0	13
+George Halsey Perley	Perley, G. H.	Secretary of State for Canada	1926-07-13	1926-09-25	0	13
+Eugene Paquet	Paquet, E.	Minister of Soldiers' Civil Re-establishment	1926-08-23	1926-09-25	0	13
+Guillaume Andre Fauteux	Fauteux, G. A.	Solicitor General of Canada	1926-08-23	1926-09-25	0	13
+James Dew Chaplin	Chaplin, J. D.	Minister of Trade and Commerce	1926-07-13	1926-09-25	0	13
+William Richard Motherwell	Motherwell, W. R.	Minister of Agriculture	1926-09-25	1930-08-07	1	14
+William Daum Euler	Euler, W. D.	Minister of Customs and Excise	1926-09-25	1927-03-30	0	14
+William Lyon Mackenzie King	King, W. L. M.	Secretary of State for External Affairs	1926-09-25	1930-08-07	1	14
+James Alexander Robb	Robb, J. A.	Minister of Finance and Receiver General	1926-09-25	1929-11-11	0	14
+Charles Avery Dunning	Dunning, C. A.	Minister of Finance and Receiver General	1929-11-26	1930-08-07	0	14
+Cyrus Macmillan	Macmillan, C.	Minister of Fisheries	1930-06-17	1930-08-07	0	14
+Robert Forke	Forke, R.	Minister of Immigration and Colonization	1926-09-25	1929-12-29	0	14
+Ian Alistair Mackenzie	Mackenzie, I. A.	Minister of Immigration and Colonization	1930-06-27	1930-08-07	0	14
+Charles Stewart	Stewart, C.	Superintendent-General of Indian Affairs	1926-09-25	1930-06-18	0	14
+Ian Alistair Mackenzie	Mackenzie, I. A.	Superintendent-General of Indian Affairs	1930-06-27	1930-08-07	0	14
+Charles Stewart	Stewart, C.	Minister of the Interior	1926-09-25	1930-08-07	1	14
+Ernest Lapointe	Lapointe, E.	Minister of Justice and Attorney General	1926-09-25	1930-08-07	1	14
+Peter Heenan	Heenan, P.	Minister of Labour	1926-09-25	1930-08-07	1	14
+Pierre Joseph Arthur Cardin	Cardin, P. J. A.	Minister of Marine	1930-06-14	1930-08-07	0	14
+Pierre Joseph Arthur Cardin	Cardin, P. J. A.	Minister of Marine and Fisheries	1926-09-25	1930-06-13	0	14
+Charles Stewart	Stewart, C.	Minister of Mines	1926-09-25	1930-08-07	1	14
+William Frederic Kay	Kay, W. F.	Minister without Portfolio	1930-06-17	1930-08-07	0	14
+James Layton Ralston	Ralston, J. L.	Minister of National Defence	1926-10-08	1930-08-07	0	14
+William Daum Euler	Euler, W. D.	Minister of National Revenue	1927-03-31	1930-08-07	0	14
+James Layton Ralston	Ralston, J. L.	Minister of Pensions and National Health	1930-06-19	1930-08-07	0	14
+Peter John Veniot	Veniot, P. J.	Postmaster General	1926-09-25	1930-08-07	1	14
+William Lyon Mackenzie King	King, W. L. M.	President of the Privy Council	1926-09-25	1930-08-07	1	14
+John Campbell Elliott	Elliott, J. C.	Minister of Public Works	1926-09-25	1930-08-07	1	14
+Charles Avery Dunning	Dunning, C. A.	Minister of Railways and Canals	1926-09-25	1929-11-25	0	14
+Thomas Alexander Crerar	Crerar, T. A.	Minister of Railways and Canals	1929-12-30	1930-08-07	0	14
+Fernand Rinfret	Rinfret, F.	Secretary of State of Canada	1926-09-25	1930-08-07	1	14
+James Horace King	King, J. H.	Minister of Soldiers' Civil Re-establishment	1926-09-25	1928-06-10	0	14
+Lucien Cannon	Cannon, L.	Solicitor General of Canada	1926-09-25	1930-08-07	1	14
+James Malcolm	Malcolm, J.	Minister of Trade and Commerce	1926-09-25	1930-08-07	1	14
+Robert Weir	Weir, R.	Minister of Agriculture	1930-08-08	1935-10-23	0	15
+Richard Bedford Bennett	Bennett, R. B.	Secretary of State for External Affairs	1930-08-07	1935-10-23	1	15
+Richard Bedford Bennett	Bennett, R. B.	Minister of Finance and Receiver General	1930-08-07	1932-02-02	0	15
+Edgar Nelson Rhodes	Rhodes, E. N.	Minister of Fisheries	1930-08-07	1932-02-02	0	15
+William Gordon Ernst	Ernst, W. G.	Minister of Fisheries	1935-08-14	1935-10-23	0	15
+Wesley Ashton Gordon	Gordon, W. A.	Minister of Immigration and Colonization	1930-08-07	1932-02-02	0	15
+Thomas Gerow Murphy	Murphy, T. G.	Superintendent-General of Indian Affairs	1930-08-07	1935-10-23	1	15
+Thomas Gerow Murphy	Murphy, T. G.	Minister of the Interior	1930-08-07	1935-10-23	1	15
+Hugh Guthrie	Guthrie, H.	Minister of Justice and Attorney General	1930-08-07	1935-08-11	0	15
+George Reginald Geary	Geary, G. R.	Minister of Justice and Attorney General	1935-08-14	1935-10-23	0	15
+Wesley Ashton Gordon	Gordon, W. A.	Minister of Labour	1932-02-03	1935-10-23	0	15
+Alfred Duranleau	Duranleau, A.	Minister of Marine	1930-08-07	1935-07-19	0	15
+Lucien Henri Gendron	Gendron, L. H.	Minister of Marine	1935-08-30	1935-10-23	0	15
+Wesley Ashton Gordon	Gordon, W. A.	Minister of Mines	1930-08-07	1935-10-23	1	15
+George Halsey Perley	Perley, G. H.	Minister without Portfolio	1930-08-07	1935-10-23	1	15
+Onesime Gagnon	Gagnon, O.	Minister without Portfolio	1935-08-30	1935-10-23	0	15
+William Earl Rowe	Rowe, W. E.	Minister without Portfolio	1935-08-30	1935-10-23	0	15
+Donald Matheson Sutherland	Sutherland, D. M.	Minister of National Defence	1930-08-07	1934-11-16	0	15
+Grote Stirling	Stirling, G.	Minister of National Defence	1934-11-17	1935-10-23	0	15
+Edmond Baird Ryckman	Ryckman, E. B.	Minister of National Revenue	1930-08-07	1933-12-01	0	15
+Robert Charles Matthews	Matthews, R. C.	Minister of National Revenue	1933-12-06	1935-08-13	0	15
+James Earl Lawson	Lawson, J. E.	Minister of National Revenue	1935-08-14	1935-10-23	0	15
+Murray MacLaren	MacLaren, M.	Minister of Pensions and National Health	1930-08-07	1934-11-16	0	15
+Donald Matheson Sutherland	Sutherland, D. M.	Minister of Pensions and National Health	1934-11-17	1935-10-23	0	15
+Arthur Sauve	Sauve, A.	Postmaster General	1930-08-07	1935-08-13	0	15
+Samuel Gobeil	Gobeil, S.	Postmaster General	1935-08-16	1935-10-23	0	15
+Richard Bedford Bennett	Bennett, R. B.	President of the Privy Council	1930-08-07	1935-10-23	1	15
+Hugh Alexander Stewart	Stewart, H. A.	Minister of Public Works	1930-08-07	1935-10-23	1	15
+Robert James Manion	Manion, R. J.	Minister of Railways and Canals	1930-08-07	1935-10-23	1	15
+Charles Hazlitt Cahan	Cahan, C. H.	Secretary of State of Canada	1930-08-07	1935-10-23	1	15
+Maurice Dupre	Dupre, M.	Solicitor General of Canada	1930-08-07	1935-10-23	1	15
+Henry Herbert Stevens	Stevens, H. H.	Minister of Trade and Commerce	1930-08-07	1934-10-26	0	15
+Richard Burpee Hanson	Hanson, R. B.	Minister of Trade and Commerce	1934-11-17	1935-10-23	0	15
+James Garfield Gardiner	Gardiner, J. G.	Minister of Agriculture	1935-11-04	1948-11-15	0	16
+William Lyon Mackenzie King	King, W. L. M.	Secretary of State for External Affairs	1935-10-23	1946-09-03	0	16
+Louis Stephen St-Laurent	St-Laurent, L. S.	Secretary of State for External Affairs	1946-09-04	1948-09-09	0	16
+Lester Bowles Pearson	Pearson, L. B.	Secretary of State for External Affairs	1948-09-10	1948-11-15	0	16
+Charles Avery Dunning	Dunning, C. A.	Minister of Finance and Receiver General	1935-10-23	1939-09-05	0	16
+James Layton Ralston	Ralston, J. L.	Minister of Finance and Receiver General	1939-09-06	1940-07-04	0	16
+James Lorimer Ilsley	Ilsley, J. L.	Minister of Finance and Receiver General	1940-07-08	1946-12-09	0	16
+Douglas Charles Abbott	Abbott, D. C.	Minister of Finance and Receiver General	1946-12-10	1948-11-15	0	16
+Joseph-Enoil Michaud	Michaud, J.	Minister of Fisheries	1935-10-23	1942-10-05	0	16
+Ernest Bertrand	Bertrand, E.	Minister of Fisheries	1942-10-07	1945-08-28	0	16
+Hedley Francis Gregory Bridges	Bridges, H. F. G.	Minister of Fisheries	1945-08-30	1947-08-10	0	16
+Milton Fowler Gregg	Gregg, M. F.	Minister of Fisheries	1947-09-02	1948-01-18	0	16
+James Angus MacKinnon	MacKinnon, J. A.	Minister of Fisheries	1948-01-19	1948-06-10	0	16
+Robert Wellington Mayhew	Mayhew, R. W.	Minister of Fisheries	1948-06-11	1948-11-15	0	16
+Thomas Alexander Crerar	Crerar, T. A.	Minister of Immigration and Colonization	1935-10-23	1936-11-30	0	16
+Thomas Alexander Crerar	Crerar, T. A.	Superintendent-General of Indian Affairs	1935-10-23	1936-11-30	0	16
+Thomas Alexander Crerar	Crerar, T. A.	Minister of the Interior	1935-10-23	1936-11-30	0	16
+Ernest Lapointe	Lapointe, E.	Minister of Justice and Attorney General	1935-10-23	1941-11-26	0	16
+Louis Stephen St-Laurent	St-Laurent, L. S.	Minister of Justice and Attorney General	1941-12-10	1946-12-09	0	16
+James Lorimer Ilsley	Ilsley, J. L.	Minister of Justice and Attorney General	1946-12-10	1948-06-30	0	16
+Louis Stephen St-Laurent	St-Laurent, L. S.	Minister of Justice and Attorney General	1948-09-10	1948-11-15	0	16
+Norman McLeod Rogers	Rogers, N. M.	Minister of Labour	1935-10-23	1939-09-18	0	16
+Norman Alexander McLarty	McLarty, N. A.	Minister of Labour	1939-09-19	1941-12-14	0	16
+Humphrey Mitchell	Mitchell, H.	Minister of Labour	1941-12-15	1948-11-15	0	16
+Clarence Decatur Howe	Howe, C. D.	Minister of Marine	1935-10-23	1936-11-01	0	16
+Thomas Alexander Crerar	Crerar, T. A.	Minister of Mines	1935-10-23	1936-11-30	0	16
+Thomas Alexander Crerar	Crerar, T. A.	Minister of Mines and Resources	1936-12-01	1945-04-17	0	16
+James Allison Glen	Glen, J. A.	Minister of Mines and Resources	1945-04-18	1948-06-10	0	16
+James Angus MacKinnon	MacKinnon, J. A.	Minister of Mines and Resources	1948-06-11	1948-11-15	0	16
+James Angus MacKinnon	MacKinnon, J. A.	Minister without Portfolio	1939-01-23	1940-05-08	0	16
+Clarence Decatur Howe	Howe, C. D.	Minister of Munitions and Supply	1940-04-09	1945-12-31	0	16
+Charles Gavan Power	Power, C. G.	Associate Minister of National Defence	1940-07-12	1944-11-26	0	16
+Ian Alistair Mackenzie	Mackenzie, I. A.	Minister of National Defence	1935-10-23	1939-09-18	0	16
+Norman McLeod Rogers	Rogers, N. M.	Minister of National Defence	1939-09-19	1940-06-10	0	16
+James Layton Ralston	Ralston, J. L.	Minister of National Defence	1940-07-05	1944-11-01	0	16
+Andrew George Latta McNaughton	McNaughton, A. G. L.	Minister of National Defence	1944-11-02	1945-08-20	0	16
+Douglas Charles Abbott	Abbott, D. C.	Minister of National Defence	1945-08-21	1946-12-11	0	16
+Brooke Claxton	Claxton, B.	Minister of National Defence	1946-12-12	1948-11-15	0	16
+Charles Gavan Power	Power, C. G.	Minister of National Defence for Air	1940-05-23	1944-11-26	0	16
+Colin William George Gibson	Gibson, C. W. G.	Minister of National Defence for Air	1945-03-08	1946-12-11	0	16
+Angus Lewis Macdonald	Macdonald, A. L.	Minister of National Defence for Naval Services	1940-07-12	1945-04-17	0	16
+Douglas Charles Abbott	Abbott, D. C.	Minister of National Defence for Naval Services	1945-04-18	1946-12-11	0	16
+Brooke Claxton	Claxton, B.	Minister of National Health and Welfare	1944-10-18	1946-12-11	0	16
+Paul Joseph James Martin	Martin, P. J. J.	Minister of National Health and Welfare	1946-12-12	1948-11-15	0	16
+James Lorimer Ilsley	Ilsley, J. L.	Minister of National Revenue	1935-10-23	1940-07-07	0	16
+Colin William George Gibson	Gibson, C. W. G.	Minister of National Revenue	1940-07-08	1945-03-07	0	16
+David Laurence MacLaren	MacLaren, D. L.	Minister of National Revenue	1945-04-19	1945-07-29	0	16
+James Joseph McCann	McCann, J. J.	Minister of National Revenue	1945-08-29	1948-11-15	0	16
+James Garfield Gardiner	Gardiner, J. G.	Minister of National War Services	1940-07-12	1941-06-10	0	16
+Joseph Thorarinn Thorson	Thorson, J. T.	Minister of National War Services	1941-06-11	1942-10-05	0	16
+Leo Richer Lafleche	Lafleche, L. R.	Minister of National War Services	1942-10-07	1945-04-17	0	16
+James Joseph McCann	McCann, J. J.	Minister of National War Services	1945-04-18	1948-01-18	0	16
+Charles Gavan Power	Power, C. G.	Minister of Pensions and National Health	1935-10-23	1939-09-18	0	16
+Ian Alistair Mackenzie	Mackenzie, I. A.	Minister of Pensions and National Health	1939-09-19	1944-10-17	0	16
+John Campbell Elliott	Elliott, J. C.	Postmaster General	1935-10-23	1939-01-22	0	16
+Norman Alexander McLarty	McLarty, N. A.	Postmaster General	1939-01-23	1939-09-18	0	16
+Charles Gavan Power	Power, C. G.	Postmaster General	1939-09-19	1940-05-22	0	16
+William Pate Mulock	Mulock, W. P.	Postmaster General	1940-07-08	1945-06-08	0	16
+Ernest Bertrand	Bertrand, E.	Postmaster General	1945-08-29	1948-11-15	0	16
+William Lyon Mackenzie King	King, W. L. M.	President of the Privy Council	1935-10-23	1948-11-15	1	16
+Pierre Joseph Arthur Cardin	Cardin, P. J. A.	Minister of Public Works	1935-10-23	1942-05-12	0	16
+Alphonse Fournier	Fournier, A.	Minister of Public Works	1942-10-07	1948-11-15	0	16
+Clarence Decatur Howe	Howe, C. D.	Minister of Railways and Canals	1935-10-23	1936-11-01	0	16
+Clarence Decatur Howe	Howe, C. D.	Minister of Reconstruction	1944-10-13	1945-12-31	0	16
+Clarence Decatur Howe	Howe, C. D.	Minister of Reconstruction and Supply	1946-01-01	1948-11-15	0	16
+Fernand Rinfret	Rinfret, F.	Secretary of State of Canada	1935-10-23	1939-07-12	0	16
+Pierre-Francois Casgrain	Casgrain, P.	Secretary of State of Canada	1940-05-09	1941-12-14	0	16
+Norman Alexander McLarty	McLarty, N. A.	Secretary of State of Canada	1941-12-15	1945-04-17	0	16
+Paul Joseph James Martin	Martin, P. J. J.	Secretary of State of Canada	1945-04-18	1946-12-11	0	16
+Colin William George Gibson	Gibson, C. W. G.	Secretary of State of Canada	1946-12-12	1948-11-15	0	16
+Joseph Jean	Jean, J.	Solicitor General of Canada	1945-04-18	1948-11-15	0	16
+William Daum Euler	Euler, W. D.	Minister of Trade and Commerce	1935-10-23	1940-05-08	0	16
+James Angus MacKinnon	MacKinnon, J. A.	Minister of Trade and Commerce	1940-05-09	1948-01-18	0	16
+Clarence Decatur Howe	Howe, C. D.	Minister of Trade and Commerce	1948-01-19	1948-11-15	0	16
+Clarence Decatur Howe	Howe, C. D.	Minister of Transport	1936-11-02	1940-07-07	0	16
+Pierre Joseph Arthur Cardin	Cardin, P. J. A.	Minister of Transport	1940-07-08	1942-05-12	0	16
+Joseph-Enoil Michaud	Michaud, J.	Minister of Transport	1942-10-06	1945-04-17	0	16
+Lionel Chevrier	Chevrier, L.	Minister of Transport	1945-04-18	1948-11-15	0	16
+Ian Alistair Mackenzie	Mackenzie, I. A.	Minister of Veterans Affairs	1944-10-18	1948-01-18	0	16
+Milton Fowler Gregg	Gregg, M. F.	Minister of Veterans Affairs	1948-01-19	1948-11-15	0	16
+James Garfield Gardiner	Gardiner, J. G.	Minister of Agriculture	1948-11-15	1957-06-21	1	17
+Walter Edward Harris	Harris, W. E.	Minister of Citizenship and Immigration	1950-01-18	1954-06-30	0	17
+John Whitney Pickersgill	Pickersgill, J. W.	Minister of Citizenship and Immigration	1954-07-01	1957-06-21	0	17
+Clarence Decatur Howe	Howe, C. D.	Minister of Defence Production	1951-04-01	1957-06-21	0	17
+Lester Bowles Pearson	Pearson, L. B.	Secretary of State for External Affairs	1948-11-15	1957-06-21	1	17
+Douglas Charles Abbott	Abbott, D. C.	Minister of Finance and Receiver General	1948-11-15	1954-06-30	0	17
+Walter Edward Harris	Harris, W. E.	Minister of Finance and Receiver General	1954-07-01	1957-06-21	0	17
+Robert Wellington Mayhew	Mayhew, R. W.	Minister of Fisheries	1948-11-15	1952-10-14	0	17
+James Sinclair	Sinclair, J.	Minister of Fisheries	1952-10-15	1957-06-21	0	17
+Stuart Sinclair Garson	Garson, S. S.	Minister of Justice and Attorney General	1948-11-15	1957-06-21	1	17
+Humphrey Mitchell	Mitchell, H.	Minister of Labour	1948-11-15	1950-08-02	0	17
+Milton Fowler Gregg	Gregg, M. F.	Minister of Labour	1950-08-07	1957-06-21	0	17
+James Angus MacKinnon	MacKinnon, J. A.	Minister of Mines and Resources	1948-11-15	1949-03-31	0	17
+Colin William George Gibson	Gibson, C. W. G.	Minister of Mines and Resources	1949-04-01	1950-01-17	0	17
+James Joseph McCann	McCann, J. J.	Minister of Mines and Technical Surveys	1950-01-18	1950-12-12	0	17
+George Prudham	Prudham, G.	Minister of Mines and Technical Surveys	1950-12-13	1957-06-21	0	17
+Ralph Osborne Campney	Campney, R. O.	Associate Minister of National Defence	1953-02-12	1954-06-30	0	17
+Paul Theodore Hellyer	Hellyer, P. T.	Associate Minister of National Defence	1957-04-26	1957-06-21	0	17
+Brooke Claxton	Claxton, B.	Minister of National Defence	1948-11-15	1954-06-30	0	17
+Ralph Osborne Campney	Campney, R. O.	Minister of National Defence	1954-07-01	1957-06-21	0	17
+Paul Joseph James Martin	Martin, P. J. J.	Minister of National Health and Welfare	1948-11-15	1957-06-21	1	17
+James Joseph McCann	McCann, J. J.	Minister of National Revenue	1948-11-15	1957-06-21	1	17
+Jean Lesage	Lesage, J.	Minister of Northern Affairs and National Resources	1953-12-16	1957-06-21	0	17
+Ernest Bertrand	Bertrand, E.	Postmaster General	1948-11-15	1949-08-23	0	17
+Gabriel Edouard Rinfret	Rinfret, G. E.	Postmaster General	1949-08-25	1952-02-12	0	17
+Alcide Cote	Cote, A.	Postmaster General	1952-02-13	1955-08-07	0	17
+Hugues Lapointe	Lapointe, H.	Postmaster General	1955-11-03	1957-06-21	0	17
+Louis Stephen St-Laurent	St-Laurent, L. S.	President of the Privy Council	1948-11-15	1957-04-24	0	17
+Lionel Chevrier	Chevrier, L.	President of the Privy Council	1957-04-25	1957-06-21	0	17
+Alphonse Fournier	Fournier, A.	Minister of Public Works	1948-11-15	1953-06-11	0	17
+Robert Henry Winters	Winters, R. H.	Minister of Public Works	1953-09-17	1957-06-21	0	17
+Robert Henry Winters	Winters, R. H.	Minister of Reconstruction and Supply	1948-11-15	1950-01-17	0	17
+Robert Henry Winters	Winters, R. H.	Minister of Resources and Development	1950-01-18	1953-09-16	0	17
+Jean Lesage	Lesage, J.	Minister of Resources and Development	1953-09-17	1953-12-15	0	17
+Colin William George Gibson	Gibson, C. W. G.	Secretary of State of Canada	1948-11-15	1949-03-31	0	17
+Frederick Gordon Bradley	Bradley, F. G.	Secretary of State of Canada	1949-04-01	1953-06-11	0	17
+John Whitney Pickersgill	Pickersgill, J. W.	Secretary of State of Canada	1953-06-12	1954-06-30	0	17
+Roch Pinard	Pinard, R.	Secretary of State of Canada	1954-07-01	1957-06-21	0	17
+Joseph Jean	Jean, J.	Solicitor General of Canada	1948-11-15	1949-08-23	0	17
+Hugues Lapointe	Lapointe, H.	Solicitor General of Canada	1949-08-25	1950-08-06	0	17
+Stuart Sinclair Garson	Garson, S. S.	Solicitor General of Canada	1950-08-07	1952-10-14	0	17
+Ralph Osborne Campney	Campney, R. O.	Solicitor General of Canada	1952-10-15	1954-01-11	0	17
+Clarence Decatur Howe	Howe, C. D.	Minister of Trade and Commerce	1948-11-15	1957-06-21	1	17
+Lionel Chevrier	Chevrier, L.	Minister of Transport	1948-11-15	1954-06-30	0	17
+George Carlyle Marler	Marler, G. C.	Minister of Transport	1954-07-01	1957-06-21	0	17
+Milton Fowler Gregg	Gregg, M. F.	Minister of Veterans Affairs	1948-11-15	1950-08-06	0	17
+Hugues Lapointe	Lapointe, H.	Minister of Veterans Affairs	1950-08-07	1957-06-21	0	17
+Douglas Scott Harkness	Harkness, D. S.	Minister of Agriculture	1957-08-07	1960-10-10	0	18
+Francis Alvin George Hamilton	Hamilton, F. A. G.	Minister of Agriculture	1960-10-11	1963-04-22	0	18
+Ellen Louks Fairclough	Fairclough, E. L.	Minister of Citizenship and Immigration	1958-05-12	1962-08-08	0	18
+Richard Albert Bell	Bell, R. A.	Minister of Citizenship and Immigration	1962-08-09	1963-04-22	0	18
+Raymond Joseph Michael O'Hurley	O'Hurley, R. J. M.	Minister of Defence Production	1958-05-12	1963-04-22	0	18
+John George Diefenbaker	Diefenbaker, J. G.	Secretary of State for External Affairs	1957-06-21	1957-09-12	0	18
+Sidney Earle Smith	Smith, S. E.	Secretary of State for External Affairs	1957-09-13	1959-03-17	0	18
+Howard Charles Green	Green, H. C.	Secretary of State for External Affairs	1959-06-04	1963-04-22	0	18
+Donald Methuen Fleming	Fleming, D. M.	Minister of Finance and Receiver General	1957-06-21	1962-08-08	0	18
+George Clyde Nowlan	Nowlan, G. C.	Minister of Finance and Receiver General	1962-08-09	1963-04-22	0	18
+John Angus MacLean	MacLean, J. A.	Minister of Fisheries	1957-06-21	1963-04-22	1	18
+Hugh John Flemming	Flemming, H. J.	Minister of Forestry	1960-10-11	1963-03-17	0	18
+Martial Asselin	Asselin, M.	Minister of Forestry	1963-03-18	1963-04-22	0	18
+Edmund Davie Fulton	Fulton, E. D.	Minister of Justice and Attorney General	1957-06-21	1962-08-08	0	18
+Donald Methuen Fleming	Fleming, D. M.	Minister of Justice and Attorney General	1962-08-09	1963-04-22	0	18
+Michael Starr	Starr, M.	Minister of Labour	1957-06-21	1963-04-22	1	18
+Paul Comtois	Comtois, P.	Minister of Mines and Technical Surveys	1957-08-07	1961-10-06	0	18
+Jacques Flynn	Flynn, J.	Minister of Mines and Technical Surveys	1961-12-28	1962-07-12	0	18
+Paul Martineau	Martineau, P.	Minister of Mines and Technical Surveys	1962-08-09	1963-04-22	0	18
+William Joseph Browne	Browne, W. J.	Minister without Portfolio	1957-06-21	1960-10-10	0	18
+James MacKerras Macdonnell	Macdonnell, J. M.	Minister without Portfolio	1957-06-21	1959-08-19	0	18
+George Ernest Halpenny	Halpenny, G. E.	Minister without Portfolio	1960-10-11	1962-08-08	0	18
+Frank Charles McGee	McGee, F. C.	Minister without Portfolio	1963-03-18	1963-04-22	0	18
+Theogene Ricard	Ricard, T.	Minister without Portfolio	1963-03-18	1963-04-22	0	18
+Joseph Pierre Albert Sevigny	Sevigny, J. P. A.	Associate Minister of National Defence	1959-08-20	1963-02-08	0	18
+George Randolph Pearkes	Pearkes, G. R.	Minister of National Defence	1957-06-21	1960-10-10	0	18
+Douglas Scott Harkness	Harkness, D. S.	Minister of National Defence	1960-10-11	1963-02-03	0	18
+Gordon Churchill	Churchill, G.	Minister of National Defence	1963-02-12	1963-04-22	0	18
+Jay Waldo Monteith	Monteith, J. W.	Minister of National Health and Welfare	1957-08-22	1963-04-22	0	18
+George Clyde Nowlan	Nowlan, G. C.	Minister of National Revenue	1957-06-21	1962-08-08	0	18
+Hugh John Flemming	Flemming, H. J.	Minister of National Revenue	1962-08-09	1963-04-22	0	18
+Douglas Scott Harkness	Harkness, D. S.	Minister of Northern Affairs and National Resources	1957-06-21	1957-08-18	0	18
+Francis Alvin George Hamilton	Hamilton, F. A. G.	Minister of Northern Affairs and National Resources	1957-08-22	1960-10-10	0	18
+Walter Gilbert Dinsdale	Dinsdale, W. G.	Minister of Northern Affairs and National Resources	1960-10-11	1963-04-22	0	18
+William McLean Hamilton	Hamilton, W. M.	Postmaster General	1957-06-21	1962-07-12	0	18
+Ellen Louks Fairclough	Fairclough, E. L.	Postmaster General	1962-08-09	1963-04-22	0	18
+Noel Dorion	Dorion, N.	President of the Privy Council	1961-12-28	1962-07-05	0	18
+John George Diefenbaker	Diefenbaker, J. G.	President of the Privy Council	1962-12-21	1963-04-22	0	18
+Howard Charles Green	Green, H. C.	Minister of Public Works	1957-06-21	1959-08-19	0	18
+David James Walker	Walker, D. J.	Minister of Public Works	1959-08-20	1962-07-12	0	18
+Edmund Davie Fulton	Fulton, E. D.	Minister of Public Works	1962-08-09	1963-04-22	0	18
+Ellen Louks Fairclough	Fairclough, E. L.	Secretary of State of Canada	1957-06-21	1958-05-11	0	18
+Henri Courtemanche	Courtemanche, H.	Secretary of State of Canada	1958-05-12	1960-01-19	0	18
+Noel Dorion	Dorion, N.	Secretary of State of Canada	1960-10-11	1962-07-05	0	18
+George Ernest Halpenny	Halpenny, G. E.	Secretary of State of Canada	1962-08-09	1963-04-22	0	18
+Leon Balcer	Balcer, L.	Solicitor General of Canada	1957-06-21	1960-10-10	0	18
+William Joseph Browne	Browne, W. J.	Solicitor General of Canada	1960-10-11	1962-08-09	0	18
+Gordon Churchill	Churchill, G.	Minister of Trade and Commerce	1957-06-21	1960-10-10	0	18
+George Harris Hees	Hees, G. H.	Minister of Trade and Commerce	1960-10-11	1963-02-08	0	18
+George Harris Hees	Hees, G. H.	Minister of Transport	1957-06-21	1960-10-10	0	18
+Leon Balcer	Balcer, L.	Minister of Transport	1960-10-11	1963-04-22	0	18
+Alfred Johnson Brooks	Brooks, A. J.	Minister of Veterans Affairs	1957-06-21	1960-10-10	0	18
+Gordon Churchill	Churchill, G.	Minister of Veterans Affairs	1960-10-11	1963-02-11	0	18
+Marcel Joseph Aime Lambert	Lambert, M. J. A.	Minister of Veterans Affairs	1963-02-12	1963-04-22	0	18
+Harry William Hays	Hays, H. W.	Minister of Agriculture	1963-04-22	1965-12-17	0	19
+John James Greene	Greene, J. J.	Minister of Agriculture	1965-12-18	1968-04-20	0	19
+Guy Favreau	Favreau, G.	Minister of Citizenship and Immigration	1963-04-22	1964-02-02	0	19
+Rene Tremblay	Tremblay, R.	Minister of Citizenship and Immigration	1964-02-03	1965-02-14	0	19
+John Robert Nicholson	Nicholson, J. R.	Minister of Citizenship and Immigration	1965-02-15	1965-12-17	0	19
+Jean Marchand	Marchand, J.	Minister of Citizenship and Immigration	1965-12-18	1966-09-30	0	19
+John Napier Turner	Turner, J. N.	Minister of Consumer and Corporate Affairs	1967-12-21	1968-04-20	0	19
+Charles Mills Drury	Drury, C. M.	Minister of Defence Production	1963-04-22	1968-04-20	1	19
+Jean-Luc Pepin	Pepin, J.	Minister of Energy, Mines and Resources	1966-10-01	1968-04-20	0	19
+Paul Joseph James Martin	Martin, P. J. J.	Secretary of State for External Affairs	1963-04-22	1968-04-20	1	19
+Walter Lockhart Gordon	Gordon, W. L.	Minister of Finance and Receiver General	1963-04-22	1965-11-10	0	19
+Mitchell William Sharp	Sharp, M. W.	Minister of Finance and Receiver General	1965-12-18	1968-04-20	0	19
+Hedard Robichaud	Robichaud, H.	Minister of Fisheries	1963-04-22	1968-04-20	1	19
+John Robert Nicholson	Nicholson, J. R.	Minister of Forestry	1963-04-22	1964-02-02	0	19
+Maurice Sauve	Sauve, M.	Minister of Forestry	1964-02-03	1966-09-30	0	19
+Maurice Sauve	Sauve, M.	Minister of Forestry and Rural Development	1966-10-01	1968-04-20	0	19
+Arthur Laing	Laing, A.	Minister of Indian Affairs and Northern Development	1966-10-01	1968-04-20	0	19
+Charles Mills Drury	Drury, C. M.	Minister of Industry	1963-07-25	1968-04-20	0	19
+Lionel Chevrier	Chevrier, L.	Minister of Justice and Attorney General	1963-04-22	1964-02-02	0	19
+Guy Favreau	Favreau, G.	Minister of Justice and Attorney General	1964-02-03	1965-06-29	0	19
+Louis Joseph Lucien Cardin	Cardin, L. J. L.	Minister of Justice and Attorney General	1965-07-07	1967-04-03	0	19
+Pierre Elliott Trudeau	Trudeau, P. E.	Minister of Justice and Attorney General	1967-04-04	1968-04-20	0	19
+Allan Joseph MacEachen	MacEachen, A. J.	Minister of Labour	1963-04-22	1965-12-17	0	19
+John Robert Nicholson	Nicholson, J. R.	Minister of Labour	1965-12-18	1968-04-20	0	19
+Jean Marchand	Marchand, J.	Minister of Manpower and Immigration	1966-10-01	1968-04-20	0	19
+William Moore Benidickson	Benidickson, W. M.	Minister of Mines and Technical Surveys	1963-04-22	1965-07-06	0	19
+John Watson MacNaught	MacNaught, J. W.	Minister of Mines and Technical Surveys	1965-07-07	1965-12-17	0	19
+Jean-Luc Pepin	Pepin, J.	Minister of Mines and Technical Surveys	1965-12-18	1966-09-30	0	19
+John Watson MacNaught	MacNaught, J. W.	Minister without Portfolio	1963-04-22	1965-07-06	0	19
+Rene Tremblay	Tremblay, R.	Minister without Portfolio	1963-04-22	1964-02-02	0	19
+Yvon Dupuis	Dupuis, Y.	Minister without Portfolio	1964-02-03	1965-01-21	0	19
+Lawrence Pennell	Pennell, L.	Minister without Portfolio	1965-07-07	1966-09-30	0	19
+Jean-Luc Pepin	Pepin, J.	Minister without Portfolio	1965-07-07	1965-12-17	0	19
+John Napier Turner	Turner, J. N.	Minister without Portfolio	1965-12-18	1967-04-03	0	19
+Walter Lockhart Gordon	Gordon, W. L.	Minister without Portfolio	1967-01-09	1967-04-03	0	19
+Joseph Jacques Jean Chretien	Chretien, J. J. J.	Minister without Portfolio	1967-04-04	1968-01-17	0	19
+Charles Ronald McKay Granger	Granger, C. R. M.	Minister without Portfolio	1967-09-25	1968-04-20	0	19
+Bryce Stuart Mackasey	Mackasey, B. S.	Minister without Portfolio	1968-02-09	1968-04-20	0	19
+Louis Joseph Lucien Cardin	Cardin, L. J. L.	Associate Minister of National Defence	1963-04-22	1965-02-14	0	19
+Leo Alphonse Joseph Cadieux	Cadieux, L. A. J.	Associate Minister of National Defence	1965-02-15	1967-09-18	0	19
+Paul Theodore Hellyer	Hellyer, P. T.	Minister of National Defence	1963-04-22	1967-09-18	0	19
+Leo Alphonse Joseph Cadieux	Cadieux, L. A. J.	Minister of National Defence	1967-09-19	1968-04-20	0	19
+Julia Verlyn LaMarsh	LaMarsh, J. V.	Minister of National Health and Welfare	1963-04-22	1965-12-17	0	19
+Allan Joseph MacEachen	MacEachen, A. J.	Minister of National Health and Welfare	1965-12-18	1968-04-20	0	19
+John Richard Garland	Garland, J. R.	Minister of National Revenue	1963-04-22	1964-03-14	0	19
+Edgar John Benson	Benson, E. J.	Minister of National Revenue	1964-06-29	1968-01-17	0	19
+Joseph Jacques Jean Chretien	Chretien, J. J. J.	Minister of National Revenue	1968-01-18	1968-04-20	0	19
+Arthur Laing	Laing, A.	Minister of Northern Affairs and National Resources	1963-04-22	1966-09-30	0	19
+Azellus Denis	Denis, A.	Postmaster General	1963-04-22	1964-02-02	0	19
+John Robert Nicholson	Nicholson, J. R.	Postmaster General	1964-02-03	1965-02-14	0	19
+Rene Tremblay	Tremblay, R.	Postmaster General	1965-02-15	1965-12-17	0	19
+Joseph Julien Jean-Pierre Cote	Cote, J. J. J.	Postmaster General	1965-12-18	1968-04-20	0	19
+Maurice Lamontagne	Lamontagne, M.	President of the Privy Council	1963-04-22	1964-02-02	0	19
+George James McIlraith	McIlraith, G. J.	President of the Privy Council	1964-02-03	1965-07-06	0	19
+Guy Favreau	Favreau, G.	President of the Privy Council	1965-07-07	1967-04-03	0	19
+Walter Lockhart Gordon	Gordon, W. L.	President of the Privy Council	1967-04-04	1968-03-10	0	19
+Jean-Paul Deschatelets	Deschatelets, J.	Minister of Public Works	1963-04-22	1965-02-11	0	19
+Louis Joseph Lucien Cardin	Cardin, L. J. L.	Minister of Public Works	1965-02-15	1965-07-06	0	19
+George James McIlraith	McIlraith, G. J.	Minister of Public Works	1965-07-07	1968-04-20	0	19
+Guy Favreau	Favreau, G.	Registrar General of Canada	1966-10-01	1967-04-03	0	19
+John Napier Turner	Turner, J. N.	Registrar General of Canada	1967-04-04	1967-12-20	0	19
+John Whitney Pickersgill	Pickersgill, J. W.	Secretary of State of Canada	1963-04-22	1964-02-02	0	19
+Maurice Lamontagne	Lamontagne, M.	Secretary of State of Canada	1964-02-03	1965-12-17	0	19
+Julia Verlyn LaMarsh	LaMarsh, J. V.	Secretary of State of Canada	1965-12-18	1968-04-09	0	19
+John Watson MacNaught	MacNaught, J. W.	Solicitor General of Canada	1963-04-22	1965-07-06	0	19
+Lawrence Pennell	Pennell, L.	Solicitor General of Canada	1965-07-07	1968-04-19	0	19
+Mitchell William Sharp	Sharp, M. W.	Minister of Trade and Commerce	1963-04-22	1966-01-03	0	19
+Robert Henry Winters	Winters, R. H.	Minister of Trade and Commerce	1966-01-04	1968-03-29	0	19
+George James McIlraith	McIlraith, G. J.	Minister of Transport	1963-04-22	1964-02-02	0	19
+John Whitney Pickersgill	Pickersgill, J. W.	Minister of Transport	1964-02-03	1967-09-18	0	19
+Paul Theodore Hellyer	Hellyer, P. T.	Minister of Transport	1967-09-19	1968-04-20	0	19
+Edgar John Benson	Benson, E. J.	President of the Treasury Board	1966-10-01	1968-04-20	0	19
+Roger Joseph Teillet	Teillet, R. J.	Minister of Veterans Affairs	1963-04-22	1968-04-20	1	19
+John James Greene	Greene, J. J.	Minister of Agriculture	1968-04-20	1968-07-05	0	20
+Horace Andrew Olson	Olson, H. A.	Minister of Agriculture	1968-07-06	1972-11-26	0	20
+Eugene Francis Whelan	Whelan, E. F.	Minister of Agriculture	1972-11-27	1979-06-03	0	20
+Eric William Kierans	Kierans, E. W.	Minister of Communications	1969-04-01	1971-04-28	0	20
+Robert Douglas George Stanbury	Stanbury, R. D. G.	Minister of Communications	1971-08-12	1972-11-26	0	20
+Gerard Pelletier	Pelletier, G.	Minister of Communications	1972-11-27	1975-08-28	0	20
+Pierre Juneau	Juneau, P.	Minister of Communications	1975-08-29	1975-10-24	0	20
+Jeanne Sauve	Sauve, J.	Minister of Communications	1975-12-05	1979-06-03	0	20
+John Napier Turner	Turner, J. N.	Minister of Consumer and Corporate Affairs	1968-04-20	1968-07-05	0	20
+Stanley Ronald Basford	Basford, S. R.	Minister of Consumer and Corporate Affairs	1968-07-06	1972-01-27	0	20
+Robert Knight Andras	Andras, R. K.	Minister of Consumer and Corporate Affairs	1972-01-28	1972-11-26	0	20
+Herbert Eser Gray	Gray, H. E.	Minister of Consumer and Corporate Affairs	1972-11-27	1974-08-07	0	20
+Andre Ouellet	Ouellet, A.	Minister of Consumer and Corporate Affairs	1974-08-08	1976-03-15	0	20
+Bryce Stuart Mackasey	Mackasey, B. S.	Minister of Consumer and Corporate Affairs	1976-04-08	1976-09-13	0	20
+Anthony Chisholm Abbott	Abbott, A. C.	Minister of Consumer and Corporate Affairs	1976-09-14	1977-09-15	0	20
+William Warren Allmand	Allmand, W. W.	Minister of Consumer and Corporate Affairs	1977-09-16	1979-06-03	0	20
+Charles Mills Drury	Drury, C. M.	Minister of Defence Production	1968-04-20	1968-07-05	0	20
+Donald Campbell Jamieson	Jamieson, D. C.	Minister of Defence Production	1968-07-06	1969-03-31	0	20
+Robert Knight Andras	Andras, R. K.	Minister of State for Economic Development	1978-11-24	1979-06-03	0	20
+Jack Sydney George Cullen	Cullen, J. S. G.	Minister of Employment and Immigration	1977-08-15	1979-06-03	0	20
+Jean-Luc Pepin	Pepin, J.	Minister of Energy, Mines and Resources	1968-04-20	1968-07-05	0	20
+John James Greene	Greene, J. J.	Minister of Energy, Mines and Resources	1968-07-06	1972-01-27	0	20
+Donald Stovel Macdonald	Macdonald, D. S.	Minister of Energy, Mines and Resources	1972-01-28	1975-09-25	0	20
+Alastair William Gillespie	Gillespie, A. W.	Minister of Energy, Mines and Resources	1975-09-26	1979-06-03	0	20
+Jack Davis	Davis, J.	Minister of the Environment	1971-06-11	1974-08-07	0	20
+Jeanne Sauve	Sauve, J.	Minister of the Environment	1974-08-08	1975-12-04	0	20
+Jean Marchand	Marchand, J.	Minister of the Environment	1976-01-22	1976-06-30	0	20
+Romeo LeBlanc	LeBlanc, R.	Minister of the Environment	1976-09-14	1979-04-01	0	20
+Leonard Stephen Marchand	Marchand, L. S.	Minister of the Environment	1979-04-02	1979-06-03	0	20
+Mitchell William Sharp	Sharp, M. W.	Secretary of State for External Affairs	1968-04-20	1974-08-07	0	20
+Allan Joseph MacEachen	MacEachen, A. J.	Secretary of State for External Affairs	1974-08-08	1976-09-13	0	20
+Donald Campbell Jamieson	Jamieson, D. C.	Secretary of State for External Affairs	1976-09-14	1979-06-03	0	20
+Edgar John Benson	Benson, E. J.	Minister of Finance	1968-04-20	1972-01-27	0	20
+John Napier Turner	Turner, J. N.	Minister of Finance	1972-01-28	1975-09-09	0	20
+Donald Stovel Macdonald	Macdonald, D. S.	Minister of Finance	1975-09-26	1977-09-15	0	20
+Joseph Jacques Jean Chretien	Chretien, J. J. J.	Minister of Finance	1977-09-16	1979-06-03	0	20
+Hedard Robichaud	Robichaud, H.	Minister of Fisheries	1968-04-20	1968-07-05	0	20
+Jack Davis	Davis, J.	Minister of Fisheries	1968-07-06	1969-03-31	0	20
+Jack Davis	Davis, J.	Minister of Fisheries and Forestry	1969-04-01	1971-06-10	0	20
+Romeo LeBlanc	LeBlanc, R.	Minister of Fisheries and Oceans	1979-04-02	1979-06-03	0	20
+Maurice Sauve	Sauve, M.	Minister of Forestry and Rural Development	1968-04-20	1968-07-05	0	20
+Jean Marchand	Marchand, J.	Minister of Forestry and Rural Development	1968-07-06	1969-03-31	0	20
+Arthur Laing	Laing, A.	Minister of Indian Affairs and Northern Development	1968-04-20	1968-07-05	0	20
+Joseph Jacques Jean Chretien	Chretien, J. J. J.	Minister of Indian Affairs and Northern Development	1968-07-06	1974-08-07	0	20
+J. Judd Buchanan	Buchanan, J. J.	Minister of Indian Affairs and Northern Development	1974-08-08	1976-09-13	0	20
+William Warren Allmand	Allmand, W. W.	Minister of Indian Affairs and Northern Development	1976-09-14	1977-09-15	0	20
+James Hugh Faulkner	Faulkner, J. H.	Minister of Indian Affairs and Northern Development	1977-09-16	1979-06-03	0	20
+Charles Mills Drury	Drury, C. M.	Minister of Industry	1968-04-20	1968-07-05	0	20
+Jean-Luc Pepin	Pepin, J.	Minister of Industry	1968-07-06	1969-03-31	0	20
+Jean-Luc Pepin	Pepin, J.	Minister of Industry, Trade and Commerce	1969-04-01	1972-11-26	0	20
+Alastair William Gillespie	Gillespie, A. W.	Minister of Industry, Trade and Commerce	1972-11-27	1975-09-25	0	20
+Donald Campbell Jamieson	Jamieson, D. C.	Minister of Industry, Trade and Commerce	1975-09-26	1976-09-13	0	20
+Joseph Jacques Jean Chretien	Chretien, J. J. J.	Minister of Industry, Trade and Commerce	1976-09-14	1977-09-15	0	20
+John Henry Horner	Horner, J. H.	Minister of Industry, Trade and Commerce	1977-09-16	1979-06-03	0	20
+Pierre Elliott Trudeau	Trudeau, P. E.	Minister of Justice and Attorney General	1968-04-20	1968-07-05	0	20
+John Napier Turner	Turner, J. N.	Minister of Justice and Attorney General	1968-07-06	1972-01-27	0	20
+Otto Emil Lang	Lang, O. E.	Minister of Justice and Attorney General	1972-01-28	1975-09-25	0	20
+Stanley Ronald Basford	Basford, S. R.	Minister of Justice and Attorney General	1975-09-26	1978-08-02	0	20
+Otto Emil Lang	Lang, O. E.	Minister of Justice and Attorney General	1978-08-09	1978-11-23	0	20
+Marc Lalonde	Lalonde, M.	Minister of Justice and Attorney General	1978-11-24	1979-06-03	0	20
+Jean-Luc Pepin	Pepin, J.	Minister of Labour	1968-04-20	1968-07-05	0	20
+Bryce Stuart Mackasey	Mackasey, B. S.	Minister of Labour	1968-07-06	1972-01-27	0	20
+Martin Patrick O'Connell	O'Connell, M. P.	Minister of Labour	1972-01-28	1972-11-26	0	20
+John Carr Munro	Munro, J. C.	Minister of Labour	1972-11-27	1978-09-07	0	20
+Martin Patrick O'Connell	O'Connell, M. P.	Minister of Labour	1978-11-24	1979-06-03	0	20
+Jean Marchand	Marchand, J.	Minister of Manpower and Immigration	1968-04-20	1968-07-05	0	20
+Allan Joseph MacEachen	MacEachen, A. J.	Minister of Manpower and Immigration	1968-07-06	1970-09-23	0	20
+Otto Emil Lang	Lang, O. E.	Minister of Manpower and Immigration	1970-09-24	1972-01-27	0	20
+Bryce Stuart Mackasey	Mackasey, B. S.	Minister of Manpower and Immigration	1972-01-28	1972-11-26	0	20
+Robert Knight Andras	Andras, R. K.	Minister of Manpower and Immigration	1972-11-27	1976-09-13	0	20
+Jack Sydney George Cullen	Cullen, J. S. G.	Minister of Manpower and Immigration	1976-09-14	1977-08-14	0	20
+Martin Patrick O'Connell	O'Connell, M. P.	Minister of State	1971-08-12	1972-01-27	0	20
+Patrick Morgan Mahoney	Mahoney, P. M.	Minister of State	1972-01-28	1972-11-26	0	20
+Stanley Haidasz	Haidasz, S.	Minister of State	1972-11-27	1974-08-07	0	20
+Bryce Stuart Mackasey	Mackasey, B. S.	Minister of State	1974-06-03	1974-08-07	0	20
+Romeo LeBlanc	LeBlanc, R.	Minister of State	1974-08-08	1976-09-13	0	20
+Leonard Stephen Marchand	Marchand, L. S.	Minister of State	1976-09-14	1979-04-01	0	20
+Iona Campagnolo	Campagnolo, I.	Minister of State	1976-09-15	1979-06-03	0	20
+Joseph-Philippe Guay	Guay, J.	Minister of State	1977-04-21	1977-09-15	0	20
+Marc Lalonde	Lalonde, M.	Minister of State	1977-09-16	1978-11-23	0	20
+Norman A. Cafik	Cafik, N. A.	Minister of State	1977-09-16	1979-06-03	0	20
+Anthony Chisholm Abbott	Abbott, A. C.	Minister of State	1977-09-16	1979-06-03	0	20
+John M. Reid	Reid, J. M.	Minister of State	1978-11-24	1979-06-03	0	20
+Charles Ronald McKay Granger	Granger, C. R. M.	Minister without Portfolio	1968-04-20	1968-07-05	0	20
+Paul Joseph James Martin	Martin, P. J. J.	Minister without Portfolio	1968-04-20	1969-03-31	0	20
+Donald Stovel Macdonald	Macdonald, D. S.	Minister without Portfolio	1968-04-20	1968-07-05	0	20
+Bryce Stuart Mackasey	Mackasey, B. S.	Minister without Portfolio	1968-04-20	1968-07-05	0	20
+John Carr Munro	Munro, J. C.	Minister without Portfolio	1968-04-20	1968-07-05	0	20
+Gerard Pelletier	Pelletier, G.	Minister without Portfolio	1968-04-20	1968-07-05	0	20
+Jack Davis	Davis, J.	Minister without Portfolio	1968-04-26	1968-07-05	0	20
+Robert Knight Andras	Andras, R. K.	Minister without Portfolio	1968-07-06	1971-06-29	0	20
+Otto Emil Lang	Lang, O. E.	Minister without Portfolio	1968-07-06	1970-09-23	0	20
+James Armstrong Richardson	Richardson, J. A.	Minister without Portfolio	1968-07-06	1969-05-04	0	20
+Herbert Eser Gray	Gray, H. E.	Minister without Portfolio	1969-10-20	1970-09-23	0	20
+Robert Douglas George Stanbury	Stanbury, R. D. G.	Minister without Portfolio	1969-10-20	1971-08-11	0	20
+Joseph Julien Jean-Pierre Cote	Cote, J. J. J.	Minister without Portfolio	1970-09-24	1971-06-10	0	20
+Jean Marchand	Marchand, J.	Minister without Portfolio	1975-09-26	1976-01-21	0	20
+Joseph-Philippe Guay	Guay, J.	Minister without Portfolio	1976-11-03	1977-04-20	0	20
+John Henry Horner	Horner, J. H.	Minister without Portfolio	1977-04-21	1977-09-15	0	20
+Gilles Lamontagne	Lamontagne, G.	Minister without Portfolio	1978-01-19	1978-02-01	0	20
+Leo Alphonse Joseph Cadieux	Cadieux, L. A. J.	Minister of National Defence	1968-04-20	1970-09-16	0	20
+Donald Stovel Macdonald	Macdonald, D. S.	Minister of National Defence	1970-09-24	1972-01-27	0	20
+Edgar John Benson	Benson, E. J.	Minister of National Defence	1972-01-28	1972-08-31	0	20
+James Armstrong Richardson	Richardson, J. A.	Minister of National Defence	1972-11-27	1976-10-12	0	20
+Barnett Jerome Danson	Danson, B. J.	Minister of National Defence	1976-11-03	1979-06-03	0	20
+Allan Joseph MacEachen	MacEachen, A. J.	Minister of National Health and Welfare	1968-04-20	1968-07-05	0	20
+John Carr Munro	Munro, J. C.	Minister of National Health and Welfare	1968-07-06	1972-11-26	0	20
+Marc Lalonde	Lalonde, M.	Minister of National Health and Welfare	1972-11-27	1977-09-15	0	20
+Monique Begin	Begin, M.	Minister of National Health and Welfare	1977-09-16	1979-06-03	0	20
+Joseph Jacques Jean Chretien	Chretien, J. J. J.	Minister of National Revenue	1968-04-20	1968-07-05	0	20
+Joseph Julien Jean-Pierre Cote	Cote, J. J. J.	Minister of National Revenue	1968-07-06	1970-09-23	0	20
+Herbert Eser Gray	Gray, H. E.	Minister of National Revenue	1970-09-24	1972-11-26	0	20
+Robert Douglas George Stanbury	Stanbury, R. D. G.	Minister of National Revenue	1972-11-27	1974-08-07	0	20
+Stanley Ronald Basford	Basford, S. R.	Minister of National Revenue	1974-08-08	1975-09-25	0	20
+Jack Sydney George Cullen	Cullen, J. S. G.	Minister of National Revenue	1975-09-26	1976-09-13	0	20
+Monique Begin	Begin, M.	Minister of National Revenue	1976-09-14	1977-09-15	0	20
+Anthony Chisholm Abbott	Abbott, A. C.	Minister of National Revenue	1978-11-24	1979-06-03	0	20
+Joseph Julien Jean-Pierre Cote	Cote, J. J. J.	Postmaster General	1968-04-20	1968-07-05	0	20
+Eric William Kierans	Kierans, E. W.	Postmaster General	1968-07-06	1971-04-28	0	20
+Joseph Julien Jean-Pierre Cote	Cote, J. J. J.	Postmaster General	1971-06-11	1972-11-26	0	20
+Andre Ouellet	Ouellet, A.	Postmaster General	1972-11-27	1974-08-07	0	20
+Bryce Stuart Mackasey	Mackasey, B. S.	Postmaster General	1974-08-08	1976-09-13	0	20
+Jean-Jacques Blais	Blais, J.	Postmaster General	1976-09-14	1978-02-01	0	20
+Gilles Lamontagne	Lamontagne, G.	Postmaster General	1978-02-02	1979-06-03	0	20
+Donald Stovel Macdonald	Macdonald, D. S.	President of the Privy Council	1968-07-06	1970-09-23	0	20
+Allan Joseph MacEachen	MacEachen, A. J.	President of the Privy Council	1970-09-24	1974-08-07	0	20
+Mitchell William Sharp	Sharp, M. W.	President of the Privy Council	1974-08-08	1976-09-13	0	20
+Allan Joseph MacEachen	MacEachen, A. J.	President of the Privy Council	1976-09-14	1979-06-03	0	20
+George James McIlraith	McIlraith, G. J.	Minister of Public Works	1968-04-20	1968-07-05	0	20
+Arthur Laing	Laing, A.	Minister of Public Works	1968-07-06	1972-01-27	0	20
+Jean-Eudes Dube	Dube, J.	Minister of Public Works	1972-01-28	1974-08-07	0	20
+Charles Mills Drury	Drury, C. M.	Minister of Public Works	1974-08-08	1976-09-13	0	20
+J. Judd Buchanan	Buchanan, J. J.	Minister of Public Works	1976-09-14	1978-11-23	0	20
+Andre Ouellet	Ouellet, A.	Minister of Public Works	1978-11-24	1979-06-03	0	20
+Jean Marchand	Marchand, J.	Minister of Regional Economic Expansion	1969-04-01	1972-11-26	0	20
+Donald Campbell Jamieson	Jamieson, D. C.	Minister of Regional Economic Expansion	1972-11-27	1975-09-25	0	20
+Marcel Lessard	Lessard, M.	Minister of Regional Economic Expansion	1975-09-26	1979-06-03	0	20
+Alastair William Gillespie	Gillespie, A. W.	Minister of State for Science and Technology	1971-08-12	1972-11-26	0	20
+Jeanne Sauve	Sauve, J.	Minister of State for Science and Technology	1972-11-27	1974-08-07	0	20
+Charles Mills Drury	Drury, C. M.	Minister of State for Science and Technology	1974-08-08	1976-09-13	0	20
+James Hugh Faulkner	Faulkner, J. H.	Minister of State for Science and Technology	1976-09-14	1977-09-15	0	20
+J. Judd Buchanan	Buchanan, J. J.	Minister of State for Science and Technology	1977-09-16	1978-11-23	0	20
+Alastair William Gillespie	Gillespie, A. W.	Minister of State for Science and Technology	1978-11-24	1979-06-03	0	20
+Jean Marchand	Marchand, J.	Secretary of State of Canada	1968-04-20	1968-07-05	0	20
+Gerard Pelletier	Pelletier, G.	Secretary of State of Canada	1968-07-06	1972-11-26	0	20
+James Hugh Faulkner	Faulkner, J. H.	Secretary of State of Canada	1972-11-27	1976-09-13	0	20
+John Roberts	Roberts, J.	Secretary of State of Canada	1976-09-14	1979-06-03	0	20
+John Napier Turner	Turner, J. N.	Solicitor General of Canada	1968-04-20	1968-07-05	0	20
+George James McIlraith	McIlraith, G. J.	Solicitor General of Canada	1968-07-06	1970-12-21	0	20
+Jean-Pierre Goyer	Goyer, J.	Solicitor General of Canada	1970-12-22	1972-11-26	0	20
+William Warren Allmand	Allmand, W. W.	Solicitor General of Canada	1972-11-27	1976-09-13	0	20
+Francis Fox	Fox, F.	Solicitor General of Canada	1976-09-14	1978-01-27	0	20
+Jean-Jacques Blais	Blais, J.	Solicitor General of Canada	1978-02-02	1979-06-03	0	20
+Donald Campbell Jamieson	Jamieson, D. C.	Minister of Supply and Services	1969-04-01	1969-05-04	0	20
+James Armstrong Richardson	Richardson, J. A.	Minister of Supply and Services	1969-05-05	1972-11-26	0	20
+Jean-Pierre Goyer	Goyer, J.	Minister of Supply and Services	1972-11-27	1978-11-23	0	20
+Pierre De Bane	Bane, P. D.	Minister of Supply and Services	1978-11-24	1979-06-03	0	20
+Charles Mills Drury	Drury, C. M.	Minister of Trade and Commerce	1968-04-20	1968-07-05	0	20
+Jean-Luc Pepin	Pepin, J.	Minister of Trade and Commerce	1968-07-06	1969-03-31	0	20
+Paul Theodore Hellyer	Hellyer, P. T.	Minister of Transport	1968-04-20	1969-04-29	0	20
+Donald Campbell Jamieson	Jamieson, D. C.	Minister of Transport	1969-05-05	1972-11-26	0	20
+Jean Marchand	Marchand, J.	Minister of Transport	1972-11-27	1975-09-25	0	20
+Otto Emil Lang	Lang, O. E.	Minister of Transport	1975-09-26	1979-06-03	0	20
+Edgar John Benson	Benson, E. J.	President of the Treasury Board	1968-04-20	1968-07-05	0	20
+Charles Mills Drury	Drury, C. M.	President of the Treasury Board	1968-07-06	1974-08-07	0	20
+Joseph Jacques Jean Chretien	Chretien, J. J. J.	President of the Treasury Board	1974-08-08	1976-09-13	0	20
+Robert Knight Andras	Andras, R. K.	President of the Treasury Board	1976-09-14	1978-11-23	0	20
+J. Judd Buchanan	Buchanan, J. J.	President of the Treasury Board	1978-11-24	1979-06-03	0	20
+Robert Knight Andras	Andras, R. K.	Minister of State for Urban Affairs	1971-06-30	1972-01-27	0	20
+Stanley Ronald Basford	Basford, S. R.	Minister of State for Urban Affairs	1972-01-28	1974-08-07	0	20
+Barnett Jerome Danson	Danson, B. J.	Minister of State for Urban Affairs	1974-08-08	1976-11-02	0	20
+Andre Ouellet	Ouellet, A.	Minister of State for Urban Affairs	1976-11-03	1979-03-31	0	20
+Roger Joseph Teillet	Teillet, R. J.	Minister of Veterans Affairs	1968-04-20	1968-07-05	0	20
+Jean-Eudes Dube	Dube, J.	Minister of Veterans Affairs	1968-07-06	1972-01-27	0	20
+Arthur Laing	Laing, A.	Minister of Veterans Affairs	1972-01-28	1972-11-26	0	20
+Daniel Joseph MacDonald	MacDonald, D. J.	Minister of Veterans Affairs	1972-11-27	1979-06-01	0	20
+John Wise	Wise, J.	Minister of Agriculture	1979-06-04	1980-03-02	1	21
+David S. H. MacDonald	MacDonald, D. S. H.	Minister of Communications	1979-06-04	1980-03-02	1	21
+Allan Frederick Lawrence	Lawrence, A. F.	Minister of Consumer and Corporate Affairs	1979-06-04	1980-03-02	1	21
+Ronald George Atkey	Atkey, R. G.	Minister of Employment and Immigration	1979-06-04	1980-03-02	1	21
+Ramon John Hnatyshyn	Hnatyshyn, R. J.	Minister of Energy, Mines and Resources	1979-06-04	1980-03-02	1	21
+John Allen Fraser	Fraser, J. A.	Minister of the Environment	1979-06-04	1980-03-02	1	21
+Flora Isabel MacDonald	MacDonald, F. I.	Secretary of State for External Affairs	1979-06-04	1980-03-02	1	21
+John C. Crosbie	Crosbie, J. C.	Minister of Finance	1979-06-04	1980-03-02	1	21
+James Aloysius McGrath	McGrath, J. A.	Minister of Fisheries and Oceans	1979-06-04	1980-03-02	1	21
+Arthur Jacob Epp	Epp, A. J.	Minister of Indian Affairs and Northern Development	1979-06-04	1980-03-02	1	21
+Lincoln Alexander	Alexander, L.	Minister of Labour	1979-06-04	1980-03-02	1	21
+William Jarvis	Jarvis, W.	Minister of State	1979-06-04	1980-03-02	1	21
+William Heward Grafftey	Grafftey, W. H.	Minister of State	1979-06-04	1979-10-08	0	21
+Perrin Beatty	Beatty, P.	Minister of State	1979-06-04	1980-03-02	1	21
+J. Robert Howie	Howie, J. R.	Minister of State	1979-06-04	1980-03-02	1	21
+Steven Eugene Paproski	Paproski, S. E.	Minister of State	1979-06-04	1980-03-02	1	21
+Ronald Huntington	Huntington, R.	Minister of State	1979-06-04	1980-03-02	1	21
+Michael H. Wilson	Wilson, M. H.	Minister of State	1979-06-04	1980-03-02	1	21
+Allan Bruce McKinnon	McKinnon, A. B.	Minister of National Defence	1979-06-04	1980-03-02	1	21
+David Crombie	Crombie, D.	Minister of National Health and Welfare	1979-06-04	1980-03-02	1	21
+Walter David Baker	Baker, W. D.	Minister of National Revenue	1979-06-04	1980-03-02	1	21
+John Allen Fraser	Fraser, J. A.	Postmaster General	1979-06-04	1980-03-02	1	21
+Walter David Baker	Baker, W. D.	President of the Privy Council	1979-06-04	1980-03-02	1	21
+Erik H. Nielsen	Nielsen, E. H.	Minister of Public Works	1979-06-04	1980-03-02	1	21
+Elmer MacIntosh MacKay	MacKay, E. M.	Minister of Regional Economic Expansion	1979-06-04	1980-03-02	1	21
+Ramon John Hnatyshyn	Hnatyshyn, R. J.	Minister of State for Science and Technology	1979-06-04	1979-10-08	0	21
+William Heward Grafftey	Grafftey, W. H.	Minister of State for Science and Technology	1979-10-08	1980-03-02	0	21
+David S. H. MacDonald	MacDonald, D. S. H.	Secretary of State of Canada	1979-06-04	1980-03-02	1	21
+Allan Frederick Lawrence	Lawrence, A. F.	Solicitor General of Canada	1979-06-04	1980-03-02	1	21
+Roch LaSalle	LaSalle, R.	Minister of Supply and Services	1979-06-04	1980-03-02	1	21
+Donald F. Mazankowski	Mazankowski, D. F.	Minister of Transport	1979-06-04	1980-03-02	1	21
+Sinclair McKnight Stevens	Stevens, S. M.	President of the Treasury Board	1979-06-04	1980-03-02	1	21
+Allan Bruce McKinnon	McKinnon, A. B.	Minister of Veterans Affairs	1979-06-04	1980-03-02	1	21
+Eugene Francis Whelan	Whelan, E. F.	Minister of Agriculture	1980-03-03	1984-06-29	1	22
+Francis Fox	Fox, F.	Minister of Communications	1980-03-03	1984-06-29	1	22
+Andre Ouellet	Ouellet, A.	Minister of Consumer and Corporate Affairs	1980-03-03	1983-08-11	0	22
+Judy Erola	Erola, J.	Minister of Consumer and Corporate Affairs	1983-08-12	1984-06-29	0	22
+Donald Johnston	Johnston, D.	Minister of State for Economic and Regional Development	1983-12-07	1984-06-29	0	22
+Horace Andrew Olson	Olson, H. A.	Minister of State for Economic Development	1980-03-03	1982-09-29	0	22
+Donald Johnston	Johnston, D.	Minister of State for Economic Development	1982-09-30	1983-12-06	0	22
+Lloyd Axworthy	Axworthy, L.	Minister of Employment and Immigration	1980-03-03	1983-08-11	0	22
+John Roberts	Roberts, J.	Minister of Employment and Immigration	1983-08-12	1984-06-29	0	22
+Marc Lalonde	Lalonde, M.	Minister of Energy, Mines and Resources	1980-03-03	1982-09-09	0	22
+Jean Chretien	Chretien, J.	Minister of Energy, Mines and Resources	1982-09-10	1984-06-29	0	22
+John Roberts	Roberts, J.	Minister of the Environment	1980-03-03	1983-08-11	0	22
+Charles L. Caccia	Caccia, C. L.	Minister of the Environment	1983-08-12	1984-06-29	0	22
+Mark MacGuigan	MacGuigan, M.	Secretary of State for External Affairs	1980-03-03	1982-09-09	0	22
+Allan Joseph MacEachen	MacEachen, A. J.	Secretary of State for External Affairs	1982-09-10	1984-06-29	0	22
+Jean-Luc Pepin	Pepin, J.	Minister for External Relations	1983-12-07	1984-06-29	0	22
+Allan Joseph MacEachen	MacEachen, A. J.	Minister of Finance	1980-03-03	1982-09-09	0	22
+Marc Lalonde	Lalonde, M.	Minister of Finance	1982-09-10	1984-06-29	0	22
+Romeo LeBlanc	LeBlanc, R.	Minister of Fisheries and Oceans	1980-03-03	1982-09-29	0	22
+Pierre De Bane	Bane, P. D.	Minister of Fisheries and Oceans	1982-09-30	1984-06-29	0	22
+John Carr Munro	Munro, J. C.	Minister of Indian Affairs and Northern Development	1980-03-03	1984-06-29	1	22
+Herbert Eser Gray	Gray, H. E.	Minister of Industry, Trade and Commerce	1980-03-03	1982-09-29	0	22
+Edward Lumley	Lumley, E.	Minister of Industry, Trade and Commerce	1982-09-30	1983-12-06	0	22
+Gerald Regan	Regan, G.	Minister for International Trade	1983-12-08	1984-06-29	0	22
+Jean Chretien	Chretien, J.	Minister of Justice and Attorney General	1980-03-03	1982-09-09	0	22
+Mark MacGuigan	MacGuigan, M.	Minister of Justice and Attorney General	1982-09-10	1984-06-29	0	22
+Gerald Regan	Regan, G.	Minister of Labour	1980-03-03	1981-09-21	0	22
+Charles L. Caccia	Caccia, C. L.	Minister of Labour	1981-09-22	1983-08-11	0	22
+Andre Ouellet	Ouellet, A.	Minister of Labour	1983-08-12	1984-06-29	0	22
+Gilles Lamontagne	Lamontagne, G.	Minister of National Defence	1980-03-03	1983-08-11	0	22
+Jean-Jacques Blais	Blais, J.	Minister of National Defence	1983-08-12	1984-06-29	0	22
+Monique Begin	Begin, M.	Minister of National Health and Welfare	1980-03-03	1984-06-29	1	22
+William Rompkey	Rompkey, W.	Minister of National Revenue	1980-03-03	1982-09-29	0	22
+Pierre Bussieres	Bussieres, P.	Minister of National Revenue	1982-09-30	1984-06-29	0	22
+Andre Ouellet	Ouellet, A.	Postmaster General	1980-03-03	1981-10-15	0	22
+Yvon Pinard	Pinard, Y.	President of the Privy Council	1980-03-03	1984-06-29	1	22
+Paul James Cosgrove	Cosgrove, P. J.	Minister of Public Works	1980-03-03	1982-09-29	0	22
+Romeo LeBlanc	LeBlanc, R.	Minister of Public Works	1982-09-30	1984-06-29	0	22
+Pierre De Bane	Bane, P. D.	Minister of Regional Economic Expansion	1980-03-03	1982-01-11	0	22
+Herbert Eser Gray	Gray, H. E.	Minister of Regional Economic Expansion	1982-01-12	1982-09-29	0	22
+Edward Lumley	Lumley, E.	Minister of Regional Economic Expansion	1982-09-30	1983-12-06	0	22
+Edward Lumley	Lumley, E.	Minister of Regional Industrial Expansion	1983-12-07	1984-06-29	0	22
+John Roberts	Roberts, J.	Minister of State for Science and Technology	1980-03-03	1984-06-29	1	22
+Francis Fox	Fox, F.	Secretary of State of Canada	1980-03-03	1981-09-21	0	22
+Gerald Regan	Regan, G.	Secretary of State of Canada	1981-09-22	1982-10-05	0	22
+Serge Joyal	Joyal, S.	Secretary of State of Canada	1982-10-06	1984-06-29	0	22
+Jean Chretien	Chretien, J.	Minister of State for Social Development	1980-06-19	1982-09-09	0	22
+Jacob Austin	Austin, J.	Minister of State for Social Development	1982-09-10	1984-06-29	0	22
+Robert Phillip Kaplan	Kaplan, R. P.	Solicitor General of Canada	1980-03-03	1984-06-29	1	22
+Jean-Jacques Blais	Blais, J.	Minister of Supply and Services	1980-03-03	1983-08-11	0	22
+Charles Lapointe	Lapointe, C.	Minister of Supply and Services	1983-08-12	1984-06-29	0	22
+Jean-Luc Pepin	Pepin, J.	Minister of Transport	1980-03-03	1983-08-11	0	22
+Lloyd Axworthy	Axworthy, L.	Minister of Transport	1983-08-12	1984-06-29	0	22
+Donald Johnston	Johnston, D.	President of the Treasury Board	1980-03-03	1982-09-29	0	22
+Herbert Eser Gray	Gray, H. E.	President of the Treasury Board	1982-09-30	1984-06-29	0	22
+Daniel Joseph MacDonald	MacDonald, D. J.	Minister of Veterans Affairs	1980-03-03	1980-09-30	0	22
+W. Bennett Campbell	Campbell, W. B.	Minister of Veterans Affairs	1981-09-22	1984-06-29	0	22
+Ralph Ferguson	Ferguson, R.	Minister of Agriculture	1984-06-30	1984-09-16	1	23
+Edward Lumley	Lumley, E.	Minister of Communications	1984-06-30	1984-09-16	1	23
+Judy Erola	Erola, J.	Minister of Consumer and Corporate Affairs	1984-06-30	1984-09-16	1	23
+Andre Ouellet	Ouellet, A.	Minister of State for Economic and Regional Development	1984-06-30	1984-09-01	0	23
+John Roberts	Roberts, J.	Minister of Employment and Immigration	1984-06-30	1984-09-16	1	23
+Gerald A. Regan	Regan, G. A.	Minister of Energy, Mines and Resources	1984-06-30	1984-09-16	1	23
+Charles L. Caccia	Caccia, C. L.	Minister of the Environment	1984-06-30	1984-09-16	1	23
+Jean Chretien	Chretien, J.	Secretary of State for External Affairs	1984-06-30	1984-09-16	1	23
+Marc Lalonde	Lalonde, M.	Minister of Finance	1984-06-30	1984-09-16	1	23
+Herb Breau	Breau, H.	Minister of Fisheries and Oceans	1984-06-30	1984-09-16	1	23
+Douglas Cockburn Frith	Frith, D. C.	Minister of Indian Affairs and Northern Development	1984-06-30	1984-09-16	1	23
+Francis Fox	Fox, F.	Minister for International Trade	1984-06-30	1984-09-16	1	23
+Donald Johnston	Johnston, D.	Minister of Justice and Attorney General	1984-06-30	1984-09-16	1	23
+Andre Ouellet	Ouellet, A.	Minister of Labour	1984-06-30	1984-09-16	1	23
+Jean-Jacques Blais	Blais, J.	Minister of National Defence	1984-06-30	1984-09-16	1	23
+Monique Begin	Begin, M.	Minister of National Health and Welfare	1984-06-30	1984-09-16	1	23
+Roy MacLaren	MacLaren, R.	Minister of National Revenue	1984-06-30	1984-09-16	1	23
+Andre Ouellet	Ouellet, A.	President of the Privy Council	1984-06-30	1984-09-16	1	23
+Charles Lapointe	Lapointe, C.	Minister of Public Works	1984-06-30	1984-09-16	1	23
+Edward Lumley	Lumley, E.	Minister of Regional Industrial Expansion	1984-06-30	1984-09-16	1	23
+Edward Lumley	Lumley, E.	Minister of State for Science and Technology	1984-06-30	1984-09-16	1	23
+Serge Joyal	Joyal, S.	Secretary of State of Canada	1984-06-30	1984-09-16	1	23
+Judy Erola	Erola, J.	Minister of State for Social Development	1984-06-30	1984-09-01	0	23
+Robert Phillip Kaplan	Kaplan, R. P.	Solicitor General of Canada	1984-06-30	1984-09-16	1	23
+Charles Lapointe	Lapointe, C.	Minister of Supply and Services	1984-06-30	1984-09-16	1	23
+Lloyd Axworthy	Axworthy, L.	Minister of Transport	1984-06-30	1984-09-16	1	23
+Herbert Eser Gray	Gray, H. E.	President of the Treasury Board	1984-06-30	1984-09-16	1	23
+W. Bennett Campbell	Campbell, W. B.	Minister of Veterans Affairs	1984-06-30	1984-09-16	1	23
+John Wise	Wise, J.	Minister of Agriculture	1984-09-17	1988-09-14	0	24
+Donald Frank Mazankowski	Mazankowski, D. F.	Minister of Agriculture	1988-09-15	1991-04-20	0	24
+William Hunter McKnight	McKnight, W. H.	Minister of Agriculture	1991-04-21	1993-01-03	0	24
+Charles James Mayer	Mayer, C. J.	Minister of Agriculture	1993-01-04	1993-06-24	0	24
+Gerald Stairs Merrithew	Merrithew, G. S.	Minister for the purpose of the Atlantic Canada Opportunities Agency Act	1988-09-15	1989-01-29	0	24
+Elmer MacIntosh MacKay	MacKay, E. M.	Minister for the purpose of the Atlantic Canada Opportunities Agency Act	1989-01-30	1991-04-20	0	24
+John Carnell Crosbie	Crosbie, J. C.	Minister for the purpose of the Atlantic Canada Opportunities Agency Act	1991-04-21	1993-06-24	0	24
+Marcel Masse	Masse, M.	Minister of Communications	1984-09-17	1985-09-25	0	24
+Marcel Masse	Masse, M.	Minister of Communications	1985-11-30	1986-06-29	0	24
+Flora Isabel MacDonald	MacDonald, F. I.	Minister of Communications	1986-06-30	1988-12-07	0	24
+Marcel Masse	Masse, M.	Minister of Communications	1989-01-30	1991-04-20	0	24
+Henry Perrin Beatty	Beatty, H. P.	Minister of Communications	1991-04-21	1993-06-24	0	24
+Michel Cote	Cote, M.	Minister of Consumer and Corporate Affairs	1984-09-17	1986-06-29	0	24
+Harvie Andre	Andre, H.	Minister of Consumer and Corporate Affairs	1986-06-30	1989-01-29	0	24
+Bernard Valcourt	Valcourt, B.	Minister of Consumer and Corporate Affairs	1989-01-30	1989-08-01	0	24
+Pierre Blais	Blais, P.	Minister of Consumer and Corporate Affairs	1990-02-23	1993-01-03	0	24
+Pierre H. Vincent	Vincent, P. H.	Minister of Consumer and Corporate Affairs	1993-01-04	1993-06-24	0	24
+Flora Isabel MacDonald	MacDonald, F. I.	Minister of Employment and Immigration	1984-09-17	1986-06-29	0	24
+Benoit Bouchard	Bouchard, B.	Minister of Employment and Immigration	1986-06-30	1988-03-30	0	24
+Barbara Jean McDougall	McDougall, B. J.	Minister of Employment and Immigration	1988-03-31	1991-04-20	0	24
+Bernard Valcourt	Valcourt, B.	Minister of Employment and Immigration	1991-04-21	1993-06-24	0	24
+Patricia Carney	Carney, P.	Minister of Energy, Mines and Resources	1984-09-17	1986-06-29	0	24
+Marcel Masse	Masse, M.	Minister of Energy, Mines and Resources	1986-06-30	1989-01-29	0	24
+Arthur Jacob Epp	Epp, A. J.	Minister of Energy, Mines and Resources	1989-01-30	1993-01-03	0	24
+William Hunter McKnight	McKnight, W. H.	Minister of Energy, Mines and Resources	1993-01-04	1993-06-24	0	24
+Suzanne Blais-Grenier	Blais-Grenier, S.	Minister of the Environment	1984-09-17	1985-08-19	0	24
+Thomas Michael McMillan	McMillan, T. M.	Minister of the Environment	1985-08-20	1988-12-07	0	24
+Lucien Bouchard	Bouchard, L.	Minister of the Environment	1989-01-30	1990-05-21	0	24
+Robert Rene de Cotret	Cotret, R. R. D.	Minister of the Environment	1990-09-20	1991-04-20	0	24
+Jean Charest	Charest, J.	Minister of the Environment	1991-04-21	1993-06-24	0	24
+Charles Joseph Clark	Clark, C. J.	Secretary of State for External Affairs	1984-09-17	1991-04-20	0	24
+Barbara Jean McDougall	McDougall, B. J.	Secretary of State for External Affairs	1991-04-21	1993-06-24	0	24
+Monique Vezina	Vezina, M.	Minister for External Relations	1984-09-17	1986-06-29	0	24
+Monique Landry	Landry, M.	Minister for External Relations	1986-06-30	1993-01-03	0	24
+Monique Vezina	Vezina, M.	Minister for External Relations	1993-01-04	1993-06-24	0	24
+Michael Holcombe Wilson	Wilson, M. H.	Minister of Finance	1984-09-17	1991-04-20	0	24
+Donald Frank Mazankowski	Mazankowski, D. F.	Minister of Finance	1991-04-21	1993-06-24	0	24
+John Allen Fraser	Fraser, J. A.	Minister of Fisheries and Oceans	1984-09-17	1985-09-23	0	24
+Thomas Edward Siddon	Siddon, T. E.	Minister of Fisheries and Oceans	1985-11-20	1990-02-22	0	24
+Bernard Valcourt	Valcourt, B.	Minister of Fisheries and Oceans	1990-02-23	1991-04-20	0	24
+John Carnell Crosbie	Crosbie, J. C.	Minister of Fisheries and Oceans	1991-04-21	1993-06-24	0	24
+Frank Oberle	Oberle, F.	Ministry of Forestry	1990-02-23	1993-06-24	0	24
+David Edward Crombie	Crombie, D. E.	Minister of Indian Affairs and Northern Development	1984-09-17	1986-06-29	0	24
+William Hunter McKnight	McKnight, W. H.	Minister of Indian Affairs and Northern Development	1986-06-30	1989-01-29	0	24
+Pierre Cadieux	Cadieux, P.	Minister of Indian Affairs and Northern Development	1989-01-30	1990-02-22	0	24
+Thomas Edward Siddon	Siddon, T. E.	Minister of Indian Affairs and Northern Development	1990-02-23	1993-06-24	0	24
+Benoit Bouchard	Bouchard, B.	Minister of Industry, Science and Technology	1990-02-23	1991-04-20	0	24
+Michael Holcombe Wilson	Wilson, M. H.	Minister of Industry, Science and Technology	1991-04-21	1993-06-24	0	24
+James Francis Kelleher	Kelleher, J. F.	Minister for International Trade	1984-09-17	1986-06-29	0	24
+Patricia Carney	Carney, P.	Minister for International Trade	1986-06-30	1988-03-30	0	24
+John Carnell Crosbie	Crosbie, J. C.	Minister for International Trade	1988-03-31	1991-04-20	0	24
+Michael Holcombe Wilson	Wilson, M. H.	Minister for International Trade	1991-04-21	1993-06-24	0	24
+John Carnell Crosbie	Crosbie, J. C.	Minister of Justice and Attorney General	1984-09-17	1986-06-29	0	24
+Ramon John Hnatyshyn	Hnatyshyn, R. J.	Minister of Justice and Attorney General	1986-06-30	1988-12-07	0	24
+Douglas Grinslade Lewis	Lewis, D. G.	Minister of Justice and Attorney General	1989-01-30	1990-02-22	0	24
+Kim Campbell	Campbell, K.	Minister of Justice and Attorney General	1990-02-23	1993-01-03	0	24
+Pierre Blais	Blais, P.	Minister of Justice and Attorney General	1993-01-04	1993-06-24	0	24
+William Hunter McKnight	McKnight, W. H.	Minister of Labour	1984-09-17	1986-06-29	0	24
+Pierre H. Cadieux	Cadieux, P. H.	Minister of Labour	1986-06-30	1989-01-29	0	24
+Jean Corbeil	Corbeil, J.	Minister of Labour	1989-01-30	1991-04-20	0	24
+Marcel Danis	Danis, M.	Minister of Labour	1991-04-21	1993-06-24	0	24
+Gerry Weiner	Weiner, G.	Minister of Multiculturalism and Citizenship	1991-04-21	1993-06-24	0	24
+Harvie Andre	Andre, H.	Associate Minister of National Defence	1985-08-20	1986-06-29	0	24
+Paul Wyatt Dick	Dick, P. W.	Associate Minister of National Defence	1986-06-30	1989-01-29	0	24
+Mary Collins	Collins, M.	Associate Minister of National Defence	1989-01-30	1993-01-03	0	24
+Robert Carman Coates	Coates, R. C.	Minister of National Defence	1984-09-17	1985-02-11	0	24
+Erik H. Nielsen	Nielsen, E. H.	Minister of National Defence	1985-02-27	1986-06-29	0	24
+Henry Perrin Beatty	Beatty, H. P.	Minister of National Defence	1986-06-30	1989-01-29	0	24
+William Hunter McKnight	McKnight, W. H.	Minister of National Defence	1989-01-30	1991-04-20	0	24
+Marcel Masse	Masse, M.	Minister of National Defence	1991-04-21	1993-01-03	0	24
+Kim Campbell	Campbell, K.	Minister of National Defence	1993-01-04	1993-06-24	0	24
+Arthur Jacob Epp	Epp, A. J.	Minister of National Health and Welfare	1984-09-17	1989-01-29	0	24
+Henry Perrin Beatty	Beatty, H. P.	Minister of National Health and Welfare	1989-01-20	1991-04-20	0	24
+Benoit Bouchard	Bouchard, B.	Minister of National Health and Welfare	1991-04-21	1993-06-24	0	24
+Perrin Beatty	Beatty, P.	Minister of National Revenue	1984-09-17	1985-08-19	0	24
+Elmer MacIntosh MacKay	MacKay, E. M.	Minister of National Revenue	1985-08-20	1989-01-29	0	24
+Otto John Jelinek	Jelinek, O. J.	Minister of National Revenue	1989-01-30	1993-06-24	0	24
+Erik H. Nielsen	Nielsen, E. H.	President of the Privy Council	1984-09-17	1985-02-26	0	24
+Ramon John Hnatyshyn	Hnatyshyn, R. J.	President of the Privy Council	1985-02-27	1986-06-29	0	24
+Donald Frank Mazankowski	Mazankowski, D. F.	President of the Privy Council	1986-06-30	1991-04-20	0	24
+Charles Joseph Clark	Clark, C. J.	President of the Privy Council	1991-04-21	1993-06-24	0	24
+Roch LaSalle	LaSalle, R.	Minister of Public Works	1984-09-17	1986-06-29	0	24
+Stewart McInnes	McInnes, S.	Minister of Public Works	1986-06-30	1988-12-07	0	24
+Elmer MacIntosh MacKay	MacKay, E. M.	Minister of Public Works	1989-01-30	1993-06-24	0	24
+Sinclair McKight Stevens	Stevens, S. M.	Minister of Regional Industrial Expansion	1984-09-17	1986-05-12	0	24
+Michel Cote	Cote, M.	Minister of Regional Industrial Expansion	1986-06-30	1987-08-26	0	24
+Robert Rene de Cotret	Cotret, R. R. D.	Minister of Regional Industrial Expansion	1987-08-27	1989-01-29	0	24
+Harvie Andre	Andre, H.	Minister of Regional Industrial Expansion	1989-01-30	1990-02-22	0	24
+William Charles Winegard	Winegard, W. C.	Minister for Science	1990-02-23	1993-01-03	0	24
+Thomas Hockin	Hockin, T.	Minister for Science	1993-01-04	1993-06-24	0	24
+Walter Franklin McLean	McLean, W. F.	Secretary of State of Canada	1984-09-17	1985-08-19	0	24
+Benoit Bouchard	Bouchard, B.	Secretary of State of Canada	1985-08-20	1986-06-29	0	24
+David Edward Crombie	Crombie, D. E.	Secretary of State of Canada	1986-06-30	1988-03-30	0	24
+Lucien Bouchard	Bouchard, L.	Secretary of State of Canada	1988-03-31	1989-01-29	0	24
+Gerry Weiner	Weiner, G.	Secretary of State of Canada	1989-01-30	1991-04-20	0	24
+Robert Rene de Cotret	Cotret, R. R. D.	Secretary of State of Canada	1991-04-21	1993-01-03	0	24
+Monique Landry	Landry, M.	Secretary of State of Canada	1993-01-04	1993-06-24	0	24
+Elmer MacIntosh MacKay	MacKay, E. M.	Solicitor General of Canada	1984-09-17	1985-08-19	0	24
+Henry Perrin Beatty	Beatty, H. P.	Solicitor General of Canada	1985-08-20	1986-06-29	0	24
+James Francis Kelleher	Kelleher, J. F.	Solicitor General of Canada	1986-06-30	1988-12-07	0	24
+Pierre Blais	Blais, P.	Solicitor General of Canada	1989-01-30	1990-02-22	0	24
+Pierre H. Cadieux	Cadieux, P. H.	Solicitor General of Canada	1990-02-23	1991-04-20	0	24
+Douglas Grinslade Lewis	Lewis, D. G.	Solicitor General of Canada	1991-04-21	1993-06-24	0	24
+Harvie Andre	Andre, H.	Minister of Supply and Services	1984-09-17	1985-08-19	0	24
+Stewart McInnes	McInnes, S.	Minister of Supply and Services	1985-08-20	1986-06-29	0	24
+Monique Vezina	Vezina, M.	Minister of Supply and Services	1986-06-30	1987-08-26	0	24
+Michel Cote	Cote, M.	Minister of Supply and Services	1987-08-27	1988-02-02	0	24
+Otto John Jelinek	Jelinek, O. J.	Minister of Supply and Services	1988-03-31	1989-01-29	0	24
+Paul Wyatt Dick	Dick, P. W.	Minister of Supply and Services	1989-01-30	1993-06-24	0	24
+Donald F. Mazankowski	Mazankowski, D. F.	Minister of Transport	1984-09-17	1986-06-29	0	24
+John Carnell Crosbie	Crosbie, J. C.	Minister of Transport	1986-06-30	1988-03-30	0	24
+Benoit Bouchard	Bouchard, B.	Minister of Transport	1988-03-31	1990-02-22	0	24
+Douglas Grinslade Lewis	Lewis, D. G.	Minister of Transport	1990-02-23	1991-04-20	0	24
+Jean Corbeil	Corbeil, J.	Minister of Transport	1991-04-21	1993-06-24	0	24
+Robert Rene de Cotret	Cotret, R. R. D.	President of the Treasury Board	1984-09-17	1987-08-26	0	24
+Donald Frank Mazankowski	Mazankowski, D. F.	President of the Treasury Board	1987-08-27	1988-03-30	0	24
+Patricia Carney	Carney, P.	President of the Treasury Board	1988-03-31	1988-09-27	0	24
+Robert Rene de Cotret	Cotret, R. R. D.	President of the Treasury Board	1989-01-30	1990-09-19	0	24
+Gilles Loiselle	Loiselle, G.	President of the Treasury Board	1990-09-20	1993-06-24	0	24
+George Harris Hees	Hees, G. H.	Minister of Veterans Affairs	1984-09-17	1988-09-14	0	24
+Gerald Stairs Merrithew	Merrithew, G. S.	Minister of Veterans Affairs	1988-09-15	1993-01-03	0	24
+Kim Campbell	Campbell, K.	Minister of Veterans Affairs	1993-01-04	1993-06-24	0	24
+William Hunter McKnight	McKnight, W. H.	Minister of Western Economic Diversification	1988-06-28	1989-01-29	0	24
+Charles James Mayer	Mayer, C. J.	Minister of Western Economic Diversification	1989-01-30	1993-01-03	0	24
+Mary Collins	Collins, M.	Minister of Western Economic Diversification	1993-01-04	1993-06-24	0	24
+Charles James Mayer	Mayer, C. J.	Minister of Agriculture	1993-01-04	1993-11-03	1	25
+Ian Angus Ross Reid	Reid, I. A. R.	Minister for the Atlantic Canada Opportunities Agency	1993-06-25	1993-11-03	1	25
+Monique Landry	Landry, M.	Minister of Communications	1993-06-25	1993-11-03	1	25
+Jean J. Charest	Charest, J. J.	Minister of Consumer and Corporate Affairs	1993-06-25	1993-11-03	1	25
+Bernard Valcourt	Valcourt, B.	Minister of Employment and Immigration	1991-04-21	1993-11-03	1	25
+Barbara Jane Sparrow	Sparrow, B. J.	Minister of Energy, Mines and Resources	1993-06-25	1993-11-03	1	25
+Pierre H. Vincent	Vincent, P. H.	Minister of the Environment	1993-06-25	1993-11-03	1	25
+Henry Perrin Beatty	Beatty, H. P.	Secretary of State for External Affairs	1993-06-25	1993-11-03	1	25
+Gilles Loiselle	Loiselle, G.	Minister of Finance	1993-06-25	1993-11-03	1	25
+Ian Angus Ross Reid	Reid, I. A. R.	Minister of Fisheries and Oceans	1993-06-25	1993-11-03	1	25
+Barbara Jane Sparrow	Sparrow, B. J.	Minister of Forestry	1993-06-25	1993-11-03	1	25
+Pauline Browes	Browes, P.	Minister of Indian Affairs and Northern Development	1993-06-25	1993-11-03	1	25
+Jean J. Charest	Charest, J. J.	Minister of Industry, Science and Technology	1993-06-25	1993-11-03	1	25
+Thomas Hockin	Hockin, T.	Minister for International Trade	1993-06-25	1993-11-03	1	25
+Pierre Blais	Blais, P.	Minister of Justice and Attorney General of Canada	1993-01-04	1993-11-03	1	25
+Bernard Valcourt	Valcourt, B.	Minister of Labour	1993-06-25	1993-11-03	1	25
+Douglas Grinslade Lewis	Lewis, D. G.	Leader of the Government in the House of Commons	1993-06-25	1993-11-03	1	25
+Gerry Weiner	Weiner, G.	Minister of Multiculturalism and Citizenship	1991-04-21	1993-11-03	1	25
+Thomas Edward Siddon	Siddon, T. E.	Minister of National Defence	1993-06-25	1993-11-03	1	25
+Mary Collins	Collins, M.	Minister of National Health and Welfare	1993-06-25	1993-11-03	1	25
+Garth Turner	Turner, G.	Minister of National Revenue	1993-06-25	1993-11-03	1	25
+Pierre Blais	Blais, P.	President of the Privy Council	1993-06-25	1993-11-03	1	25
+Paul Wyatt Dick	Dick, P. W.	Minister of Public Works	1993-06-25	1993-11-03	1	25
+Robert Douglas Nicholson	Nicholson, R. D.	Minister for Science	1993-06-25	1993-11-03	1	25
+Monique Landry	Landry, M.	Secretary of State of Canada	1993-01-04	1993-11-03	1	25
+Douglas Grinslade Lewis	Lewis, D. G.	Solicitor General of Canada	1991-04-21	1993-11-03	1	25
+Paul Wyatt Dick	Dick, P. W.	Minister of Supply and Services	1989-01-30	1993-11-03	1	25
+Jean Corbeil	Corbeil, J.	Minister of Transport	1991-04-21	1993-11-03	1	25
+James Stewart Edwards	Edwards, J. S.	President of the Treasury Board	1993-06-25	1993-11-03	1	25
+Peter L. McCreath	McCreath, P. L.	Minister of Veterans Affairs	1993-06-25	1993-11-03	1	25
+Larry Schneider	Schneider, L.	Minister of Western Economic Diversification	1993-06-25	1993-11-03	1	25
+Ralph E. Goodale	Goodale, R. E.	Minister of Agriculture	1993-11-04	1995-01-11	0	26
+Ralph E. Goodale	Goodale, R. E.	Minister of Agriculture and Agri-Food	1995-01-12	1997-06-10	0	26
+Lyle Vanclief	Vanclief, L.	Minister of Agriculture and Agri-Food	1997-06-11	2003-12-11	0	26
+David Charles Dingwall	Dingwall, D. C.	Minister for the Atlantic Canada Opportunities Agency	1993-11-04	1996-01-24	0	26
+John Manley	Manley, J.	Minister for the Atlantic Canada Opportunities Agency	1996-01-25	2000-10-16	0	26
+Brian Tobin	Tobin, B.	Minister for the Atlantic Canada Opportunities Agency	2000-10-17	2002-01-14	0	26
+Allan Rock	Rock, A.	Minister for the Atlantic Canada Opportunities Agency	2002-01-15	2003-12-11	0	26
+Sheila Copps	Copps, S.	Minister of Canadian Heritage	1996-07-12	2003-12-11	0	26
+Sergio Marchi	Marchi, S.	Minister of Citizenship and Immigration	1994-06-30	1996-01-24	0	26
+Lucienne Robillard	Robillard, L.	Minister of Citizenship and Immigration	1996-01-25	1999-08-02	0	26
+Elinor Caplan	Caplan, E.	Minister of Citizenship and Immigration	1999-08-03	2002-01-14	0	26
+Denis Coderre	Coderre, D.	Minister of Citizenship and Immigration	2002-01-15	2003-12-11	0	26
+Michel Dupuy	Dupuy, M.	Minister of Communications	1993-11-04	1996-01-24	0	26
+Sheila Copps	Copps, S.	Minister of Communications	1996-01-25	1996-05-01	0	26
+Sheila Copps	Copps, S.	Minister of Communications	1996-06-19	1996-07-11	0	26
+John Manley	Manley, J.	Minister of Consumer and Corporate Affairs	1993-11-04	1995-03-28	0	26
+Lloyd Axworthy	Axworthy, L.	Minister of Employment and Immigration	1993-11-04	1996-01-24	0	26
+Douglas Young	Young, D.	Minister of Employment and Immigration	1996-01-25	1996-07-11	0	26
+Anne McLellan	McLellan, A.	Minister of Energy, Mines and Resources	1993-11-04	1995-01-11	0	26
+Sheila Copps	Copps, S.	Minister of the Environment	1993-11-04	1996-01-24	0	26
+Sergio Marchi	Marchi, S.	Minister of the Environment	1996-01-25	1997-06-10	0	26
+Christine Stewart	Stewart, C.	Minister of the Environment	1997-06-11	1999-08-02	0	26
+David Anderson	Anderson, D.	Minister of the Environment	1999-08-03	2003-12-11	0	26
+Andre Ouellet	Ouellet, A.	Secretary of State for External Affairs	1993-11-04	1995-05-12	0	26
+Paul Martin	Martin, P.	Minister of Finance	1993-11-04	2002-06-02	0	26
+John Manley	Manley, J.	Minister of Finance	2002-06-02	2003-12-11	0	26
+Brian Tobin	Tobin, B.	Minister of Fisheries and Oceans	1993-11-04	1996-01-08	0	26
+Fred J. Mifflin	Mifflin, F. J.	Minister of Fisheries and Oceans	1996-01-25	1997-06-10	0	26
+David Anderson	Anderson, D.	Minister of Fisheries and Oceans	1997-06-11	1999-08-02	0	26
+Herb Dhaliwal	Dhaliwal, H.	Minister of Fisheries and Oceans	1999-08-03	2002-01-14	0	26
+Robert G. Thibault	Thibault, R. G.	Minister of Fisheries and Oceans	2002-01-15	2003-12-11	0	26
+Andre Ouellet	Ouellet, A.	Minister of Foreign Affairs	1995-05-13	1996-01-24	0	26
+Lloyd Axworthy	Axworthy, L.	Minister of Foreign Affairs	1996-01-25	2000-10-16	0	26
+John Manley	Manley, J.	Minister of Foreign Affairs	2000-10-17	2002-01-15	0	26
+William Graham	Graham, W.	Minister of Foreign Affairs	2002-01-16	2003-12-11	0	26
+Anne McLellan	McLellan, A.	Minister of Forestry	1993-11-04	1995-01-11	0	26
+David Charles Dingwall	Dingwall, D. C.	Minister of Health	1996-07-12	1997-06-10	0	26
+Allan Rock	Rock, A.	Minister of Health	1997-06-11	2002-01-14	0	26
+Anne McLellan	McLellan, A.	Minister of Health	2002-01-15	2003-12-11	0	26
+Douglas Young	Young, D.	Minister of Human Resources Development	1996-07-12	1996-10-03	0	26
+Pierre Pettigrew	Pettigrew, P.	Minister of Human Resources Development	1996-10-04	1999-08-02	0	26
+Jane Stewart	Stewart, J.	Minister of Human Resources Development	1999-08-03	2003-12-11	0	26
+Ron Irwin	Irwin, R.	Minister of Indian Affairs and Northern Development	1993-11-04	1997-06-10	0	26
+Jane Stewart	Stewart, J.	Minister of Indian Affairs and Northern Development	1997-06-11	1999-08-02	0	26
+Robert Daniel Nault	Nault, R. D.	Minister of Indian Affairs and Northern Development	1999-08-03	2003-12-11	0	26
+John Manley	Manley, J.	Minister of Industry	1995-03-29	1996-01-24	0	26
+John Manley	Manley, J.	Minister of Industry	1996-01-25	2000-10-16	0	26
+Brian Tobin	Tobin, B.	Minister of Industry	2000-10-17	2002-01-14	0	26
+Allan Rock	Rock, A.	Minister of Industry	2002-01-15	2003-12-11	0	26
+John Manley	Manley, J.	Minister of Industry, Science and Technology	1993-11-04	1995-03-28	0	26
+Pierre Pettigrew	Pettigrew, P.	Minister for International Cooperation	1996-01-25	1996-10-03	0	26
+Don Boudria	Boudria, D.	Minister for International Cooperation	1996-10-04	1997-06-10	0	26
+Diane Marleau	Marleau, D.	Minister for International Cooperation	1997-06-11	1999-08-02	0	26
+Maria Minna	Minna, M.	Minister for International Cooperation	1999-08-03	2002-01-14	0	26
+Susan Whelan	Whelan, S.	Minister for International Cooperation	2002-01-15	2003-12-11	0	26
+Roy MacLaren	MacLaren, R.	Minister for International Trade	1993-11-04	1996-01-24	0	26
+Arthur C. Eggleton	Eggleton, A. C.	Minister for International Trade	1996-01-25	1997-06-10	0	26
+Sergio Marchi	Marchi, S.	Minister for International Trade	1997-06-11	1999-08-02	0	26
+Pierre Pettigrew	Pettigrew, P.	Minister for International Trade	1999-08-03	2003-12-11	0	26
+Allan Rock	Rock, A.	Minister of Justice and Attorney General of Canada	1993-11-04	1997-06-10	0	26
+Anne McLellan	McLellan, A.	Minister of Justice and Attorney General of Canada	1997-06-11	2002-01-14	0	26
+Martin Cauchon	Cauchon, M.	Minister of Justice and Attorney General of Canada	2002-01-15	2003-12-11	0	26
+Lloyd Axworthy	Axworthy, L.	Minister of Labour	1993-11-04	1995-02-21	0	26
+Lucienne Robillard	Robillard, L.	Minister of Labour	1995-02-22	1996-01-24	0	26
+Alfonso Gagliano	Gagliano, A.	Minister of Labour	1996-01-25	1996-07-11	0	26
+Alfonso Gagliano	Gagliano, A.	Minister of Labour	1996-07-12	1997-06-10	0	26
+Lawrence MacAulay	MacAulay, L.	Minister of Labour	1997-06-11	1998-11-22	0	26
+Claudette Bradshaw	Bradshaw, C.	Minister of Labour	1998-11-23	2003-12-11	0	26
+Herbert Eser Gray	Gray, H. E.	Leader of the Government in the House of Commons	1993-11-04	1997-06-10	0	26
+Don Boudria	Boudria, D.	Leader of the Government in the House of Commons	1997-06-11	2002-01-14	0	26
+Ralph E. Goodale	Goodale, R. E.	Leader of the Government in the House of Commons	2002-01-15	2002-05-25	0	26
+Don Boudria	Boudria, D.	Leader of the Government in the House of Commons	2002-05-26	2003-12-11	0	26
+Michel Dupuy	Dupuy, M.	Minister of Multiculturalism and Citizenship	1993-11-04	1996-01-24	0	26
+Sheila Copps	Copps, S.	Minister of Multiculturalism and Citizenship	1996-01-25	1996-05-01	0	26
+Sheila Copps	Copps, S.	Minister of Multiculturalism and Citizenship	1996-06-19	1996-07-11	0	26
+David Michael Collenette	Collenette, D. M.	Minister of National Defence	1993-11-04	1996-10-04	0	26
+Douglas Young	Young, D.	Minister of National Defence	1996-10-04	1997-06-10	0	26
+Arthur C. Eggleton	Eggleton, A. C.	Minister of National Defence	1997-06-11	2002-05-26	0	26
+John McCallum	McCallum, J.	Minister of National Defence	2002-05-26	2003-12-11	0	26
+Diane Marleau	Marleau, D.	Minister of National Health and Welfare	1993-11-04	1996-01-24	0	26
+David Charles Dingwall	Dingwall, D. C.	Minister of National Health and Welfare	1996-01-25	1996-07-11	0	26
+David Anderson	Anderson, D.	Minister of National Revenue	1993-11-04	1996-01-24	0	26
+Jane Stewart	Stewart, J.	Minister of National Revenue	1996-01-25	1997-06-10	0	26
+Herb Dhaliwal	Dhaliwal, H.	Minister of National Revenue	1997-06-11	1999-08-02	0	26
+Martin Cauchon	Cauchon, M.	Minister of National Revenue	1999-08-03	2002-01-14	0	26
+Elinor Caplan	Caplan, E.	Minister of National Revenue	2002-01-15	2003-12-11	0	26
+Anne McLellan	McLellan, A.	Minister of Natural Resources	1995-01-12	1997-06-10	0	26
+Ralph E. Goodale	Goodale, R. E.	Minister of Natural Resources	1997-06-11	2002-01-14	0	26
+Herb Dhaliwal	Dhaliwal, H.	Minister of Natural Resources	2002-01-15	2003-12-11	0	26
+Marcel Masse	Masse, M.	President of the Privy Council	1993-11-04	1996-01-24	0	26
+Stephane Dion	Dion, S.	President of the Privy Council	1996-01-25	2003-12-11	0	26
+David Charles Dingwall	Dingwall, D. C.	Minister of Public Works	1993-11-04	1996-01-24	0	26
+Diane Marleau	Marleau, D.	Minister of Public Works	1996-01-25	1996-07-11	0	26
+Diane Marleau	Marleau, D.	Minister of Public Works and Government Services	1996-07-12	1997-06-10	0	26
+Alfonso Gagliano	Gagliano, A.	Minister of Public Works and Government Services	1997-06-11	2002-01-14	0	26
+Don Boudria	Boudria, D.	Minister of Public Works and Government Services	2002-01-15	2002-05-25	0	26
+Ralph Goodale	Goodale, R.	Minister of Public Works and Government Services	2002-05-26	2003-12-11	0	26
+Sergio Marchi	Marchi, S.	Secretary of State of Canada	1993-11-04	1996-01-24	0	26
+Lucienne Robillard	Robillard, L.	Secretary of State of Canada	1996-01-25	1996-07-12	0	26
+Herbert Eser Gray	Gray, H. E.	Solicitor General of Canada	1993-11-04	1997-06-10	0	26
+Andy Scott	Scott, A.	Solicitor General of Canada	1997-06-11	1998-11-23	0	26
+Lawrence MacAulay	MacAulay, L.	Solicitor General of Canada	1998-11-23	2002-10-22	0	26
+Arnold Wayne Easter	Easter, A. W.	Solicitor General of Canada	2002-10-22	2003-12-11	0	26
+David Charles Dingwall	Dingwall, D. C.	Minister of Supply and Services	1993-11-04	1996-01-24	0	26
+Diane Marleau	Marleau, D.	Minister of Supply and Services	1996-01-25	1996-07-11	0	26
+Douglas Young	Young, D.	Minister of Transport	1993-11-04	1996-01-24	0	26
+David Anderson	Anderson, D.	Minister of Transport	1996-01-25	1997-06-10	0	26
+David Michael Collenette	Collenette, D. M.	Minister of Transport	1997-06-11	2003-12-11	0	26
+Arthur C. Eggleton	Eggleton, A. C.	President of the Treasury Board	1993-11-04	1996-01-24	0	26
+Marcel Masse	Masse, M.	President of the Treasury Board	1996-01-25	1999-08-02	0	26
+Lucienne Robillard	Robillard, L.	President of the Treasury Board	1999-08-03	2003-12-11	0	26
+David Michael Collenette	Collenette, D. M.	Minister of Veterans Affairs	1993-11-04	1996-10-04	0	26
+Douglas Young	Young, D.	Minister of Veterans Affairs	1996-10-04	1997-06-10	0	26
+Fred J. Mifflin	Mifflin, F. J.	Minister of Veterans Affairs	1997-06-11	1999-08-02	0	26
+George Baker	Baker, G.	Minister of Veterans Affairs	1999-08-03	2000-10-16	0	26
+Ronald J. Duhamel	Duhamel, R. J.	Minister of Veterans Affairs	2000-10-17	2002-01-14	0	26
+Rey Pagtakhan	Pagtakhan, R.	Minister of Veterans Affairs	2002-01-15	2003-12-11	0	26
+Lloyd Axworthy	Axworthy, L.	Minister of Western Economic Diversification	1993-11-04	1996-01-24	0	26
+John Manley	Manley, J.	Minister of Western Economic Diversification	1996-01-25	2000-10-16	0	26
+Brian Tobin	Tobin, B.	Minister of Western Economic Diversification	2000-10-17	2002-01-14	0	26
+Allan Rock	Rock, A.	Minister of Western Economic Diversification	2002-01-15	2003-12-11	0	26
+Robert Speller	Speller, R.	Minister of Agriculture and Agri-Food	2003-12-12	2004-07-19	0	27
+Andrew Mitchell	Mitchell, A.	Minister of Agriculture and Agri-Food	2004-07-20	2005-06-27	0	27
+Andrew Mitchell	Mitchell, A.	Minister of Agriculture and Agri-Food	2005-06-28	2006-02-05	0	27
+Joseph McGuire	McGuire, J.	Minister for the purpose of the Atlantic Canada Opportunities Agency Act	2003-12-12	2006-02-05	1	27
+Helene Chalifour Scherrer	Scherrer, H. C.	Minister of Canadian Heritage	2003-12-12	2004-07-19	0	27
+Liza Frulla	Frulla, L.	Minister of Canadian Heritage	2004-07-20	2006-02-05	0	27
+Judy Sgro	Sgro, J.	Minister of Citizenship and Immigration	2003-12-12	2005-01-14	0	27
+Giuseppe (Joseph) Volpe	Volpe, G. (.	Minister of Citizenship and Immigration	2005-01-14	2006-02-05	0	27
+Mauril Belanger	Belanger, M.	Deputy Leader of the Government in the House of Commons	2003-12-12	2004-07-19	0	27
+Mauril Belanger	Belanger, M.	Deputy Leader of the Government in the House of Commons	2004-07-20	2005-05-16	0	27
+Mauril Belanger	Belanger, M.	Deputy Leader of the Government in the House of Commons	2005-05-17	2006-02-05	0	27
+Anne McLellan	McLellan, A.	Deputy Prime Minister	2003-12-12	2006-02-05	1	27
+Jacques Saada	Saada, J.	Minister of the Economic Development Agency of Canada for the Regions of Quebec	2005-10-05	2006-02-05	0	27
+David Anderson	Anderson, D.	Minister of the Environment	2003-12-12	2004-07-19	0	27
+Stephane Dion	Dion, S.	Minister of the Environment	2004-07-20	2006-02-05	0	27
+Ralph E. Goodale	Goodale, R. E.	Minister of Finance	2003-12-12	2006-02-05	1	27
+Geoff Regan	Regan, G.	Minister of Fisheries and Oceans	2003-12-12	2006-02-05	1	27
+William Graham	Graham, W.	Minister of Foreign Affairs	2003-12-12	2004-07-19	0	27
+Pierre Stewart Petitgrew	Petitgrew, P. S.	Minister of Foreign Affairs	2004-07-20	2006-02-05	0	27
+Pierre Stewart Petitgrew	Petitgrew, P. S.	Minister of Health	2003-12-12	2004-07-19	0	27
+Ujjal Dosanjh	Dosanjh, U.	Minister of Health	2004-07-20	2006-02-05	0	27
+Belinda Stronach	Stronach, B.	Minister of Human Resources and Skills Development	2005-10-05	2006-02-05	0	27
+Liza Frulla	Frulla, L.	Minister of Human Resources Development	2003-12-12	2004-07-19	0	27
+Ken Dryden	Dryden, K.	Minister of Human Resources Development	2004-07-20	2005-10-04	0	27
+Andrew Mitchell	Mitchell, A.	Minister of Indian Affairs and Northern Development	2003-12-12	2004-07-19	0	27
+Andy Scott	Scott, A.	Minister of Indian Affairs and Northern Development	2004-07-20	2006-02-05	0	27
+Lucienne Robillard	Robillard, L.	Minister of Industry	2003-12-12	2004-07-19	0	27
+David Emerson	Emerson, D.	Minister of Industry	2004-07-20	2006-02-05	0	27
+M. Aileen Carroll	Carroll, M. A.	Minister for International Cooperation	2003-12-12	2004-01-19	0	27
+M. Aileen Carroll	Carroll, M. A.	Minister for International Cooperation	2004-01-20	2006-02-05	0	27
+James Scott Peterson	Peterson, J. S.	Minister for International Trade	2003-12-12	2006-02-05	1	27
+Irwin Cotler	Cotler, I.	Minister of Justice and Attorney General of Canada	2003-12-12	2006-02-05	1	27
+Claudette Bradshaw	Bradshaw, C.	Minister of Labour	2003-12-12	2004-07-19	0	27
+Joseph Frank Fontana	Fontana, J. F.	Minister of Labour	2004-07-20	2006-02-05	0	27
+Jacques Saada	Saada, J.	Leader of the Government in the House of Commons	2003-12-12	2004-07-19	0	27
+Tony Valeri	Valeri, T.	Leader of the Government in the House of Commons	2004-07-20	2006-02-05	0	27
+Albina Guarnieri	Guarnieri, A.	Associate Minister of National Defence	2003-12-12	2004-07-19	0	27
+Mauril Belanger	Belanger, M.	Associate Minister of National Defence	2004-07-20	2006-02-05	0	27
+David Pratt	Pratt, D.	Minister of National Defence	2003-12-12	2004-07-19	0	27
+William Graham	Graham, W.	Minister of National Defence	2004-07-20	2006-02-05	0	27
+Stan Kazmierczak Keyes	Keyes, S. K.	Minister of National Revenue	2003-12-12	2004-07-19	0	27
+John McCallum	McCallum, J.	Minister of National Revenue	2004-07-20	2006-02-05	0	27
+Ruben John Efford	Efford, R. J.	Minister of Natural Resources	2003-12-12	2006-02-05	1	27
+Denis Coderre	Coderre, D.	President of the Queen's Privy Council for Canada	2003-12-12	2004-07-19	0	27
+Lucienne Robillard	Robillard, L.	President of the Queen's Privy Council for Canada	2004-07-20	2006-02-05	0	27
+Anne McLellan	McLellan, A.	Minister of Public Safety and Emergency Preparedness	2005-04-04	2006-02-05	0	27
+Stephen Owen	Owen, S.	Minister of Public Works and Government Services	2003-12-12	2004-07-19	0	27
+Scott Brison	Brison, S.	Minister of Public Works and Government Services	2004-07-20	2006-02-05	0	27
+Ken Dryden	Dryden, K.	Minister of Social Development	2005-10-05	2006-02-05	0	27
+Anne McLellan	McLellan, A.	Solicitor General of Canada	2003-12-12	2004-07-19	0	27
+Anne McLellan	McLellan, A.	Solicitor General of Canada	2004-07-20	2005-04-03	0	27
+Tony Valeri	Valeri, T.	Minister of Transport	2003-12-12	2004-07-19	0	27
+Jean-C. Lapierre	Lapierre, J.	Minister of Transport	2004-07-20	2006-02-05	0	27
+Reginald B. Alcock	Alcock, R. B.	President of the Treasury Board	2003-12-12	2006-02-05	1	27
+John McCallum	McCallum, J.	Minister of Veterans Affairs	2003-12-12	2004-07-19	0	27
+Albina Guarnieri	Guarnieri, A.	Minister of Veterans Affairs	2004-07-20	2006-02-05	0	27
+Rey D. Pagtakhan	Pagtakhan, R. D.	Minister of Western Economic Diversification	2003-12-12	2004-07-19	0	27
+Stephen Owen	Owen, S.	Minister of Western Economic Diversification	2004-07-20	2006-02-05	0	27
+Chuck Strahl	Strahl, C.	Minister of Agriculture and Agri-Food	2006-02-06	2007-08-14	0	28
+Gerry Ritz	Ritz, G.	Minister of Agriculture and Agri-Food	2007-08-14	2015-10-18	0	28
+Peter Gordon MacKay	MacKay, P. G.	Minister for the purpose of the Atlantic Canada Opportunities Agency Act	2006-02-06	2010-01-19	0	28
+Keith Ashfield	Ashfield, K.	Minister for the purpose of the Atlantic Canada Opportunities Agency Act	2010-01-19	2013-07-15	0	28
+Bernard Valcourt	Valcourt, B.	Minister for the purpose of the Atlantic Canada Opportunities Agency Act	2013-07-15	2015-10-18	0	28
+Beverley J. Oda	Oda, B. J.	Minister of Canadian Heritage	2006-02-06	2007-08-14	0	28
+Josee Verner	Verner, J.	Minister of Canadian Heritage	2007-08-14	2008-10-30	0	28
+James Moore	Moore, J.	Minister of Canadian Heritage	2008-10-30	2013-07-15	0	28
+Shelly Glover	Glover, S.	Minister of Canadian Heritage	2013-07-15	2015-10-18	0	28
+Monte Solberg	Solberg, M.	Minister of Citizenship and Immigration	2006-02-06	2007-01-04	0	28
+Diane Finley	Finley, D.	Minister of Citizenship and Immigration	2007-01-04	2008-10-30	0	28
+Jason Kenney	Kenney, J.	Minister of Citizenship and Immigration	2008-10-30	2013-07-15	0	28
+Chris Alexander	Alexander, C.	Minister of Citizenship and Immigration	2013-07-15	2015-10-18	0	28
+Jean-Pierre Blackburn	Blackburn, J.	Minister of the Economic Development Agency of Canada for the Regions of Quebec	2006-02-06	2008-10-30	0	28
+Christian Paradis	Paradis, C.	Minister of the Economic Development Agency of Canada for the Regions of Quebec	2008-10-30	2011-05-18	0	28
+Denis Lebel	Lebel, D.	Minister of the Economic Development Agency of Canada for the Regions of Quebec	2011-05-18	2015-10-18	0	28
+Pierre Poilievre	Poilievre, P.	Minister of Employment and Social Development	2015-02-09	2015-10-18	0	28
+Rona Ambrose	Ambrose, R.	Minister of the Environment	2006-02-06	2007-01-04	0	28
+John Baird	Baird, J.	Minister of the Environment	2007-01-04	2008-10-30	0	28
+Jim Prentice	Prentice, J.	Minister of the Environment	2008-10-30	2010-11-05	0	28
+John Baird	Baird, J.	Minister of the Environment	2010-11-05	2011-01-04	0	28
+Peter Kent	Kent, P.	Minister of the Environment	2011-01-04	2013-07-15	0	28
+Leona Aglukkaq	Aglukkaq, L.	Minister of the Environment	2013-07-15	2015-10-18	0	28
+James Michael Flaherty	Flaherty, J. M.	Minister of Finance	2006-02-06	2014-03-19	0	28
+Joe Oliver	Oliver, J.	Minister of Finance	2014-03-19	2015-10-18	0	28
+Loyola Hearn	Hearn, L.	Minister of Fisheries and Oceans	2006-02-06	2008-10-30	0	28
+Gail Shea	Shea, G.	Minister of Fisheries and Oceans	2008-10-30	2011-05-18	0	28
+Keith Ashfield	Ashfield, K.	Minister of Fisheries and Oceans	2011-05-18	2013-07-15	0	28
+Gail Shea	Shea, G.	Minister of Fisheries and Oceans	2013-07-15	2015-10-18	0	28
+Peter Gordon MacKay	MacKay, P. G.	Minister of Foreign Affairs	2006-02-06	2007-08-14	0	28
+Maxime Bernier	Bernier, M.	Minister of Foreign Affairs	2007-08-14	2008-05-26	0	28
+David Emerson	Emerson, D.	Minister of Foreign Affairs	2008-05-29	2008-10-30	0	28
+Lawrence Cannon	Cannon, L.	Minister of Foreign Affairs	2008-10-30	2011-05-18	0	28
+John Baird	Baird, J.	Minister of Foreign Affairs	2011-05-18	2015-02-03	0	28
+Robert Douglas Nicholson	Nicholson, R. D.	Minister of Foreign Affairs	2015-02-09	2015-10-18	0	28
+Tony Clement	Clement, T.	Minister of Health	2006-02-06	2008-10-30	0	28
+Leona Aglukkaq	Aglukkaq, L.	Minister of Health	2008-10-30	2013-07-15	0	28
+Rona Ambrose	Ambrose, R.	Minister of Health	2013-07-15	2015-10-18	0	28
+Diane Finley	Finley, D.	Minister of Human Resources and Skills Development	2006-02-06	2007-01-04	0	28
+Monte Solberg	Solberg, M.	Minister of Human Resources and Skills Development	2007-01-04	2008-10-30	0	28
+Diane Finley	Finley, D.	Minister of Human Resources and Skills Development	2008-10-30	2013-07-15	0	28
+Jason Kenney	Kenney, J.	Minister of Human Resources and Skills Development	2013-07-15	2013-08-16	0	28
+Jason Kenney	Kenney, J.	Minister of Human Resources and Skills Development	2013-08-16	2015-02-09	0	28
+Jim Prentice	Prentice, J.	Minister of Indian Affairs and Northern Development	2006-02-06	2007-08-14	0	28
+Chuck Strahl	Strahl, C.	Minister of Indian Affairs and Northern Development	2007-08-14	2010-08-06	0	28
+John Duncan	Duncan, J.	Minister of Indian Affairs and Northern Development	2010-08-06	2013-02-15	0	28
+Bernard Valcourt	Valcourt, B.	Minister of Indian Affairs and Northern Development	2013-02-22	2015-10-18	0	28
+Maxime Bernier	Bernier, M.	Minister of Industry	2006-02-06	2007-08-14	0	28
+Jim Prentice	Prentice, J.	Minister of Industry	2007-08-14	2008-10-30	0	28
+Tony Clement	Clement, T.	Minister of Industry	2008-10-30	2011-05-18	0	28
+Christian Paradis	Paradis, C.	Minister of Industry	2011-05-18	2013-07-15	0	28
+James Moore	Moore, J.	Minister of Industry	2013-07-15	2015-10-18	0	28
+Josee Verner	Verner, J.	Minister for International Cooperation	2006-02-06	2007-08-14	0	28
+Beverley J. Oda	Oda, B. J.	Minister for International Cooperation	2007-08-14	2012-07-04	0	28
+Julian Fantino	Fantino, J.	Minister for International Cooperation	2012-07-04	2013-07-15	0	28
+Christian Paradis	Paradis, C.	Minister for International Cooperation	2013-07-15	2015-10-18	0	28
+David Emerson	Emerson, D.	Minister for International Trade	2006-02-06	2008-06-25	0	28
+Michael Fortier	Fortier, M.	Minister for International Trade	2008-06-25	2008-10-30	0	28
+Stockwell Day	Day, S.	Minister for International Trade	2008-10-30	2010-01-19	0	28
+Peter Van Loan	Loan, P. V.	Minister for International Trade	2010-01-19	2011-05-18	0	28
+Edward Fast	Fast, E.	Minister for International Trade	2011-05-18	2015-10-18	0	28
+Vic Toews	Toews, V.	Minister of Justice and Attorney General of Canada	2006-02-06	2007-01-04	0	28
+Robert Douglas Nicholson	Nicholson, R. D.	Minister of Justice and Attorney General of Canada	2007-01-04	2013-07-15	0	28
+Peter Gordon MacKay	MacKay, P. G.	Minister of Justice and Attorney General of Canada	2013-07-15	2015-10-18	0	28
+Jean-Pierre Blackburn	Blackburn, J.	Minister of Labour	2006-02-06	2008-10-30	0	28
+Rona Ambrose	Ambrose, R.	Minister of Labour	2008-10-30	2010-01-19	0	28
+Lisa Raitt	Raitt, L.	Minister of Labour	2010-01-19	2013-07-15	0	28
+Khristinn Kellie Leitch	Leitch, K. K.	Minister of Labour	2013-07-15	2015-10-18	0	28
+Robert Douglas Nicholson	Nicholson, R. D.	Leader of the Government in the House of Commons	2006-02-06	2007-01-04	0	28
+Peter Van Loan	Loan, P. V.	Leader of the Government in the House of Commons	2007-01-04	2008-10-30	0	28
+Jay D. Hill	Hill, J. D.	Leader of the Government in the House of Commons	2008-10-30	2010-08-06	0	28
+John Baird	Baird, J.	Leader of the Government in the House of Commons	2010-08-06	2011-05-18	0	28
+Peter Van Loan	Loan, P. V.	Leader of the Government in the House of Commons	2011-05-18	2015-10-18	0	28
+Julian Fantino	Fantino, J.	Associate Minister of National Defence	2011-05-18	2012-07-04	0	28
+Bernard Valcourt	Valcourt, B.	Associate Minister of National Defence	2012-07-04	2013-02-22	0	28
+Kerry-Lynne Findlay	Findlay, K.	Associate Minister of National Defence	2013-02-22	2013-07-15	0	28
+Julian Fantino	Fantino, J.	Associate Minister of National Defence	2015-01-05	2015-10-18	0	28
+Gordon O'Connor	O'Connor, G.	Minister of National Defence	2006-02-06	2007-08-14	0	28
+Peter Gordon MacKay	MacKay, P. G.	Minister of National Defence	2007-08-14	2013-07-15	0	28
+Robert Douglas Nicholson	Nicholson, R. D.	Minister of National Defence	2013-07-15	2015-02-09	0	28
+Jason Kenney	Kenney, J.	Minister of National Defence	2015-02-09	2015-10-18	0	28
+Carol Skelton	Skelton, C.	Minister of National Revenue	2006-02-06	2007-08-14	0	28
+Gordon O'Connor	O'Connor, G.	Minister of National Revenue	2007-08-14	2008-10-30	0	28
+Jean-Pierre Blackburn	Blackburn, J.	Minister of National Revenue	2008-10-30	2010-01-19	0	28
+Keith Ashfield	Ashfield, K.	Minister of National Revenue	2010-01-19	2011-05-18	0	28
+Gail Shea	Shea, G.	Minister of National Revenue	2011-05-18	2013-07-15	0	28
+Kerry-Lynne Findlay	Findlay, K.	Minister of National Revenue	2013-07-15	2015-10-18	0	28
+Gary Lunn	Lunn, G.	Minister of Natural Resources	2006-02-06	2008-10-30	0	28
+Lisa Raitt	Raitt, L.	Minister of Natural Resources	2008-10-30	2010-01-19	0	28
+Christian Paradis	Paradis, C.	Minister of Natural Resources	2010-01-19	2011-05-18	0	28
+Joe Oliver	Oliver, J.	Minister of Natural Resources	2011-05-18	2014-03-19	0	28
+Greg Rickford	Rickford, G.	Minister of Natural Resources	2014-03-19	2015-10-18	0	28
+Michael D. Chong	Chong, M. D.	President of the Queen's Privy Council for Canada	2006-02-06	2006-11-26	0	28
+Peter Van Loan	Loan, P. V.	President of the Queen's Privy Council for Canada	2006-11-27	2007-01-04	0	28
+Rona Ambrose	Ambrose, R.	President of the Queen's Privy Council for Canada	2007-01-04	2008-10-30	0	28
+Josee Verner	Verner, J.	President of the Queen's Privy Council for Canada	2008-10-30	2011-05-18	0	28
+Peter Penashue	Penashue, P.	President of the Queen's Privy Council for Canada	2011-05-18	2013-03-14	0	28
+Denis Lebel	Lebel, D.	President of the Queen's Privy Council for Canada	2013-03-19	2015-10-18	0	28
+Stockwell Day	Day, S.	Minister of Public Safety and Emergency Preparedness	2006-02-06	2008-10-30	0	28
+Peter Van Loan	Loan, P. V.	Minister of Public Safety and Emergency Preparedness	2008-10-30	2010-01-19	0	28
+Vic Toews	Toews, V.	Minister of Public Safety and Emergency Preparedness	2010-01-19	2013-07-15	0	28
+Steven Blaney	Blaney, S.	Minister of Public Safety and Emergency Preparedness	2013-07-15	2015-10-18	0	28
+Christian Paradis	Paradis, C.	Minister of Public Works and Government Services	2008-06-25	2010-01-19	0	28
+Rona Ambrose	Ambrose, R.	Minister of Public Works and Government Services	2010-01-19	2013-07-15	0	28
+Diane Finley	Finley, D.	Minister of Public Works and Government Services	2013-07-15	2015-10-18	0	28
+Lawrence Cannon	Cannon, L.	Minister of Transport	2006-02-06	2008-10-30	0	28
+John Baird	Baird, J.	Minister of Transport	2008-10-30	2010-08-06	0	28
+Chuck Strahl	Strahl, C.	Minister of Transport	2010-08-06	2011-05-18	0	28
+Denis Lebel	Lebel, D.	Minister of Transport	2011-05-18	2013-07-15	0	28
+Lisa Raitt	Raitt, L.	Minister of Transport	2013-07-15	2015-10-18	0	28
+John Baird	Baird, J.	President of the Treasury Board	2006-02-06	2007-01-04	0	28
+Vic Toews	Toews, V.	President of the Treasury Board	2007-01-04	2010-01-19	0	28
+Stockwell Day	Day, S.	President of the Treasury Board	2010-01-19	2011-05-18	0	28
+Tony Clement	Clement, T.	President of the Treasury Board	2011-05-18	2015-10-18	0	28
+Gregory Francis Thompson	Thompson, G. F.	Minister of Veterans Affairs	2006-02-06	2010-01-19	0	28
+Jean-Pierre Blackburn	Blackburn, J.	Minister of Veterans Affairs	2010-01-19	2011-05-18	0	28
+Steven Blaney	Blaney, S.	Minister of Veterans Affairs	2011-05-18	2013-07-15	0	28
+Julian Fantino	Fantino, J.	Minister of Veterans Affairs	2013-07-15	2015-01-05	0	28
+Erin O'Toole	O'Toole, E.	Minister of Veterans Affairs	2015-01-05	2015-10-18	0	28
+Carol Skelton	Skelton, C.	Minister of Western Economic Diversification	2006-02-06	2007-01-04	0	28
+Rona Ambrose	Ambrose, R.	Minister of Western Economic Diversification	2007-01-04	2008-10-30	0	28
+Jim Prentice	Prentice, J.	Minister of Western Economic Diversification	2008-10-30	2010-11-05	0	28
+Rona Ambrose	Ambrose, R.	Minister of Western Economic Diversification	2010-11-05	2015-10-18	0	28

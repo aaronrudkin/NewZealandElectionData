@@ -1,0 +1,5 @@
+1. Assemble list of prime ministers
+2. Run cabinet scraper
+3. Run election results scraper
+4. Run party name scraper
+5. Copy relevant files to Merge folder and run processResults to merge data.

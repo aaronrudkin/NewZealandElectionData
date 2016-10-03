@@ -1,0 +1,8 @@
+1. Code elections from 1946 to 1993 and by elections.
+2. Get 1943 election data and manually fill in incumbency in 1946 data.
+2. Run scrapers for 1996, 1999, and 2002-onwards data
+3. Manually code 1996 data from pdfs
+4. Merge all data, making sure column order matches
+5. Simplify party names, which are represented variously across history
+6. Manually adjust candidates with no given names, legacy candidates who are women (since the source book added "Ms", "Mrs", or "Miss" to names) as well as candidates who were knighted.
+7. Result is Full Results Before Processing.txt

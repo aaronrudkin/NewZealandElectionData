@@ -1,0 +1,1 @@
+ wget -r -I /electionresults_1996/pdf/ http://www.electionresults.govt.nz/electionresults_1996/pollingplaces.html

@@ -1,0 +1,28 @@
+John A. Macdonald	1867-07-01	1873-11-05
+Alexander Mackenzie	1873-11-07	1878-10-08
+John A. Macdonald	1878-10-17	1891-06-06
+John Abbott	1891-06-16	1892-11-24
+John Thompson	1892-12-05	1894-12-12
+Mackenzie Bowell	1894-12-21	1896-04-27
+Charles Tupper	1896-05-01	1896-07-08
+Wilfred Laurier	1896-07-11	1911-10-06
+Robert Borden	1911-10-10	1920-07-10
+Arthur Meighen	1920-07-10	1921-12-29
+William Lyon Mackenzie King	1921-12-29	1926-06-28
+Arthur Meighen	1926-06-29	1926-09-25
+William Lyon Mackenzie King	1926-09-25	1930-08-07
+R. B. Bennett	1930-08-07	1935-10-23
+William Lyon Mackenzie King	1935-10-23	1948-11-15
+Louis St-Laurent	1948-11-15	1957-06-21
+John Diefenbaker	1957-06-21	1963-04-22
+Lester B. Pearson	1963-04-22	1968-04-20
+Pierre Trudeau	1968-04-20	1979-06-03
+Joe Clark	1979-06-04	1980-03-02
+Pierre Trudeau	1980-03-03	1984-06-29
+John Turner	1984-06-30	1984-09-16
+Brian Mulroney	1984-09-17	1993-06-24
+Kim Campbell	1993-06-25	1993-11-03
+Jean Chretien	1993-11-04	2003-12-11
+Paul Martin	2003-12-12	2006-02-05
+Stephen Harper	2006-02-06	2015-11-03
+Justin Trudeau	2015-11-04	2016-12-31

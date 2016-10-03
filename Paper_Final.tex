@@ -1,0 +1,425 @@
+\documentclass[letter,12pt]{article}
+\usepackage[pdftex]{graphicx} % Embedding graphics
+\usepackage{grffile} % Embedding graphics with spaces
+\usepackage{color} % Using colour
+\usepackage[margin=1in,top=1in]{geometry} % Set margins
+\usepackage{parskip} % No idea
+\usepackage{setspace} % No idea
+\usepackage{fancyhdr} % Better headers
+\usepackage{indentfirst} % Indent first paragraph
+\usepackage{placeins} % To force images to not behave stupid as hell
+\usepackage{amsmath} % Fancy math functions
+\usepackage{amsfonts}
+\usepackage{pdfpages}
+\usepackage{tikz} % For trees
+\usetikzlibrary{trees} % For trees
+\usepackage{hanging} % hanging indent
+\usepackage{enumitem}
+\usepackage{units}
+\usepackage[hang,flushmargin]{footmisc} 
+\usepackage{pdflscape}
+\usepackage{geometry}
+\usepackage{hvfloat}
+
+% Header Setup
+\pagestyle{fancy} 
+\fancyhf{}
+\rhead{Aaron Rudkin}
+\lhead{\textbf{Electoral Returns to Cabinet: Canada and New Zealand}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{1.2pt}
+%*************
+
+% Footer for landscape page.
+\fancypagestyle{fancynohead}{
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+}
+% *******
+
+% Setup for title page
+\newcommand*{\customTitle}{\begingroup
+\pagestyle{empty}
+\vspace*{0.05\textheight}
+\noindent\Huge\bfseries Electoral Returns to Cabinet: Canada and New Zealand
+\vspace*{0.05\textheight}
+
+\noindent\Large \textsc{Aaron Rudkin\footnote{I thank Natalie McNaught from the New Zealand Electoral Commission for her assistance securing and digitizing paper election records. My thanks also to Luke Sonnet, Adam Boche, Jeff Lewis, Michael F. Thies, and Kathy Bawn for input at various stages during this project. Any errors or omissions are my own. Replication data and code is available at: \textcolor{blue}{https://github.com/aaronrudkin/CabinetEffect}}}
+\vspace*{0.1\textheight}
+
+\normalsize
+\textbf{\underline{Abstract}}
+
+\textmd{Although a long body of research has considered cabinet formation from the perspective of parties and coalitions, research on individual incentives to join cabinet has been limited thus far. Electoral benefits, which may stem from particularistic spending, differential credit claiming capacity, or party investment, provide one motivation to join cabinet. Martin (2016) uses Irish data to present evidence for electoral returns from cabinet membership. I extend Martin's analysis using a novel electoral dataset I constructed, examining Canada and New Zealand post-1945. In the Canadian data, I find a modest but substantively relevant positive effect, robust to alternate specifications and aggregations of the data. By contrast, the New Zealand data shows little to no effect. Limitations including endogeneity in cabinet selection, the observational nature of the data, limited biographical data, and the failure of the key result to replicate across institutional and cultural contexts suggest caution is warranted before drawing broader global conclusions.}
+
+\newpage
+\endgroup}
+%*************
+
+\begin{document}
+\customTitle
+
+\setlength{\parindent}{24pt}
+\setstretch{2}
+\pagenumbering{arabic}
+
+\section*{Introduction}
+Cabinet formation has long been considered from the perspective of parties and coalitions. When forming a cabinet, parties must ask who to include to please constituencies, geographies, factions within the party, and coalition partners. But parties are not monoliths, they are aggregations of members with individual preferences and goals. (M{\"u}ller and Str{\o}m 2000) Among the goals sought by any legislator are ability to achieve policy outcomes; personal and career satisfaction; service to party; and re-election. (Fenno 1978) Joining cabinet plausibly assists with the first three of these goals, but \textit{do cabinet ministers additionally receive an electoral return in the form of higher vote shares or increased electoral survival}? This question is a relevant consideration for MPs considering joining a cabinet, parties considering electoral strategy, and researchers seeking to understand the behaviour of legislators and the incentives they face.
+
+Past evidence suggests that governing parties incur a ``cost of governing'', which individual members can mitigate or overcome by means of developing a personal vote. (Narud and Valen 2008; Akkerman and Lange 2012) This paper extends Martin (2016), who found a strong electoral effect associated with joining cabinet in Ireland. I test two national cases: Canada and New Zealand. The Canadian case reveals a robust but modest effect across specifications, while New Zealand demonstrates no consistent effect.
+
+I continue by presenting relevant past work; explaining case selection, dataset construction, and research design; presenting empirical results; and conclude by discussing possible reasons for dissonance between the Canadian and New Zealand results.
+
+\section*{Theory and Past Work}
+
+Downs (1957), Key (1964), and Mayhew (1974) are among early authors who explained legislative and party behaviour as being animated by desire for re-election. Mayhew articulates three mechanisms by which legislators earn re-election: advertising, credit claiming, and position taking. Fenno (1978) takes a broader view of legislator behaviour and expands on the ways in which legislators form relationships with their constituents to secure re-election. An essential tension exists: on one hand, incumbent governments pay an electoral cost for governing. (Mershon 1996) On the other hand, a widely documented incumbent advantage makes staying elected an easier proposition than winning an open election. Incumbents deter competition and enjoy resource advantages. (Erikson 1971; Carson 2005; Ban, Llaudet, and Snyder 2016; Gelman and King 1990)
+
+Legislators seek to maximize their incumbency advantage while minimizing their costs of governing. Cain, Ferejohn, and Fiorina (1984) articulate how constituency service can be used to build a ``personal vote''. The incentives to earn a personal vote vary by electoral and institutional context. Systems where voters choose candidates directly offer the highest incentive for a personal vote, because members can be rewarded or protected by developing a reputation beyond that of their party. (Carey and Shugart 1995) The tools available to members also vary by context. Parliamentary systems impose whipped voting and use scheduling rules to prohibit backbenchers from advancing substantive business, theoretically limiting the ability of members to distinguish themselves outside the party. This has ramifications for the way in which legislators see their roles, what they hope to accomplish in a legislature, if they will continue to serve, and how they situate themselves with respect to their voters.
+
+Studies of particularistic legislative spending find that legislators gain electoral advantage through the delivery of spending and targeted policy goods. In a US congressional context, studies focus on the ability of individual legislators to secure spending for their home districts through amendments to broader spending bills and through committee membership. Parliamentary systems limit the ability of backbenchers to achieve these benefits on their own. Instead, the theory proposes that a cartel logic takes hold. In one telling of the story, the governing party uses distribution of particularistic benefits to benefit all its members. But this effect does not vary from member to member and would be more meaningfully targeted at marginal ridings: it is a party-level effect. In the cabinet story, cabinet ministers have control over the shape of policy and spending within their particular ministry. Cabinet ministers support each other through the targeted provision of these goods in concert with one another: what Martin (2016) terms ``executive particularism.'' Preliminary work in a variety of national settings finds that such particularistic spending occurs at the cabinet level. (John, Ward, and Dowding 2004; Denemark 2000)
+
+Martin's ``Policy, Office, and Votes: The Electoral Value of Ministerial Office'' is the only published work that focuses on quantifying electoral advantage conferred by cabinet membership. Martin analyzes Irish data beginning in 1980. The empirical component tests two simple models. A cross-sectional association finds that cabinet ministers on average earn 8.5\% more of their electoral quota\footnote{Martin's dependent variable is percentage of minimum electoral quota earned from first-choice ballots, a choice that is not relevant in the electoral contexts studied in this paper.} than like non-ministers. A model with change in vote share as the dependent variable finds that while government members face an 8\% cost of governing, cabinet ministers erase this cost with an 8.7\% return from cabinet membership. Martin ends with a claim that ``the broad theory... is likely to be unassailable'' and an invitation to extend the analysis to different institutional and electoral environments, including mixed-member proportional systems.
+
+In addition to executive particularism, exposure may also be a driver of electoral success. Additional media exposure and the opportunity to hold credit claiming events in concert with spending or legislation may assist cabinet ministers. Evidence suggests that credit claiming is an important part of the ability to capitalize electorally on the delivery of spending or policy goods. (Grimmer, Messing, and Westwood 2012; Bickers, Evans, Stein, and Wrinkle 2007) To the extent that ministers enjoy a differential ability to claim credit, they should reap rewards for doing so.
+
+\section*{Case Selection}
+The ideal cases to test for a cabinet effect are Westminster parliamentary democracies with a long history of competitive elections, clearly defined cabinets drawn from elected lower houses, incumbents elected primarily from district-level elections, a norm against district-switching by incumbents, and a tendency towards single-party government. Selecting for the latter allows the research to avoid engaging the complexities of cabinet appointment in a coalition setting, intra-election coalition changes. (Laver and Shepsle 1996) I narrow my choice of cases to Australia, Canada, Ireland (studied by Martin), New Zealand, and the United Kingdom. I selected Canada and New Zealand from these initial cases.
+
+Canada is a Westminster parliamentary democracy established in 1867. It features a 338 member lower house, an appointed upper house that as a matter of convention does not impede government business, and a first-past-the-post electoral system. Canadian has never formed a coalition government, preferring by convention minority governments. The dominant social cleavages are ethno-linguistic between English and French regions of Canada, followed by core-periphery inter-provincial tensions. Canada has historically been governed by one of two parties: the Liberal Party and the Progressive Conservative Party (after 2004, the Conservative Party). Minor regional parties have achieved some electoral success. The effective number of political parties\footnote{A measure of party competition, where $N = \frac{1}{\sum_{i=1}^n p_i^2}$, with parties 1 through \textit{n} each occupying a $p_i$ share of seats. The measure was developed by Laakso and Taagepara (1979).} during the time studied varies from 1.5 to 3.2. Once they have contested an election, candidates do not switch ridings in subsequent elections, although parachuting of star candidates into politically opportune ridings occurs among first-time candidates. (Koop and Bittner 2011) Elections in Canada are relatively low cost with bans on corporate and union donations, extensive public funding, and spending caps. Major party candidates typically spend in the order of \$75,000 per four-year election.
+
+Canadian Prime Ministers enjoy broad latitude to make cabinet appointments, subject only to informal norms with respect to the representation of each province in cabinet, the allocation of certain portfolios to relevant areas (for example, the Fisheries ministry is traditionally given to an MP from one of Canada's coastal provinces), and increasingly representation of gender, immigrant groups, and occupational diversity. A survival analysis of cabinet entry in Canada found that gender, legal experience, education, age, and past ministerial tenure were major predictors of selection, while margin of victory and regional support were not. (Kerby 2009) Over time, cabinets in Canada have become increasingly professionalized and technocratic, a trend also observed in other developed democracies (Lammers and Nyomarkay 1982; Pekkanen, Nyblade, and Krauss 2013; Berlinski, Dewan, Dowding, and Subrahmanyam 2009)
+
+New Zealand is a Westminster parliamentary democracy established in 1852. Historically it featured a lower house with fewer than 100 members, a perfunctory upper house abolished in 1950, and a first-past the post electoral system with reserved electorates for voters who self-identified as indigenous Maori. Dissatisfaction with the two major political parties, National and Labour, and repeated majority governments elected by weak pluralities of popular vote support, New Zealand enacted electoral reform beginning in the 1996 national election. The current electoral system is closed-list mixed-member proportional with a low minimum vote threshold for representation, and consists of approximately 121 seats including 71 electorate seats. The effective number of political parties varied from 1.76 to 2.16 before MMP and 2.78 to 3.76 after MMP. Governments post-MMP have either featured formal supply agreements or coalitions with minor parties. Elections in New Zealand are extremely low-expense, with major party candidates spending in the order of \$20,000 per three-year election.
+
+In principle, Labour governments in New Zealand historically allowed their entire caucus to vote on cabinet membership, but in practice Prime Ministers are allowed considerable leeway to expand or shrink the size of cabinet and allocate portfolios among those selected. (Alley 1989; Wood 1989) Cabinets typically include representation from both of New Zealand's islands and from urban and rural areas. The Minister of Maori Affairs position is often filled by a Maori legislator, and increasingly the representation of women in cabinet has been a relevant factor. (Curtin 2015)
+
+Both countries share a variety of cultural and institutional factors: both feature high levels of parliamentary discipline and practice cabinet collective responsibility. Expulsion from cabinet, caucus, and denial of renomination are the primary punishments available to enforce discipline. Neither country has a formal primary election mechanism, instead delegating candidate nominations to district-level parties, who by custom do not remove incumbents for reasons other than non-compliance with party leadership or scandal. (Levine 1979; Wood 1989) Canada has a norm of allowing ``conscience votes'' on social issues when such votes do not impede legislation from proceeding. Finally, both cases are known to practice ``government by cabinet'', with inert backbenches and powerful cabinets. (Henderson 1989)
+
+New Zealand and Canada differ in terms of incumbency. Canada by some measures has the lowest level of incumbency among developed countries, while New Zealand has above-average incumbency. (Matland and Studlar 2004) Incumbency has a profound effect on cabinet selection: in the Canadian low-incumbency situation, ascendant governments are typically forced to assemble a cabinet while appointing less experienced members of caucus. (Kerby 2015)
+
+\section*{Data}
+The dataset I use is novel. Existing election data suffers from limitations that renders it inappropriate for use to study my questions of interest. Much of the data is aggregated above the constituency level; constituency level data is often missing names and characteristics of individual candidates necessary to establish incumbency across redistricting or district switching and convert the data into a panel; and data typically does not include cabinet membership covariates.
+
+As a result, I assembled a dataset containing full, constituency-level electoral data for all candidates and legislators in Canada from 1867 forward, and New Zealand from 1945 forward.\footnote{Canadian cabinet ministers before 1931 were expected to immediately resign from the House of Commons upon being appointed and then run in by-elections to regain the seat they resigned. To avoid the complexity of this feature of the data and the tail end of a party system transition occurring in the 1930s, I discard data before the 1945 federal election.} Canadian data was obtained by writing a series of web scrapers and harvested from Canadian Library of Parliament sources. New Zealand data was assembled using previously published volumes\footnote{Wood 1996; Norton 1988}, paper returns supplied by the NZ Electoral Commission and digitized for the first time for this project, and web scrapers for data from 1996 onwards.
+
+After combining and cleaning the data, the next challenge was being able to connect legislators across elections. To deal with internal inconsistencies in the reporting format of district names, party names, and candidate names, I wrote a text analysis program that uses candidate metadata to match candidates across elections to assemble the panel. Clear candidate matches were automatically identified, while unclear matches prompt the user to make a manual coding decision which is saved for replication.
+
+My dataset is exhaustive as to candidates who stood for election in a district, but a small number of New Zealand MPs have been elected from the party list without contesting an electorate, including some cabinet ministers. These MPs are not represented in the dataset as they did not stand for election individually.\footnote{One example: Deputy Prime Minister Bill English, a long-time electorate incumbent who switched to list-only despite huge electorate majorities to minimize his travel commitment and time away from family. There is no electoral benefit to being list-only.}
+
+\section*{Research Design}
+
+This paper tests one major hypothesis: Do cabinet ministers enjoy an electoral advantage compared to backbenchers?
+
+The primary limitation when considering this question is severe endogeneity. The ``gold standard'' to tackle this problem would be to experimentally appoint cabinet ministers through random assignment and measure causal effects. Reality is not so kind: Parties select cabinet ministers to satisfy objectives including rewarding key constituencies, demographics, and policy demanders within the party and coalition partners. Moreover, parties have access to private signals about incumbent quality learned during the recruitment, vetting, and campaigning process that are not fully accounted for at the time of their first election. These latent candidate qualities may become obvious during the process of legislating, but unrelated to cabinet appointment: Koop and Bittner (2011) argue that ``star candidates'' are much more likely to be appointed to cabinet. Given these concerns, the claims made here cannot be said to be causal: effects here are associations, suggestive of a relationship, but not decisive.
+
+Tables in this paper present a main model and a model that ``replicates'' Martin's comparable design. I run alternative specifications to test robustness of the observed effects and include these in Appendices 1-4.
+
+The paper consists of four core modeling approaches:
+\setstretch{1.5}
+\begin{enumerate}
+	\item \textbf{Cross-sectional OLS of panel data}.  Dependent variable: Vote Share
+	\item \textbf{OLS controlling for past performance}. Dependent variables: Vote Share; Change in Vote Share.
+	\item \textbf{Cross-sectional logistic regression}. Dependent variable: Probability of re-election
+	\item \textbf{Cox proportional hazard survival analysis}. Dependent variable: Incumbent Re-election Rate
+\end{enumerate}
+\setstretch{2}
+
+George Box remarked that ``All models are wrong, but some are useful''. This aphorism is a reminder that model specification is not designed to uncover ``truth'', it is designed to uncover useful patterns in the data at hand to support or refute theory. In keeping with this observation, it is likely that the models presented here omit variables due to limitations of data, theory, or imagination. Of particular note, the scope of this project rendered it impossible to collect richer biographical covariate data on candidates. Subsequent research that can gather such data could explain residual variation in candidate quality and more clearly isolate the effect of interest or allow a more robust selection on observables causal identification strategy. In the mean time, the modeled variables are as follows:
+
+\setstretch{1.5}
+\begin{itemize}
+\item \textit{VotePct}: The vote share of the candidate.
+\item \textit{CabinetNow}: The candidate was a member of the cabinet during the preceding term. I exclude Ministers Outside Cabinet, Junior Ministers, Ministers Without Portfolio, and other minor quasi-cabinet roles but include Deputy Prime Ministers and Attorneys General.\footnote{I also do not model ministerial exit from cabinet or role-switching mid-term, so in principle some of the \textit{CabinetNow} incumbents have been removed from cabinet before the election. Evidence suggests that ministerial exit is predicted by poor performance (Berlinkski, Dewan, and Dowding 2010) or scandal, (Dewan and Myatt 2007; Dewan and Dowding 2005) so this modeling decision should cause effect estimates to be biased conservatively.}
+\item \textit{CabinetImportant}: The candidate was an ``important'' minister of the cabinet during the preceding term. ``Importance'' is a subjective definition and includes Defence, Health, Justice, Finance, Public Works, Revenue, and Foreign ministries. This variable exists to capture heterogeneity in the cabinet effect; senior ministers are presumed to have more discretion with respect to particularistic spending, more control over policy outcomes, and greater capacity to cultivate a personal vote through media exposure and credit claiming.
+\item \textit{CabinetPM}: Dummy variable for the Prime Minister, regardless of whether they were an incumbent member of the legislature. The inclusion of a control for Prime Ministers is intended to absorb some of the positive residual expected for a sitting Prime Minister and not properly attributed to a cabinet effect.
+\item \textit{Incumbent}: Candidate is an incumbent member of the legislature. I treat candidates as incumbent even if redistricting occurs, or if the candidate was previously elected by party list and now contests an electorate. Incumbency is known to be a strong factor in probability of re-election.
+\item \textit{TermsServed}: The total unbroken number of terms served by a candidate. Tenure does not reset if an incumbent resigns and runs in a by-election, but does reset if a candidate loses or resigns and later returns to the legislature. I treat by-elected members as serving a full time. Tenure is present in the model to capture the accumulated effects of developing a personal vote (or, at least, a reputation of competency) in an incumbent's district over time.
+\item \textit{Age}: The age of the candidate at the time of the election. Only available for a subset of Canadian candidates who were elected to office at least once. Age was gathered to allow for a proxy for signals of candidate quality including occupation, past electoral and career experience.
+\item \textit{Elected}: Binary indicator for election outcome.
+\item \textit{Party}: Party label the member ran under. I recode minor parties or splinter faction labels to be Independent.
+\item \textit{PartyInGovt}: Candidate is running for the party currently governing. In New Zealand post-1996, I include junior coalition partner parties but not parties in supply agreements with the governing party. This variable was constructed in order to account for the ``electoral costs of governing''.
+\end{itemize}
+\setstretch{2}
+
+Although the dataset includes raw vote count, models privilege \textit{VotePct} as a dependent variable. Raw vote count obscures serious differences in population size between districts (total vote count within districts varies from 2000 votes to 183,000 votes in Canada; and between 1,000 votes and 100,000 votes in New Zealand). Moreover, on a per-candidate basis, raw vote count gives the appearance that candidates in a competitive but high turnout race are more successful than candidates who dominate a low-turnout race.
+
+One additional variable is included in the dataset but omitted from models: \textit{CabinetEver}, which would model the effects of having ever been appointed to cabinet. The inclusion of this variable in early model tests induced severe multicollinearity as measured by variance inflation factor diagnostics.
+
+\section*{Results}
+\subsection*{Cross-Sectional OLS}
+
+The first stage of analysis, mirroring Martin, is fitting a cross-sectional OLS regression to the data.\footnote{An inconvenient feature of both countries is a large number of ``nuisance'' candidates: fringe candidates running as independents or on behalf of minor or protest parties that have never won election, earning a tiny fraction of the vote, generally not campaigning, often non-resident or not physically present in their district. Candidates for Canada's ``Rhinoceros Party'' and New Zealand's ``McGillicuddy Serious Party'' are among those in this category. These candidates share no common support with the population of interest, and so are excluded. Because excluding these cases could be seen as ``selection on the dependent variable''---albeit in a conservative direction---I run every model presented in the main paper on the full dataset. Results on covariates of interest are not materially affected by excluding these cases.} I regress \textit{VotePct} against \textit{CabinetNow}, \textit{CabinetImportant}, and \textit{CabinetPM}, \textit{PartyInGovt}, \textit{TermsServed} and \textit{Party} fixed effects.
+
+\setstretch{1}
+\input{"Includes/model1"}
+\setstretch{2}
+
+In Canada, the coefficient on \textit{CabinetNow} is positive and substantively relevant but modest. The confidence interval spans from 1.5\% to 4.8\%. The coefficients suggest that cabinet ministers tend to out-perform comparable non-cabinet minister candidates by 3.1\% on average. To illustrate substantively, 690 contests in the Canadian dataset were decided by margins below 3.1\%, including 45 in the 2015 election. Alternatively, the model suggests that appointment to cabinet is electorally equivalent to three fifths of an extra term served.\footnote{OLS embeds a series of strong modeling assumptions. Model diagnostics validate these assumptions: a QQ plot reveals approximately normal errors; a check for leverage using Cook's distance measures suggest few high-leverage cases and comparable modeling results when excluding these cases; multicollinearity is not present in the data modeled; and heteroskedasticity-robust standard errors are reported.}
+
+To ensure that the association observed is not a artifact of model specifics, I test alternative specifications to ensure robustness. It is probable that a cluster structure exists in the data at the riding level, so I re-run the model with clustered standard errors at the district level and find a slightly wider but substantively similar confidence interval. The effect is also similar when substituting simple incumbency for \textit{TermsServed}, when adding district fixed effects, and when adding \textit{Age} as a proxy for candidate quality.\footnote{Coefficient estimates from the age model should generally be regarded as unreliable. Age data is available only for those who have been elected at least once, and is missing at non-random within this group; more recent members and longer-tenured members are more likely to have complete age data.} Finally, to ensure that effects are not limited to particular time periods, I disaggregate the data by decade; although standard error inflation due to lowered power makes interpretation more perilous, 6 out of 7 decades retain positive effect size estimates.
+
+The effect's appearance in Canada contrasts its absence in New Zealand. Effect estimates in the main model are small (1.3\%) with confidence intervals spanning substantively unimportant territory. Martin's model reveals a small effect of 2.1\%, but is likely picking up correlation between tenure and cabinet selection due to the excluded tenure variable. Additional specifications are inconsistent as to whether the effect size is substantively interesting. Disaggregating by decade or election above demonstrates no consistency. High goodness of fit in relatively parsimonious models indicates that much of the variation in performance is driven by the covariates modeled (particularly party), despite limited cabinet effects. Further analysis as to why New Zealand may behave differently than Ireland or Canada is left until later.
+
+\subsection*{Controlling for Past Performance}
+
+Cabinet ministers are more popular, but not necessarily because they are cabinet ministers. In fact, there is evidence to the contrary: A cross-sectional logistic regression of probability being selected into the Canadian Cabinet based on age, tenure, and previous performance suggests that previous performance matters a great deal. In the modal case, a 50 year old sophomore MP of the governing party is much 50\% more likely to be appointed a cabinet minister if she comes from a 70\% blowout win than a 40\% plurality win. 
+
+Multiple strategies exist for modelling past performance. Martin's model uses the $\Delta VotePct$ approach, where the dependent variable is the difference in vote share between elections, which assumes the following model:
+
+\setstretch{1.25}
+\begin{eqnarray*}
+	\Delta y_i &=& \beta X_i + \epsilon_i =\\
+	y_{i,t} - y_{i,t-1} &=& \beta X_i + \epsilon_i = \\
+	y_{i,t} &=& \beta X_i + y_{i,t-1} + \epsilon_i
+\end{eqnarray*}
+\setstretch{2}
+The assumption about the relationship between previous performance and current performance is explicit. Incumbents begin with their previous vote share, and the model fit determines how the covariates are associated with deviations from that share.\footnote{This is conceptually difference from a true ``fixed effects'' model, which also differences out predictor covariates.} A second choice to control for past performance is a lagged dependent variable. This is a weaker assumption; in this model, past performance is merely associated with present vote share, with the strength of the relationship permitted to vary:
+
+\setstretch{1}
+\begin{eqnarray*}
+	y_{i,t} = \beta X_i + \gamma y_{i,t-1} + \epsilon
+\end{eqnarray*}
+\newpage
+\newgeometry{left=1cm,bottom=1.5cm}
+\thispagestyle{fancynohead}
+\begin{landscape}
+\input{"Includes/model2"}
+\end{landscape}
+\restoregeometry
+
+\setstretch{2} As expected, endogeneity stemming from the relationship between popularity and cabinet selection in the previous term drives some of the effect. Controlling for past performance, the coefficient estimate of \textit{CabinetNow} (as well as tenure and party) decreases markedly in Canada. In the primary, controlling-for-past-performance model, the effect size is reduced to 1.2\% on average (with the confidence interval permitting interpretations of anything from essentially no effect to an effect smaller than initial cross-sectional estimates). The $\Delta VotePct$ model effects are even smaller still at 0.8\% and include the possibility of no effect.\footnote{A third possibility to control for past performance is to introduce individual fixed effects. This model also results in a smaller estimate of approximately 0.7\% effect for cabinet service with a confidence interval including no effect.} In New Zealand, meanwhile, the effect is negative in all three specifications, although modest in each. 
+
+Roughly three quarters of the original dataset are dropped to run these models, causing a severe loss of power---but it is clear that the effect magnitude is reduced in Canada and entirely compromised in New Zealand. Serial autocorrelation in the error structure induced by this strategy is another potential threat to estimate validity. Disaggregation of the CA Control model by decade reveals further inconsistency in the result, with striking effects in the 1980s and 1990s, weaker effects in the 1950s, and near-zero or very weakly negative effects in other decades.
+
+Compared with the cross-sectional model, the theorized ``cost of governing'' becomes apparent in both countries: incumbents whose parties are in government pay a large cost to their vote share. Considering the first difference vote model, which has the clearest interpretation, sophomore Liberal backbenchers in Canada face a -2.5\% mean vote swing, while sophomore Labour in New Zealand face a -3.4\% mean vote swing.\footnote{Effect estimate combines intercept, party fixed effect, party in government effect, and a term served.} Unlike Martin's Irish findings, however, this cost is not fully repaid by cabinet membership in either country.
+
+\subsection*{Cross-sectional Logistic Regression}
+
+If legislators are concerned with election and re-election, their aim is to maximize not just vote share, but probability of being re-elected. A just-so anecdote is no evidence for a broader model, but in the 1993 Canadian federal election which saw the incumbent Progressive Conservatives reduced from 156 seats to 2 seats---perhaps the single worst election performance by an incumbent government in an OECD country---the only surviving PC incumbent was Environment Minister Jean Charest.\footnote{Cabinet membership does not explain this \textbf{alone}. The emergence of the Bloc Quebecois siphoning votes from Liberal and NDP candidates in the Sherbrooke riding, Charest's large vote cushion from prior elections, and high personal popularity are all contributors. Still, the cabinet platform afforded Charest resources, public profile, and a reputation as a ``rising star'' with the party--illustrating both the endogeneity inherent in this study and the value of quantifying effects across the broader dataset.}
+
+Given an outcome of interest that is a binary indicator variable (\textit{Elected}), logistic regression is an appropriate framework for modeling covariate associations with the outcome. The dependent variable of the models are \textit{Pr(Elected)}. Otherwise, predictor variables are unchanged.
+
+\setstretch{1}
+\input{"Includes/model3"}
+\setstretch{2}
+
+Again, the effect is visible and substantively relevant, although modest in size, in Canada. Logistic regression coefficients are not clearly interpretable, but when transformed into odds ratios and predicted probabilities, they become clearer. Using bootstrap resampling to estimate the effect of cabinet membership\footnote{\noindent 1000 samples via nonparametric bootstrap, calculating predicted probabilities for representative case and taking difference to recover effect and CI.}, a two-term incumbent Liberal backbencher in a Liberal government would have a 73\% (71\% - 76\%) probability to be re-elected while a cabinet minister with the same characteristics would have an 81\% (75\% - 86\%) probability of re-election. A 95\% empirical confidence interval of the effect spans 1.2\%-12.5\%, centered at 7.5\%. As with the above example, the effect is about half the size of an additional term of tenure: modest, but real. The result remains invariant to alternate model specifications tested, including consistent positive effects (some with too little power to rule out no effect) across the disaggregation by decade.
+
+Once again, New Zealand's effect is inconsistent. The basic model shows no effect and a grotesque effect for \textit{CabinetPM}, likely because incumbent Prime Ministers have won every single election they contested in New Zealand.\footnote{This effect size is driven by the breakdown of the logistic regression form in extremely high/low probability situations. There are few enough cases that this does not exert any real leverage on the other coefficients; re-running the model without Prime Ministers, or without including \textit{CabinetPM} in the model does not materially alter other estimates.} Of note in the Martin model is the enormous effect of incumbency; Labour non-incumbents are predicted to have a 20\% chance of election while Labour incumbents are predicted to have an 88\% chance of re-election. A similar effect accrues in the main model after a few terms of tenure. With all incumbents so protected, the logistic regression cannot pick up on an effect of substance for cabinet ministers. 
+
+I disaggregate results from New Zealand into two models, representing the time periods before and after the transition to the mixed-member proportional system. This reveals a reversal in trend; before the MMP transition, cabinet membership has a small negative effect, possibly none, on re-election--after the MMP transition, cabinet membership has a strong positive effect. A sophomore backbench National incumbent before MMP has a 51\% predicted probability of re-election while a cabinet minister has a 45\% predicted probability of re-election. After the MMP transition, the numbers are 59\% and 79\% respectively. These results form Appendix 3.
+
+\subsection*{Survival Analysis of Incumbents}
+
+My final approach to analyzing the data is a Cox proportional hazard model of incumbent survival over their careers. Survival models are useful to estimate longitudinal effects across the time of a study (here, across the tenure of a member's career). Cox PH follow the functional form:
+
+\setstretch{1.25}
+\begin{eqnarray*}
+	\lambda(t | X_i) &=& \lambda_0(t) exp(\beta X_i)
+\end{eqnarray*}
+\setstretch{2}
+\indent The dependent variable is the chance that an individual will fail to be re-elected at term \textit{t} of their career, conditional on covariates \textit{X}. Cox PH models estimate two things: the baseline hazard (general shape of how incumbents drop off as tenure increases) and the way in which covariates modify this baseline. The baseline hazard is non-parametric (flexible in form and data-driven). Covariates of interest affect the baseline multiplicatively, and are interpreted as ``hazard ratios''€™. A hazard ratio of 2x for a binary predictor like \textit{CabinetNow}, for example, implies that someone in cabinet is twice as likely to lose re-election as the baseline case at a given time \textit{t}.
+
+The survival model regresses the survival rate dependent variable $\lambda(t | X_i)$ against the covariates \textit{CabinetNow}, \textit{CabinetImportant}, \textit{CabinetPM}, \textit{PartyInGovt}, and fixed effects for parties.
+
+\begin{figure}
+\centering
+\caption{Survival Model, Canada}
+\includegraphics[width=0.60\textwidth]{"Includes/survivalModelCA"}
+\label{fig:SurvCanada}
+\end{figure}
+
+\setstretch{1}
+\input{"Includes/model4"}
+\setstretch{2}
+
+Given the functional form of Cox PH, we can substantively interpret the exponentiated coefficient as a hazard ratio. The model results tell us that in Canada, Cabinet Ministers are 0.77x as likely to be defeated as their backbench counterparts (with a confidence interval from 0.59x to 0.99x). 
+
+The survival function is visualized in Figure \ref{fig:SurvCanada}.\footnote{The plotted hazard functions are for Liberals with \textit{PartyinGovt}. } The stairstep shape of the functions reflect the discrete nature of the data; defeat occurs only at the end of each term. By three terms, the ``survival'' rate of MPs is below 50\%. Only a very small proportion of MPs survive 10+ terms. Cabinet ministers are visible in red on the graph: they have a higher survival rate.
+
+The New Zealand case again reveals no effect; estimates suggest the hazard ratio for \textit{CabinetNow} is 0.89x, but the confidence interval of this estimate is sufficiently wide so as to include everything from a large reduction in risk to a moderate increase in risk.
+
+The major assumption underpinning the Cox PH model is proportionality; in other words, that covariates affect the hazard rate in a constant way across the time variable. A test of this assumption using Schoenfeld residuals finds insufficient evidence to reject the null hypothesis (proportional hazards) for the \textit{CabinetNow} variable and validates the Cox PH model.
+
+\subsection*{Modeling ``Voluntary'' Exit}
+
+One major data issue poses a challenge to the validity of the above results: the absence of observations for defeat for renomination, retirement, or death. Incumbents who exit without losing re-election simply disappear from the dataset and to not impact effect estimates.
+
+Considering these cases in turn: In Canada and New Zealand, nominations are decided by local party offices and are rarely contested, but scandal-ridden or misbehaving incumbents are occasionally denied re-nomination. When an incumbent fails to be renominated, their omission from the dataset causes what amounts to a sampling bias. Incumbents who retire may do so for personal reasons (including family or health reasons, running for local political office, moving to the private sector) or because they credibly fear electoral defeat and would prefer the grace of retirement.\footnote{Incumbents may also retire due to dissatisfaction with office; past work finds this is quite common among all early retirements. (Hall and Van Houweling 1995; Kerby and Blidook 2011) Satisfaction is clearly a return from office, but it is outside the scope of this paper.} Work in the US context, where fundraising for re-election is a full time job, suggests incumbents have an awareness of their future electoral chances, and particularly those dealing with scandal choose to retire rather than lose. (Hibbing 1982; Groseclose and Krehbiel 1994) The exclusion of incumbents who retire due to impending electoral defeat creates sample bias.
+
+The effect of this exclusion can be tested for by creating synthetic observations for each incumbent who exits the dataset without being defeated before the end of the dataset. This modeling choice is inappropriate in models with vote share DVs, since it would require a counterfactual assumption about how the incumbent would have performed. When the object of study is mere re-election, the assumption required is weaker: that the incumbent left rather than being defeated.
+
+However, including these observations risks the opposite problem: by including incumbents who retire due to non-electoral circumstances or who have died, it makes them appear as though they faced electoral failure when they may well not have. In future work, it could be appropriate to specifically model these scenarios by gathering data on retirement motivation, using actuarial data for death rates, and explicitly deciding which cases to reinsert. Some cases are fundamentally ambiguous even with data: when an incumbent federal incumbent switches to provincial politics, is it because she senses an opportunity at the provincial level, or because she senses a lack of opportunity at the federal level?
+
+Despite this uncertainty, it is important to address this omitted data, particularly in the Canadian case where prior research indicates high voluntary early turnover and a fairly ``amateur'' legislature. (Kerby and Blidook 2011) I create synthetic observations for all 1,042 Canadian and 359 New Zealand incumbents who disappear from the data-set without losing an election, excepting those still elected at the time of the final general election. The two models serve as ``brackets'' to the true population of interest, which would include some but not all of the synthetic observations.
+
+\setstretch{1}
+\input{"Includes/model5"}
+\setstretch{2}
+
+\begin{figure}
+\centering
+\caption{Survival Model with Synthetic Observations, Canada}
+\includegraphics[width=0.60\textwidth]{"Includes/combinedModelCA"}
+\end{figure}
+
+In Canada, \textit{CabinetNow}'s hazard ratio is closer to 1x and the confidence interval now touches 1x (no effect). This reflects the fact that the new synthetic data over-represents cabinet ministers compared with the observed data. The extent to which these changes are driven by non-election motivated exits versus election-motivated exits is unclear and will require future work to assess.
+
+\begin{figure}
+\centering
+\caption{Survival Model with Synthetic Observations, NZ}
+\includegraphics[width=0.60\textwidth]{"Includes/combinedModelNZ"}
+\end{figure}
+
+In New Zealand, by contrast, the effect becomes pronounced. Suddenly, cabinet ministers are only 60\% as likely as backbenchers to fail to be re-elected. Because the real world data did not show an effect, the synthetic data show a pronounced effect, and we know that electorate turnover and failure to earn renomination are rare, the most likely explanation is that cabinet ministers in New Zealand voluntarily exit far less often than backbenchers, presumably because of continued career satisfaction, party service, or policy returns--not the primary object of study here. Regardless, the synthetic results in New Zealand do not pass the smell test.
+
+\section*{New Zealand Party Lists}
+New Zealand was chosen as a case in order to gain leverage on the problem in an MMP setting. In MMP, party lists cannot harm re-election prospects: Given that an incumbent is defeated at the district level, they can do no worse than continue to lose if their list position is too low; meanwhile, some will be placed high enough on the list to be saved from defeat. In the New Zealand context, the two major parties are virtually ensured the election of the top half of their list.
+
+The theoretical mechanisms for the cabinet effect are also applicable in this institutional setting. Voters who choose major party candidates at the electorate level were over 80\% likely to select the same party on the list vote in 2014.\footnote{Statistics are available for all elections since 2002, and the lowest rate of straight-ticket voting for a major party was Labour 2008, 77.5\%.} If particularistic spending, credit claiming, and profile raising benefit the legislator, they also likely benefit her party. And although Mcleay and Vowles (2007) argue that list MPs see their role in parliament as distinct from that of electorate MPs, most list MPs still contest electorates and have an electoral incentive to be competitive on both fronts.\footnote{I address a formal theoretic counterargument about party incentives under MMP below.} If theory predicts an even stronger cabinet effect under MMP, what explains the results presented thusfar?
+
+Do parties protect cabinet ministers through list positions? I consider party list construction among the two major parties, Labour and National. Both parties field full lists of 60 or more candidates.\footnote{A small minority of members do not stand on the party list. I code absence from the party list as equivalent to ranking one rank below the final member on the list.} I construct a list of inter-election party list rank transitions. I take the difference between list ranks across elections and subset to groups in order to analyze list behaviour. Individuals entering cabinet from outside move up the list an average of 8 spaces (n=45) However, those who remain outside cabinet \textit{also} move up the list an average of 9 spaces (n=318). Parties do protect their incumbents, but this privilege is extended to all incumbents, not just cabinet members. If Cabinet Ministers do gain any differential protection, it is because they enter cabinet near the top of the list, not because of a commitment to protect them simply due to their presence in cabinet.
+
+The incumbent protection function of party lists is even more obvious when tracing list positions over career trajectory. Non-incumbent candidates are typically placed very low on party lists, entering the data-set at an average of 54th list position. Many of these candidates are seat-fillers in non-competitive electorates included in the party list to round out the full complement. Non-incumbents who win election have a mean position of 44th--higher, but still not very high, and the modal means of entry remains winning the electorate rather than election from the list. One election later, these sophomore incumbents move up the list an average of ten spaces. At this point in their tenure, they remain at a stable position across subsequent terms until retirement or electoral defeat, relatively safe in their positions.
+
+\section*{Other New Zealand Considerations}
+
+\begin{figure}[!htb]
+\centering
+\caption{Electorate-Level Competition in New Zealand}
+\includegraphics[width=1\textwidth]{"New\space Zealand\space Data/Merge/electorateHist"}
+\label{fig:histElectorateControl}
+\end{figure}
+
+Extremely high incumbency seems at the heart of why there is little room for electoral returns to cabinet membership in New Zealand. Of the 173 electorates which held at least two elections in the dataset, 84 have never experienced a party turnover. Those who have had competition have relatively little. Figure \ref{fig:histElectorateControl} shows a weighted histogram of electorate-level competition.\footnote{Weighted according to number of elections, y-axis label suppressed due to non-interpretability of resulting units} An unweighted histogram shows a similar result. Of the 73 long-running electorates, only 6 experience a turnover at least 25\% of the time, and the mean turnover rate sits at a meagre 13\%. In Canada, the mean turnover rate is 33\%.
+
+While geographical realignment is a common feature over long time horizons in other developed democracies, transitions in the governing party in New Zealand were typically driven by seat flips at the margin. For visualization of this effect, see Appendix 4 for a timeline of electorate contestation. If there is no threat of loss in many electorates, then there is little variation in outcome to be explained by the cabinet effect--a weak signal problem.
+
+Another possible formulation of why incumbency might impede an electoral effect for cabinet membership is in choice of appointments to cabinet. In countries with high incumbency, Prime Ministers can choose from a variety of long-term incumbents, many of whom have already accumulated the electoral benefits of tenure past the point of diminishing returns. By contrast, in a low-incumbency situation with volatile electoral swings, new governments must fill the cabinet ranks with relative novices who subsequently gain a reputation quickly. If the cabinet effect is merely a jump-starting of tenure through differential credit claiming, then we would expect countries with low incumbency to display comparatively higher effect sizes.
+
+Bawn and Thies (2003) use formal modeling to argue that parties must strike a balance between representing organized interests (interest groups) and unorganized interests (constituents). Under FPTP, parties have a clear motivation to select candidates who will be responsive to unorganized interests, who supply votes. Under proportional representation, parties care more about the resources and benefits they receive from interest groups than the votes earned at a riding level. Bawn and Thies argue that parties in mixed-member proportional systems have little incentive to be responsive to district concerns because they can be indifferent to the result of any one electorate, confident that they will still have the same sized caucus in the end. Although the point is well taken and may be part of the story here, Bawn and Thies are describing party incentives, not individual incentives. A party may be indifferent as to which legislators make up their complement, but individual legislators are certainly concerned with their own re-election and prefer to be competitive in the electorate as well as privileged enough to occupy a safe list position.
+
+In addition to discussions of incumbency under MMP and FPTP, New Zealand has some data challenges which might make effects difficult to ascertain. The New Zealand legislature is small among developed democracies, consisting of $\leq$70 seats before MMP, and so typically a large portion of the government bench are chosen as ministers. Consider the 1960-1963 National government. Of 46 National members, 22 had a cabinet positions coded in this dataset. With so many cabinet ministers controlling generally small ministries in generally small electorates, too little may be at stake for the cartel logic theorized by Martin to provide meaningful benefits at the whole cabinet level--but this is insufficient to explain why the \textit{CabinetImportant} variable, which should pick up effects on the most substantial ministries, behaves in an unstable way.
+
+This brief discussion of New Zealand's differences is not dispositive. Further study of the comparative institutions, both formal and informal, of Ireland, Canada, and New Zealand would be fruitful to establish theoretically viable differences to explain the effect's absence in the NZ setting. 
+
+\section*{Conclusion}
+Re-election motivated incumbents will seek out any opportunity to cultivate a personal vote, especially to inculcate themselves from the costs of governing. In a parliamentary system, few opportunities exist for individual legislators due to party discipline and dismal prospects for private member bills. Cabinet ministers, through particularistic spending and differential credit claiming abilities, can plausibly obtain electoral returns from their cabinet position. Martin's study of Irish legislators provides evidence for this effect. Quantitative testing of these returns is fraught with endogeneity, because parties select cabinet ministers, among other reasons, based on candidate quality. An exploratory approach using a principled modeling strategy and a variety of specifications find a robust but modest effect in Canadian data, and inconsistent or no effects in New Zealand data. 
+
+Additional information on legislators would allow for a more considered approach to managing the endogeneity inherent in this question. Subsequent work, in addition to expanding on the empirical measurement strategy, should directly probe the theoretical mechanism. Data on particularistic spending, policy goods, media coverage, constituency service, credit claiming, and other indicators of personal vote cultivation would allow a direct test of the mechanism--whether or not ministers are cultivating a personal vote--rather than the electoral implication--whether an electoral return from cabinet exists.
+
+One possible reason for the lower effect in New Zealand is high overall protection for incumbents, but further comparative research is needed across more electoral and cultural settings to establish whether this explanation is complete. Electoral returns from Cabinet do appear to exist in certain circumstances, but in contrast to Martin's expectation that the Irish result should be portable to a global context, caution is needed before proceeding to generalize.
+
+\newpage
+\setstretch{1}
+\section*{Appendix 1: Decade Disaggregation of Main Models}
+\input{"Includes/decadeDecompositionCA"}
+\input{"Includes/decadeDecompositionNZ"}
+
+
+\newpage
+\section*{Appendix 2: Alternate Specifications, Canada}
+\input{"Includes/appendix3"}
+
+\newpage
+\section*{Appendix 3: New Zealand Logit, Pre/Post MMP}
+\input{"Includes/appendix4"}
+
+\newpage
+\section*{Appendix 4: Electorate Contestation Timeline, NZ}
+\begin{figure}[!htb]
+\centering
+\caption{Timeline of Electorate Contestation, New Zealand}
+\includegraphics[width=1\textwidth]{"New\space Zealand\space Data/Merge/electorateControl"}
+\label{fig:ElectorateControl}
+\end{figure}
+
+\noindent Figure \ref{fig:ElectorateControl} depicts the subset of New Zealand electorates that contain (i) at least one party turnover event and (ii) exist for at least one third of the dataset. Even among the putatively competitive ridings, only a small cluster of electorates has meaningful competition.\footnote{Minor left parties include Green Party, Alliance, New Labour, Progressives, and NZ Social Credit. Minor right parties include Association of Consumers and Taxpayers, New Zealand First.} 
+
+\newpage
+\section*{References}
+\begin{hangparas}{.25in}{1}
+Akkerman, Tjitske and Sarah de Lange. ``Radical Right Parties in Office: Incumbency Records and the Electoral Cost of Governing.'' \textit{Government and Opposition} 47(4): pp. 574-596. 2012.
+
+Alley, Roderic. ``The Powers of the Prime Minister'' in Hyam Gold (ed.), \textit{New Zealand Politics in Perspective}. Auckland: Longman Paul. 1989. 
+
+Ban, Pamela, Elena Llaudet, and James Snyder. ``Challenger Quality and the Incumbency Advantage''. \textit{Legislative Studies Quarterly}, 41(1): pp. 153-179. 2016.
+
+Bawn, Kathleen and Michael F. Thies. ``A Comparative Theory of Electoral Incentives: Representing the Unorganized Under PR, Plurality and Mixed-Member Electoral Systems''. \textit{Journal of Theoretical Politics}, 15(1), pp. 5-32. 2003.
+
+Berlinski, Samuel, Torun Dewan, Keith Dowding, and Gita Subrahmanyan. ``Choosing, moving, and resigning at Westminster, UK'' in Keith Dowding and Patrick Dumont (eds.), \textit{The Selection of Ministers in Europe: Hiring and Firing}. New York: Routledge. 2009.
+
+Bickers, Kenneth, Diana Evans, Robert Stein, and Robert Winkle. ``The Electoral Effect of Credit Claiming for Pork Barrel Projects in Congress''. Presented at Annual Meeting of the American Political Science Association. 2007.
+
+Cain, Bruce, John Ferejohn, and Morris Fiorina. ``The Constituency Service Basis of the Personal Vote for U.S. Representatives and British Members of Parliament''. \textit{American Political Science Review}, 78(1): pp. 110-125. 1984.
+
+Carey, John and Matthew Shugart. ``Incentives to Cultivate a Personal Vote: a Rank Ordering of Electoral Formulas''. \textit{Electoral Studies}, 14(4): pp. 417-439. 1995.
+
+Carson, Jamie. ``Strategy, Selection, and Candidate Competition in U.S. House and Senate elections.'' \textit{Journal of Politics}, 67(1): pp. 1-28. 2005.
+
+Curtin, Jennifer. ``New Zealand: stability, change or transition? Achieving and retaining ministerial office.'' in Keith Dowding and Patrick Dumont (eds.), \textit{The Selection of Ministers around the World}. New York: Routledge. 2015.
+
+Denemark, David. ``Partisan Pork Barrel in Parliamentary Systems: Australian Constituency-Level Grants.'' \textit{Journal of Politics} 62(3): pp. 896-915. 2000.
+
+Downs, Anthony. \textit{An Economic Theory of Democracy}. New York: Harper, 1957.
+
+Erikson, Robert. ``The Advantage of Incumbency in Congressional Elections''. \textit{Polity} 3: pp. 395-405. 1971.
+
+Fenno, Richard F. \textit{Home Style: House Members in Their Districts}. Boston: Little, Brown, 1978.
+
+Gelman, Andrew and Gary King. ``Estimating Incumbency Advantage without Bias.'' \textit{American Journal of Political Science}, 34(4): pp. 1142-1164. 1990.
+
+Grimmer, Justin, Solomon Messing, and Sean Westwood. ``How Words and Money Cultivate a Personal Vote: The Effect of Legislator Credit Claiming on Constituent Credit Allocation.'' \textit{American Political Science Review} 106 (4): pp. 703?719. 2012.
+
+Groseclose, Tim and Keith Krehbiel. ``Golden parachutes, rubber checks, and strategic retirements from the 102nd House''. \textit{American Journal of Political Science}, 38(1): pp. 75-99. 1994.
+
+Hall, Richard and Robert Van Houweling. ``Avarice and ambition in Congress: Representatives' decisions to run or retire from the US House''. \textit{American Political Science Review}, 89(1): pp. 121-136. 1995.
+
+Henderson, John. ``The Operations of the Executive'' in Hyam Gold (ed.), \textit{New Zealand Politics in Perspective}. Auckland: Longman Paul. 1989.
+
+Hibbing, John. ``Voluntary Retirement from the U.S. House of Representatives: Who Quits?''. \textit{American Journal of Political Science}, 26(3): pp. 467-484. 1982.
+
+John, Peter, Hugh Ward, and Keith Dowding. ``The Bidding Game: Competitive Funding Regimes and the Political Targeting of Urban Programme Schemes.'' \textit{British Journal of Political Science}, 34(3): pp. 405-428. 2004.
+
+Kerby, Matthew. ``Worth the wait: determinants of ministerial appointment in Canada, 1935?2008''.\textit{Canadian Journal of Political Science}, 42(3): pp. 593?611. 2009.
+
+Kerby, Matthew and Kelly Blidook. ``It?s Not You, It?s Me: Determinants of Voluntary Legislative Turnover in Canada''. \textit{Legislative Studies Quarterly}, 36(4): pp. 621-643. 2011.
+
+Kerby, Matthew. ``Ministerial Careers in Canada'' in Keith Dowding and Patrick Dumont (eds.), \textit{The Selection of Ministers around the World}. New York: Routledge. 2015.
+
+Key, V. O. \textit{Politics, Parties, and Pressure Groups}. New York: Crowell. 1964.
+
+Koop, Royce and Amanda Bittner. ``Parachuted into Parliament: candidate nomination, appointed candidates, and legislative roles in Canada.''. \textit{Journal of Elections, Public Opinion, and Parties}, 21(4): pp. 431-452. 2011.
+
+Lammers, William and Joseph Nyomarkay. ``The Canadian Cabinet in Comparative Perspective''. \textit{Canadian Journal of Political Science}, 15(1): pp. 29-46. 1982.
+
+Laver, Michael and Kenneth Shepsle. \textit{Making and Breaking Governments}. Cambridge: Cambridge University Press. 1996.
+
+Levine, Stephen. \textit{The New Zealand Political System: Politics in a Small Society.} Sydney: George Allen \& Unwin. 1979.
+
+Martin, Shane. ``Policy, Office and Votes: The Electoral Value of Ministerial Office''. \textit{British Journal of Political Science}, 46(2): pp. 281-296. 2016.
+
+Matland, Richard and Donley Studlar. ``Determinants of Legislative Turnover: A Cross-National Analysis''. \textit{British Journal of Political Science}, 34(1): pp. 87-108. 2004.
+
+Mayhew, David. \textit{Congress: The Electoral Connection}. New Haven: Yale University Press. 1974.
+
+Mcleay, Elizabeth and Jack Vowles. ``Redefining constituency representation: the roles of New Zealand MPs under MMP''. \textit{Regional and Federal Studies}, 17(1): pp. 71?95. 2007.
+
+Mershon, Carol. ``The costs of coalition: Coalition theories and Italian governments''. \textit{American Political Science Review}, 90(3): pp. 534-554. 1996.
+
+M{\"u}ller, Wolfgang and Kaare Str{\o}m. \textit{Coalition Governments in Western Europe}. Oxford: Oxford University Press. 2000.
+
+Narud, Hanne and Henry Valen. ``Coalition Membership and Electoral Performance.'' in Str{\o}m, Kaare, Wolfgang M{\"u}ller, and Torbjorn Bergman (eds.), \textit{Cabinets and Coalition Bargaining: The Democratic Life Cycle in Western Europe}. Oxford: Oxford University Press. 2008.
+
+Norton, Clifford. \textit{New Zealand Parliamentary Election Results 1946-1987: Occasional Publications No 1, Department of Political Science}. Wellington: Victoria University of Wellington. 1988.
+
+Pekkanen, Robert, Benjamin Nyblade, and Ellis Krauss. ``The logic of ministerial selection: Electoral system and cabinet appointments in Japan.'' \textit{Social Science Japan Journal} JYT28. 2013.
+
+Laakso, Markku and Rein Taagepera. ``Effective Number of Parties: A Measure with Application to West Europe.'' \textit{Comparative Political Studies} 12(1): pp. 1-27. 1979
+
+Wood, G.A. ``The National Party'' in Hyam Gold (ed.), \textit{New Zealand Politics in Perspective}. Auckland: Longman Paul. 1989.
+
+Wood, G.A. \textit{Ministers and Members in the New Zealand Parliament}. Dunedin: University of Otago Press. 1996.
+\end{hangparas}
+\end{document}

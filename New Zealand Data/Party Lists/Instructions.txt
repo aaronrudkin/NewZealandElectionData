@@ -1,0 +1,9 @@
+1. Manually code 1996 party lists from pdf
+2. Run partyListProcessor1999.py to generate party lists for 1999
+3. Labour lists are off by one from #3 to #51, correct this manually
+	0 = not elected, 1 = won electorate, 2 = list elected.
+4. In addition, National list is off starting with Paul Hutchison.
+5. Stephnie de Ruyter is spelled incorrectly ("Stephanie") in the 1999 source documents. Correct her name.
+6. Alan Wise is spelled "Allan" in the 1999 source documents. Correct his name.
+5. Run partyListProcessor.py to generate party lists for 2002-2014
+6. Merge the results into partyLists.txt in this folder.
