@@ -77,7 +77,7 @@
 
 3. Datasets for final analysis:
 	Canada Data/Merge/output.csv
-	New Zealand Data/Merge./output.csv
+	New Zealand Data/Merge/output.csv
 		Main panel datasets
 	
 	Canada Data/SyntheticObs/synthOut.csv
