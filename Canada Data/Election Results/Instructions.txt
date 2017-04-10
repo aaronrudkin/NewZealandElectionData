@@ -1,2 +1,0 @@
-1. Run canadaResultsPull.py to generate election results and birthdates for known members (this scrape takes a LONG time--several hours)
-2. Copy files to merge folder
