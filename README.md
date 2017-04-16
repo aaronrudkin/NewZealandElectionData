@@ -9,6 +9,7 @@ The resulting data is contained in [output.csv](output.csv) in the root folder h
 # Citations
 
 Please link to this Github repository and cite as:
+
 Rudkin, Aaron. (2017). "New Zealand Election and Cabinet Data 1946-2015"
 
 # Contributions?
